@@ -1,0 +1,11805 @@
+IDs,Networks,Ratings
+1,CBS,6.5
+2,CBS,8.9
+3,CTV Sci-Fi Channel,7.5
+4,The CW,7.4
+5,HBO,8.3
+6,The CW,7.7
+7,Showtime,8.2
+8,FOX,6.8
+9,ABC,7.8
+10,NBC,8.5
+11,FOX,7.7
+12,Showcase,8.1
+13,The CW,7.8
+14,Showcase,8.2
+15,NBC,7.5
+16,Showtime,8.3
+18,CBS,7.8
+19,The CW,8.4
+20,FX,7.5
+21,TNT,7.5
+22,HBO,7.8
+23,ABC,6.7
+24,CBS,7.6
+25,Fuji TV,7.8
+26,TBS,8.3
+27,NTV,8.8
+28,Showtime,8.0
+29,History,8.7
+30,FX,7.8
+31,ABC,8.0
+32,FX,8.9
+33,Null,7.0
+34,Syfy,6.6
+35,AMC,8.3
+37,BBC America,6.8
+38,Syfy,7.3
+39,ABC,7.3
+40,NTV,8.6
+41,FOX,7.9
+42,FOX,7.5
+43,Starz,8.1
+44,CBS,7.3
+45,CBS,7.8
+46,ABC,8.3
+47,Lifetime,7.6
+48,CBS,7.8
+49,NBC,8.2
+50,Lifetime,6.5
+51,Cinemax,8.5
+52,ABC,7.5
+53,CMT,7.4
+54,TNT,7.5
+55,FOX,7.5
+56,NBC,8.4
+57,ABC,6.9
+58,FOX,7.2
+59,NBC,8.4
+60,CBS,8.2
+61,CTV Sci-Fi Channel,8.6
+62,The CW,8.3
+63,The CW,8.0
+64,Channel 4,8.6
+65,FOX,8.2
+66,CBS,7.9
+67,ABC,8.0
+68,ABC,8.3
+69,NBC,8.2
+70,NBC,6.9
+71,ABC,5.5
+72,CBS,8.0
+73,AMC,8.1
+74,AMC,8.5
+75,Null,7.2
+76,FX,8.7
+77,ABC,7.9
+78,NBC,7.6
+79,ABC,7.7
+80,ABC,7.7
+81,CBS,8.2
+82,HBO,9.1
+83,FOX,8.2
+84,FOX,7.8
+86,CBS,7.5
+87,FX,7.4
+88,The CW,7.5
+89,A&E,7.4
+90,Syfy,8.2
+91,NBC,7.6
+92,NBC,6.7
+93,NBC,8.0
+94,Syfy,7.7
+95,TNT,7.6
+96,ABC,5.1
+97,USA Network,
+98,ABC,7.9
+99,VH1,5.6
+100,CBS,8.3
+101,CBS,8.5
+102,HBO,8.5
+103,NBC,8.1
+104,Syfy,7.1
+105,El Rey Network,6.5
+106,FX,8.8
+107,FOX,8.0
+108,FOX,6.0
+109,CBS,8.3
+110,FOX,7.7
+111,ABC,7.5
+112,Comedy Central,8.6
+114,CBS,8.3
+115,FOX,8.3
+116,CBS,8.3
+117,Disney XD,7.9
+118,FOX,9.0
+120,Null,7.2
+122,The CW,8.0
+123,ABC,8.3
+124,CBS,7.1
+125,ABC,7.0
+126,CBS,7.6
+127,Showtime,7.7
+128,The CW,7.6
+129,NBC,6.0
+130,CBS,6.6
+131,NBC,6.9
+132,CBS,6.4
+133,CBS,8.3
+134,NBC,7.7
+136,CBS,6.5
+137,ABC,7.1
+138,HBO,8.2
+139,HBO,6.7
+140,HBO,6.8
+141,HBO,7.8
+142,HBO,8.0
+143,HBO,8.5
+144,HBO,8.0
+145,Showtime,7.8
+146,Showtime,8.0
+147,Showtime,8.0
+148,Showtime,7.0
+149,Showtime,7.3
+150,Showtime,8.5
+151,HBO,8.8
+152,Showtime,8.3
+153,FOX,
+154,Syfy,7.8
+155,The CW,7.2
+156,Showtime,8.1
+157,FX,8.6
+158,FOX,8.8
+159,NBC,6.5
+160,Showtime,7.9
+161,Showtime,8.5
+162,HBO,8.5
+163,FOX,8.1
+164,Cinemax,8.8
+165,NBC,6.1
+166,Syfy,8.9
+167,FOX,8.6
+168,NBC,8.5
+169,AMC,9.2
+170,Null,8.0
+171,CBS,7.9
+172,USA Network,8.3
+174,NBC,8.5
+175,Null,8.4
+176,MTV,8.2
+177,FreeForm,7.6
+178,Nickelodeon,8.7
+179,HBO,9.2
+180,FOX,9.2
+181,CBS,7.3
+182,Starz,8.5
+183,FX,7.9
+184,Null,8.1
+185,WGN America,7.3
+186,AMC,8.3
+187,CBS,6.7
+188,NBC,7.4
+189,The CW,6.6
+190,NBC,7.2
+191,AMC,8.2
+192,HBO,6.4
+193,FOX,5.2
+194,NBC,8.4
+195,A&E,8.1
+196,FOX,7.0
+197,Null,8.0
+198,FreeForm,7.8
+199,ABC,7.8
+200,The CW,7.4
+201,Lifetime,8.3
+202,FOX,7.7
+203,The CW,6.3
+204,Syfy,9.2
+205,USA Network,7.3
+206,Syfy,8.9
+207,Syfy,8.1
+208,Starz,
+209,Starz,7.3
+210,BBC One,8.4
+211,ABC,6.4
+212,FOX,7.0
+213,ABC,7.2
+214,Audience Network,7.9
+215,TBS,7.4
+216,Adult Swim,9.0
+217,CBS,6.1
+218,Syfy,7.5
+219,Syfy,7.4
+220,TF1,7.9
+221,Sundance TV,8.2
+222,MTV,8.2
+224,FreeForm,7.5
+225,FreeForm,7.1
+226,CBS,7.4
+227,TNT,7.4
+228,ABC,7.3
+229,ABC,7.2
+230,NBC,6.9
+231,CBS,7.9
+232,ABC,6.6
+233,NBC,7.3
+234,ABC,6.7
+235,NBC,7.3
+236,ABC,7.3
+237,NBC,7.5
+238,TNT,6.3
+239,FX,6.6
+240,Paramount Network,7.8
+241,USA Network,6.6
+242,ITV,7.0
+243,TBS,7.5
+244,CBC,7.2
+245,Syfy,
+246,BBC Two,
+247,Comedy Central,7.5
+248,The Movie Network,7.2
+249,Comedy Central,8.2
+250,Disney XD,
+251,ITV,9.1
+252,Disney Channel,7.8
+253,FOX,7.2
+254,ESPN2,9.0
+255,CNN,8.1
+256,AMC,8.1
+257,Comedy Central,7.1
+258,E4,8.2
+259,National Geographic Channel,
+260,Comedy Central,6.0
+261,E!,4.5
+262,BBC One,7.6
+263,HBO,8.7
+265,CBS,8.5
+266,Sky 1,
+267,Null,7.6
+268,City,6.0
+269,BBC One,8.8
+270,FXX,7.7
+271,CTV,8.0
+272,AMC,7.1
+273,Adult Swim,7.8
+274,BBC Three,7.4
+275,FXX,5.8
+276,BBC One,8.7
+277,Comedy Central,7.7
+278,Syfy,8.3
+279,HBO,5.7
+280,TNT,7.7
+281,BBC Two,8.4
+282,MTV,6.6
+283,MTV,7.5
+284,ITV,7.8
+285,Hallmark Movies & Mysteries,8.3
+286,BBC One,8.3
+287,Comedy Central,
+288,ABC,5.8
+289,NBC,6.1
+290,Cartoon Network,8.2
+291,CTV,8.1
+292,NBC,4.5
+293,BBC Four,
+294,NBC,8.2
+295,Bravo,8.7
+296,History,5.6
+297,NBC,7.4
+298,FreeForm,7.7
+299,Starz,8.2
+300,TNT,7.9
+301,The CW,8.2
+302,Null,8.0
+303,Null,7.3
+304,Adult Swim,9.0
+305,Null,8.8
+306,ITV,8.5
+307,BBC Three,6.8
+308,El Rey Network,7.0
+309,Audience Network,7.7
+310,FX,5.7
+311,USA Network,7.6
+312,FXX,7.8
+313,ITV2,7.4
+314,Showtime,8.1
+315,FXX,8.7
+316,BBC One,8.2
+317,ITV,8.0
+318,Null,8.3
+319,TBS,7.8
+320,BBC Two,8.0
+321,Null,8.5
+322,BET,7.0
+323,USA Network,8.3
+324,FOX,6.5
+325,BET,7.9
+326,CBS,7.0
+327,Comedy Central,6.8
+328,ITV,8.8
+329,ABC,7.4
+330,TNT,
+331,TBS,
+332,Null,6.8
+333,BET,
+334,Comedy Central,6.2
+335,BBC One,9.1
+336,ABC,8.0
+337,Channel 4,
+338,ABC,7.5
+339,ABC,7.8
+340,TNT,7.2
+341,NBC,7.3
+342,FX,8.2
+343,BBC One,7.3
+344,TNT,8.2
+345,USA Network,7.5
+346,TV Land,8.1
+347,FXX,8.4
+348,FreeForm,7.7
+349,BBC Two,8.1
+350,NBC,
+351,FreeForm,7.8
+352,TV Land,7.4
+353,BBC One,8.7
+354,TBS,7.3
+355,CBS,7.7
+356,Channel 4,7.5
+357,TNT,7.8
+358,Starz,8.7
+359,Comedy Central,7.6
+360,BBC Two,8.6
+361,NBC,6.6
+362,FreeForm,7.5
+363,NBC,5.6
+364,Centric,
+365,Null,8.1
+366,USA Network,8.1
+367,HBO,8.6
+368,Dave,7.9
+369,CBBC,
+370,Comedy Central,7.5
+371,Sundance TV,7.5
+372,nick@nite,5.2
+373,Sky 1,7.7
+374,BBC Two,8.4
+375,Comedy Central,8.4
+376,IFC,6.8
+377,BBC One,8.1
+378,BBC One,6.8
+379,Science,8.4
+380,ITV,7.8
+382,Adult Swim,8.3
+383,Channel 4,8.2
+384,TNT,8.5
+385,AMC,8.4
+386,Sky 1,7.9
+387,Global,7.9
+388,CBS,8.6
+390,NBC,
+391,BBC Three,
+392,BBC One,7.7
+393,Null,7.7
+394,BBC One,8.6
+395,Null,8.7
+396,Disney XD,9.1
+397,ABC,7.7
+398,A&E,6.0
+399,Lifetime,6.8
+400,BBC America,7.4
+401,NBC,7.6
+402,Sky Arts,8.1
+403,FOX,7.5
+404,Starz,7.9
+405,Channel 4,8.1
+406,TBS,6.9
+407,Null,6.3
+408,FreeForm,7.6
+409,Nickelodeon,8.5
+410,Discovery Channel,
+411,NBC,6.5
+412,USA Network,7.8
+413,NBC,7.2
+414,USA Network,8.4
+415,HBO,8.4
+416,MTV,
+417,FOX,6.4
+418,USA Network,4.9
+419,MTV,
+420,MTV,
+421,Nickelodeon,7.3
+422,CBS,7.5
+423,BBC Two,7.1
+424,E!,
+425,BBC One,
+426,BBC One,
+427,UPN,8.7
+428,The WB,8.6
+429,Syfy,8.7
+430,FOX,8.6
+431,NBC,8.7
+432,FOX,7.6
+433,Syfy,7.6
+434,Syfy,8.4
+435,The CW,8.3
+436,Showtime,8.3
+437,Syndication,7.6
+438,Syndication,6.0
+439,Nicktoons,7.8
+440,The WB,7.8
+443,CTV,8.3
+444,Showcase,8.0
+445,France 4,6.0
+446,CTV,7.6
+447,ABC,7.1
+448,H2,8.5
+449,REELZ,8.5
+450,UPN,8.8
+451,NBC,7.0
+452,BBC One,8.2
+453,HBO,8.4
+454,USA Network,
+455,Paramount Network,6.8
+456,CBS,7.9
+457,NBC,7.4
+458,ABC,7.8
+459,CBS,7.4
+460,Syndication,
+461,Syndication,8.0
+462,Syndication,6.9
+463,NBC,7.5
+464,HBO,8.6
+465,HBO,9.4
+466,ABC,8.6
+467,Lifetime,7.8
+468,CBS,6.9
+469,The Movie Network,8.4
+470,ITV,8.4
+471,AMC,7.1
+472,Fox Kids,8.1
+473,Null,8.6
+474,ABC,7.7
+475,TNT,8.7
+476,E4,7.3
+477,FX,6.5
+478,FOX,8.5
+479,TNT,7.4
+480,The WB,8.0
+481,The CW,8.5
+482,Showtime,7.4
+483,USA Network,7.7
+484,Syfy,7.6
+485,ABC,8.3
+486,Syfy,7.5
+487,FOX,7.0
+488,TV Tokyo,8.7
+489,Boomerang,
+490,NBC,8.3
+491,Syndication,8.8
+492,UPN,8.2
+493,Syndication,8.3
+494,ABC,7.3
+495,TV Tokyo,8.7
+496,Nickelodeon,7.3
+497,Science,7.2
+498,A&E,
+499,FOX,8.3
+500,Syndication,7.4
+501,CBS,8.2
+502,Syndication,8.0
+503,Syfy,8.1
+504,The WB,8.6
+505,Cartoon Network,8.8
+506,The WB,8.3
+507,HBO,7.7
+508,TNT,7.5
+509,ABC,6.8
+510,FOX,7.8
+511,FOX,8.2
+512,NBC,6.2
+513,FreeForm,6.6
+514,Disney Channel,8.0
+515,Showtime,8.2
+516,FOX,7.3
+517,USA Network,8.0
+518,Oxygen,
+519,Oxygen,
+520,FOX,8.0
+521,Bravo,6.8
+522,BBC One,7.0
+523,NBC,9.1
+524,Discovery Channel,6.4
+525,The CW,8.4
+526,NBC,8.4
+527,HBO,9.1
+528,CBS,8.2
+529,Cooking Channel,
+530,NBC,8.5
+531,TLC,
+532,ABC,8.7
+533,TV Land,
+534,History,7.0
+535,Travel Channel,8.8
+536,The CW,8.0
+537,NBC,8.1
+538,Comedy Central,9.0
+539,Channel 4,8.8
+540,NBC,8.3
+541,FOX,8.3
+542,Syfy,8.6
+543,USA Network,8.2
+544,ABC,7.6
+545,Null,6.5
+546,Channel 4,7.7
+547,NBC,8.1
+548,E4,8.5
+549,NBC,7.2
+550,ABC,7.7
+551,HBO,8.0
+552,CBS,7.2
+553,NBC,8.4
+554,FOX,8.4
+555,Nickelodeon,9.0
+556,FXX,7.5
+557,ABC,8.2
+558,NBC,7.1
+559,HBO,7.9
+560,The CW,8.2
+561,USA Network,8.3
+562,NBC,8.4
+563,Null,8.5
+564,FX,8.3
+565,HBO,9.2
+566,CBS,7.7
+567,The CW,7.5
+568,FOX,7.8
+569,ABC,7.7
+570,ABC,8.2
+571,A&E,8.3
+572,History,7.6
+573,CBS,6.5
+574,ABC,7.3
+575,E!,3.7
+576,CBS,7.9
+577,BBC Two,8.8
+578,The CW,7.8
+579,NBC,7.6
+580,FOX,8.4
+581,CBS,7.8
+582,NBC,7.9
+583,Syfy,7.9
+584,NBC,7.8
+585,Syfy,6.2
+586,A&E,7.6
+587,FOX,8.1
+588,Adult Swim,7.4
+589,CBS,5.8
+590,TV Tokyo,8.4
+591,National Geographic Channel,
+592,National Geographic WILD,6.8
+593,CBC,8.3
+594,Nickelodeon,7.3
+595,Nickelodeon,7.8
+597,Bravo,5.3
+598,ABC,8.4
+599,truTV,
+600,National Geographic Channel,
+601,truTV,
+602,Bravo,
+603,A&E,
+604,Travel Channel,
+605,National Geographic Channel,
+607,Smithsonian,9.5
+609,ABC,6.8
+610,ABC,8.1
+611,TNT,
+612,Discovery Channel,7.6
+613,MTV,6.4
+614,Syfy,7.7
+615,History,8.0
+616,Oxygen,
+617,NBC,6.8
+618,AMC,8.7
+619,WGN America,
+620,FOX,6.9
+621,FOX,8.0
+622,WGN America,
+623,TV Land,7.5
+624,VH1,7.0
+625,REELZ,
+626,NBC,6.3
+627,USA Network,7.2
+628,Pop,
+629,Food Network,
+630,Investigation Discovery,
+631,Investigation Discovery,
+632,Investigation Discovery,
+633,Food Network,
+634,Investigation Discovery,
+635,Syfy,7.9
+636,National Geographic Channel,
+637,Bravo,7.3
+638,PBS,
+640,National Geographic Channel,
+641,Science,
+643,DIY Network,
+644,truTV,
+645,truTV,
+646,Oxygen,
+647,truTV,
+648,VH1,
+649,Oxygen,
+650,Lifetime,
+651,TLC,
+652,Lifetime,
+653,El Rey Network,7.9
+654,A&E,
+655,FOX,7.6
+656,ABC,7.8
+657,BBC One,8.7
+658,NBC,6.9
+659,Starz,8.4
+660,NBC,7.1
+661,ABC,8.3
+662,TNT,8.4
+663,FX,8.9
+664,FreeForm,6.3
+665,CBS,8.5
+666,Lifetime,8.2
+667,USA Network,8.1
+668,Nicktoons,7.6
+669,BBC Three,7.0
+670,BBC One,8.6
+671,Disney XD,7.3
+672,Disney Channel,6.8
+673,UPN,8.1
+674,TNT,8.5
+675,History,7.0
+676,HBO,7.2
+677,HBO,8.9
+678,NBC,8.0
+679,Audience Network,8.0
+680,USA Network,7.2
+681,NBC,7.6
+682,CBS,7.8
+683,ABC,8.2
+684,USA Network,6.6
+685,Lifetime,5.9
+686,Adult Swim,8.0
+687,Bravo,7.7
+688,WGN America,8.3
+689,Null,8.6
+690,ABC,5.9
+691,PBS,
+692,The CW,8.3
+693,ITV,8.6
+694,BBC One,8.8
+695,MBS,7.2
+696,ITV,7.1
+697,FOX,6.8
+698,PBS,
+699,BBC One,
+700,Null,8.2
+701,BBC Two,
+702,Discovery Channel,7.9
+703,BBC Two,8.8
+704,Null,8.9
+705,Discovery Channel,8.4
+706,Cartoon Network,7.5
+707,Disney Channel,
+708,NRK1,8.3
+709,Sky 1,7.8
+710,Disney Channel,
+711,ABC,8.0
+712,Showtime,8.5
+713,Nickelodeon,8.5
+714,UPN,8.2
+716,Starz,8.7
+717,NBC,8.6
+718,NBC,5.6
+719,Animal Planet,7.4
+720,CBS,8.5
+721,History,
+722,NBC,8.4
+725,FOX,
+726,History,
+727,CBS,
+728,CNBC,8.5
+729,BBC One,7.5
+730,Paramount Network,8.0
+731,Paramount Network,6.8
+732,ABC,7.2
+733,ABC,6.8
+734,CBS,7.2
+735,CBS,6.9
+736,The CW,6.8
+737,Nick Jr.,
+738,Bravo,
+739,CBS,6.7
+740,CBS,7.2
+741,FOX,
+742,FreeForm,6.5
+743,ABC,4.6
+744,ABC,
+745,Bravo,7.4
+746,Channel 4,8.5
+747,Discovery Channel,7.4
+748,HBO,9.0
+749,CBS,7.9
+750,Bravo,6.8
+751,BBC One,8.7
+752,TBS,
+753,IFC,
+754,MBS,7.0
+755,NBC,8.5
+756,BBC One,8.4
+757,FOX,8.9
+758,FreeForm,7.3
+759,Disney Channel,7.0
+760,NBC,7.7
+761,Discovery Channel,7.3
+762,Showtime,6.9
+763,BBC Two,7.9
+764,HBO,7.7
+765,Cartoon Network,7.5
+766,BBC One,9.0
+767,Discovery Channel,8.3
+768,BBC One,9.5
+769,ABC,8.7
+770,ABC,7.9
+771,USA Network,7.4
+772,CBS,8.0
+773,CBS,7.7
+774,FOX,6.9
+775,TNT,8.5
+776,FOX,7.5
+777,Disney Channel,6.3
+778,Lifetime,8.1
+779,ABC,8.0
+780,CTV,8.2
+781,NBC,8.7
+782,CBS,9.0
+785,ABC,7.9
+786,USA Network,8.7
+787,CBS,8.9
+788,FreeForm,7.6
+789,BBC One,7.9
+790,CBS,8.8
+791,E4,7.7
+792,NBC,
+793,BBC One,7.2
+794,Nickelodeon,6.8
+795,CBS,8.2
+796,ABC,8.3
+797,FX,8.4
+798,Discovery Channel,7.9
+799,The CW,6.7
+800,FreeForm,7.8
+801,MTV,
+802,USA Network,7.9
+803,FOX,6.4
+804,Cinemax,8.4
+805,FOX,7.3
+806,CBS,4.7
+807,Disney Channel,8.4
+808,Nickelodeon,7.0
+809,BBC Three,8.4
+810,USA Network,8.2
+811,ABC,7.3
+812,NBC,6.4
+813,CBS,7.9
+814,ABC,7.8
+815,The CW,7.8
+816,FOX,6.3
+817,HBO,8.3
+818,FOX,6.3
+819,ABC,
+820,HBO,7.1
+821,ABC,8.7
+822,Showtime,8.4
+823,Showtime,7.6
+824,History,7.2
+825,NBC,7.9
+826,ABC,7.6
+827,A&E,6.6
+828,BBC One,7.0
+829,Travel Channel,
+830,NBC,8.2
+831,E4,5.0
+832,NBC,9.0
+833,BBC One,8.3
+834,The CW,7.5
+835,Starz,7.7
+836,NBC,
+837,Destination America,
+838,Discovery Channel,8.5
+839,ABC,6.1
+840,HBO,8.4
+841,NBC,8.6
+842,MTV,5.8
+843,HBO,7.4
+844,BBC Two,
+845,The WB,7.1
+846,Bravo,6.0
+847,MTV,
+848,NBC,7.4
+849,ITV,
+850,BBC One,8.0
+851,Channel 4,8.5
+854,HBO,8.1
+855,National Geographic Channel,
+856,Sky 1,7.8
+857,BBC Two,
+858,BBC One,7.6
+859,truTV,8.0
+860,A&E,5.3
+861,ABC,7.0
+862,CBC,8.1
+863,CBS,6.4
+864,NBC,6.9
+865,ITV2,7.5
+866,FOX,8.0
+867,NBC,9.0
+868,Cartoon Network,8.4
+869,Investigation Discovery,8.4
+870,Syfy,8.4
+871,FreeForm,8.4
+872,Science,
+873,Channel 4,7.8
+874,National Geographic Channel,
+875,BBC One,
+877,ABC,
+878,Animal Planet,8.9
+879,E4,
+880,Oxygen,
+881,NBC,7.7
+882,ITV,8.5
+883,BBC Two,
+884,Channel 4,7.9
+885,Food Network,
+886,National Geographic Channel,
+887,Lifetime,
+888,Bravo,
+889,ITV,7.1
+890,CBBC,
+891,HBO,7.0
+892,Animal Planet,
+894,Nickelodeon,
+895,FOX,7.2
+896,Nicktoons,
+897,CBS,7.8
+898,truTV,
+899,BBC Two,
+900,Cartoon Network,8.5
+901,PBS,
+902,E4,
+903,BBC Two,
+904,BBC One,7.6
+905,Syndication,7.3
+906,The CW,
+907,ABC,7.9
+908,Showtime,8.6
+909,CBS,6.3
+910,MTV,7.4
+911,BBC Three,7.5
+912,Adult Swim,7.5
+913,Discovery Channel,8.4
+914,ABC,4.9
+915,Disney Channel,7.8
+916,MTV,7.1
+917,The CW,5.8
+918,ABC,8.5
+919,NHK,8.6
+920,BBC One,
+921,Discovery Family,
+922,Fox Sports 1,7.7
+923,W,8.2
+924,Discovery Channel,6.5
+926,Travel Channel,6.7
+927,TLC,
+928,Adult Swim,7.6
+929,FOX,4.5
+930,MTV,
+931,Discovery Channel,
+932,H2,
+933,Discovery Channel,7.1
+934,History,7.3
+935,Null,7.6
+936,TLC,
+937,TNT,7.9
+938,BBC One,8.0
+939,History,5.8
+940,USA Network,8.2
+941,ABC,7.9
+942,ABC,7.9
+943,TNT,8.1
+944,The CW,7.5
+945,ABC,7.4
+946,BBC One,8.9
+947,NBC,6.5
+948,NBC,7.5
+949,BBC One,8.2
+950,NBC,8.3
+951,Cartoon Network,7.7
+952,ABC,6.3
+953,E4,7.2
+954,Food Network,6.0
+955,History,6.3
+956,CBS,8.0
+957,Syfy,8.0
+958,History,
+959,truTV,
+960,FOX,6.3
+961,FreeForm,8.0
+962,CBS,8.0
+963,FOX,7.3
+964,Showtime,7.5
+965,TNT,
+966,Nickelodeon,7.5
+967,NBC,7.1
+968,AMC,7.9
+969,TLC,
+970,BBC One,7.1
+971,CBS,7.9
+972,FX,
+973,TLC,4.8
+974,Oxygen,7.0
+975,ABC,7.9
+976,The WB,7.7
+977,NBC,7.9
+978,Cartoon Network,7.4
+979,Food Network,7.8
+980,ABC,
+981,Syndication,6.4
+982,Syndication,7.3
+983,nick@nite,
+984,ABC,7.1
+985,CBS,7.9
+986,Comedy Central,7.1
+987,The CW,7.7
+988,Nickelodeon,7.5
+989,BBC One,
+990,ITV,8.8
+991,Null,
+992,A&E,
+993,The CW,7.3
+994,HBO,8.5
+995,National Geographic WILD,
+996,ABC,7.6
+997,MTV,6.1
+998,ABC,7.8
+999,Syfy,6.6
+1000,Adult Swim,7.6
+1001,A&E,7.5
+1002,Starz,6.5
+1003,AMC,
+1005,ABC,7.3
+1007,FOX,8.1
+1008,ABC,7.0
+1009,NBC,7.8
+1010,ABC,7.7
+1011,Bravo,6.7
+1012,NBC,6.4
+1013,NBC,8.4
+1014,Starz,7.9
+1015,MTV,
+1016,NBC,5.9
+1017,Null,7.3
+1018,Syfy,6.5
+1019,FOX,8.2
+1020,CBS,6.8
+1021,The CW,5.8
+1022,Null,8.3
+1023,Oxygen,
+1024,Syfy,6.9
+1025,FX,8.3
+1026,MTV,
+1027,Telecinco,
+1028,VH1,
+1029,Telecinco,
+1030,Telecinco,
+1031,Antena 3,8.5
+1032,Telecinco,
+1033,Cuatro,
+1034,VH1,
+1035,NBC,8.3
+1036,BBC One,6.8
+1037,Discovery Channel,
+1038,Nickelodeon,
+1039,NBC,7.8
+1040,ABC,7.8
+1041,Showcase,8.0
+1042,VisionTV,7.9
+1043,BBC One,8.3
+1044,ITV,8.0
+1045,Syndication,
+1046,TVE,
+1047,BBC One,7.6
+1048,National Geographic Channel,
+1049,ABC,6.9
+1050,Null,7.8
+1051,NBC,8.4
+1052,Syndication,7.8
+1053,NBC,7.5
+1054,BBC One,8.4
+1055,Family Channel,7.9
+1056,BBC One,8.2
+1057,ABC,7.9
+1058,NBC,7.7
+1059,ABC,7.5
+1060,ITV,6.8
+1061,FX,8.5
+1062,BBC One,7.8
+1063,NBC,8.3
+1064,BBC One,
+1065,Channel 4,8.7
+1066,BBC One,
+1067,TeenNick,
+1068,ABC,
+1069,ABC,7.1
+1070,Syndication,5.6
+1071,BBC One,
+1072,BBC One,8.3
+1073,Global,8.7
+1074,BBC One,
+1075,ITV,8.0
+1076,Syfy,8.2
+1078,FX,9.2
+1080,NBC,7.6
+1081,CTV Sci-Fi Channel,7.0
+1082,USA Network,8.0
+1083,Nickelodeon,
+1084,ABC,7.7
+1085,BBC Three,8.6
+1086,NBC,
+1087,BBC One,9.0
+1088,BBC Two,6.3
+1089,TNT,7.3
+1090,ABC,
+1091,ABC,
+1092,BBC One,8.2
+1093,Channel 4,8.4
+1094,ABC,
+1095,ABC,8.3
+1096,FOX,8.4
+1097,CBS,7.1
+1098,CBS,7.7
+1099,FOX,8.0
+1100,BBC Three,7.3
+1101,Syfy,8.3
+1102,History,8.3
+1103,BBC Two,8.5
+1104,BBC Two,8.7
+1105,BBC One,
+1107,The WB,
+1108,BBC One,7.5
+1109,CBS,7.4
+1110,NBC,7.8
+1111,Discovery Channel,7.4
+1112,RTP1,
+1113,FOX,
+1114,BBC Three,
+1115,Null,7.2
+1116,FreeForm,7.3
+1117,HBO,7.6
+1118,BBC One,8.5
+1119,CBS,7.3
+1121,WOWOW,8.9
+1122,NBC,7.9
+1123,CBS,7.6
+1124,BBC Three,
+1125,FOX,7.0
+1126,BBC Three,
+1128,National Geographic Channel,8.8
+1129,CBS,6.1
+1130,NBC,7.4
+1131,Syfy,6.6
+1132,BBC Two,6.4
+1133,CBS,6.6
+1134,Cartoon Network,7.9
+1135,ABC,8.8
+1136,Disney XD,8.3
+1137,Starz,7.5
+1138,MTV,
+1139,truTV,7.8
+1140,Sky Witness,
+1141,HBO,7.2
+1142,Great American Country,
+1143,Syndication,
+1144,NBCSN,
+1145,Food Network,6.8
+1146,Investigation Discovery,
+1147,Comedy Central,7.0
+1148,ABC,
+1149,BBC Two,
+1150,BBC One,
+1151,BBC Two,8.3
+1152,USA Network,6.5
+1153,FOX,7.7
+1154,ABC,
+1155,ITV2,
+1156,BBC One,8.8
+1157,ABC,8.0
+1158,ABC,
+1159,ABC,
+1160,CBS,
+1161,BBC Two,8.4
+1162,BBC One,8.7
+1163,FOX,8.0
+1164,FOX,7.4
+1165,CBS,7.5
+1166,ITV,8.5
+1167,Canal+,
+1168,Canal+,7.5
+1169,France 2,
+1170,Travel Channel,
+1171,truTV,
+1172,Lifetime,
+1173,Lifetime,
+1174,TeenNick,
+1175,A&E,8.6
+1176,NBC,6.4
+1177,Hallmark Channel,8.4
+1178,NBC,6.9
+1179,FOX,7.5
+1180,H2,
+1181,TLC,
+1182,Investigation Discovery,
+1183,Destination America,
+1184,Travel Channel,8.1
+1185,Investigation Discovery,
+1186,REELZ,
+1187,NBC,
+1189,TLC,
+1190,Investigation Discovery,
+1191,TLC,
+1192,H2,
+1193,Investigation Discovery,
+1194,Animal Planet,
+1195,Discovery Channel,8.7
+1196,Investigation Discovery,
+1197,Travel Channel,7.5
+1198,Food Network,6.5
+1200,History,
+1201,Travel Channel,8.9
+1202,Discovery Channel,
+1203,TLC,8.1
+1204,Investigation Discovery,6.9
+1205,VH1,
+1206,Lifetime,4.2
+1207,Bravo,
+1208,Discovery Channel,6.5
+1209,History,6.8
+1210,HBO,8.2
+1211,ABC,7.3
+1212,BBC America,6.7
+1213,Null,8.3
+1214,BBC One,8.0
+1215,NPO 3,
+1216,Null,8.6
+1217,CBS,6.8
+1218,HBO,5.7
+1220,BBC One,7.8
+1221,ABC,8.0
+1222,Showtime,8.2
+1224,ZDF,8.7
+1225,ABC,6.9
+1226,HBO Latin America,
+1227,NBC,7.8
+1228,NPO 3,7.9
+1229,BBC One,7.4
+1230,NBC,8.0
+1231,Discovery Channel,
+1232,Null,
+1234,FOX,6.4
+1235,AMC,7.3
+1236,TNT,8.0
+1237,Paramount Network,7.4
+1238,REELZ,7.8
+1239,FOX,7.0
+1240,HBO,8.4
+1241,CBS,7.1
+1242,Sky Atlantic,8.1
+1243,History,8.4
+1244,ABC,6.0
+1245,NBC,7.4
+1246,Comedy Central,
+1247,RTL4,
+1248,NBC,6.6
+1249,ABC,7.0
+1250,CBS,6.3
+1251,ABC,6.3
+1252,NBC,5.0
+1253,Syndication,
+1254,ABC,8.3
+1255,Teletoon,
+1256,ABC,7.3
+1257,BBC Two,8.3
+1258,E4,7.8
+1259,Cartoon Network,8.2
+1260,The CW,5.5
+1262,ITV,8.3
+1263,Cartoon Network,
+1264,Cartoon Network,
+1265,ABC,6.0
+1266,Cartoon Network,8.4
+1267,BBC One,8.6
+1268,ITV,8.7
+1269,HBO,
+1270,BBC Two,7.9
+1271,DR1,8.0
+1272,ITV,8.8
+1273,Comedy Central,
+1274,ABC,
+1275,HBO,8.3
+1276,HBO,
+1277,ABC,
+1278,NBC,7.0
+1280,BBC One,7.4
+1281,ABC,7.5
+1282,ITV,8.9
+1283,The Movie Network,
+1284,ABC,7.3
+1285,ABC,
+1286,CBS,
+1287,NBC,7.8
+1288,ABC,
+1289,ITV,
+1290,ABC,7.8
+1291,NBC,6.7
+1292,BBC Two,7.7
+1293,BBC One,
+1294,ABC,8.6
+1295,HBO,7.6
+1296,BBC One,
+1297,Nickelodeon,
+1298,BBC Two,
+1299,ABC ME,7.2
+1300,CBBC,7.9
+1301,Cartoon Network,
+1302,FOX,8.2
+1303,FOX,7.9
+1304,UPN,7.6
+1305,FOX,8.1
+1306,Syndication,8.8
+1307,Null,
+1308,ITV,7.8
+1309,NBC,
+1310,ABC,
+1311,TNT,
+1312,ABC,
+1313,CBS,6.8
+1314,Oxygen,8.0
+1315,Global,8.4
+1316,NBC,
+1317,The CW,7.8
+1318,Logo TV,
+1319,Syfy,
+1320,NBC,7.6
+1321,Paramount Network,6.9
+1322,ABC,6.4
+1323,ABC,7.7
+1324,ABC,7.0
+1325,FOX,6.4
+1326,ABC,
+1327,Syfy,
+1328,History,
+1329,Syfy,
+1330,FOX,
+1331,FOX,7.2
+1332,Paramount Network,
+1333,NBC,7.8
+1335,BBC Two,8.5
+1336,NBC,
+1337,ABC,
+1338,ABC,
+1339,ITV,8.7
+1340,ABC,7.8
+1341,CBS,6.3
+1342,Discovery Channel,7.7
+1343,Investigation Discovery,
+1344,Showtime,
+1345,TLC,
+1346,Investigation Discovery,
+1347,A&E,
+1348,Paramount Network,
+1349,AXS TV,6.0
+1350,VH1,
+1351,TLC,5.4
+1352,Investigation Discovery,
+1353,Nicktoons,
+1354,Science,
+1355,FOX,6.8
+1356,A&E,6.5
+1357,National Geographic Channel,
+1358,The CW,6.8
+1362,Disney XD,7.2
+1363,Channel 4,8.5
+1364,Null,7.1
+1365,FXX,7.2
+1366,Null,7.5
+1367,Null,8.3
+1368,Null,7.8
+1369,Null,8.4
+1370,Null,7.9
+1371,HBO,8.5
+1372,Null,7.9
+1374,Nine Network,7.3
+1375,CBS,8.4
+1376,één,
+1377,IFC,7.0
+1379,NBC,6.4
+1380,NBC,6.8
+1381,A&E,7.8
+1382,NBC,7.1
+1383,IFC,7.1
+1384,TLC,
+1385,We tv,
+1386,TLC,
+1387,E!,
+1388,ABC,5.6
+1389,Comedy Central,6.3
+1390,TLC,6.8
+1391,E!,7.6
+1392,TV4,7.2
+1393,Investigation Discovery,
+1394,We tv,
+1395,Animal Planet,
+1396,TBS,
+1397,TLC,
+1398,Lifetime,
+1399,Discovery Channel,
+1401,ABC,6.4
+1402,The WB,7.5
+1403,NBC,7.8
+1405,Null,6.5
+1406,Syfy,
+1407,NBC,6.4
+1408,Disney Channel,7.0
+1409,HBO Canada,
+1410,Null,8.5
+1411,BBC Two,6.6
+1412,BBC One,7.8
+1413,BBC Three,
+1414,National Geographic Channel,8.3
+1415,NBC,7.0
+1417,"fyi,",
+1418,A&E,8.0
+1420,Discovery Channel,7.9
+1421,Discovery Channel,
+1422,CBC,8.3
+1423,Channel 4,
+1424,Dave,
+1425,BBC One,8.0
+1426,NPO 1,
+1427,SBS,7.4
+1428,KBS2,7.6
+1429,NPO 1,
+1430,TF1,
+1431,NPO 3,
+1432,BBC Two,8.1
+1433,ABC,
+1434,Fuji TV,
+1435,ABC,
+1436,BBC America,7.9
+1437,BBC One,8.2
+1438,ITV,8.1
+1439,BBC One,7.5
+1440,Tokyo MX,7.2
+1441,BS11,6.7
+1442,A&E,7.3
+1443,Comedy Central,7.9
+1444,Fuji TV,
+1445,FOX,
+1446,Animal Planet,7.8
+1447,National Geographic Channel,7.0
+1449,National Geographic Channel,8.0
+1450,truTV,
+1451,Showcase,7.7
+1452,National Geographic Channel,
+1453,CBS,6.5
+1456,FOX,7.2
+1457,CBS,8.0
+1458,ABC,
+1459,truTV,
+1460,NBC,7.3
+1461,ABC,
+1462,ABC,8.6
+1463,Starz,6.5
+1464,A&E,
+1465,NBC,6.4
+1466,UPN,7.8
+1467,CBS,
+1468,ABC,7.3
+1469,Syndication,6.9
+1470,NBC,8.7
+1471,CBS,
+1472,CBS,
+1473,The WB,8.3
+1474,ABC,8.3
+1475,CBS,8.8
+1476,Syndication,
+1477,ABC,7.6
+1478,Showtime,8.4
+1479,NBC,
+1480,History,
+1481,NBC,7.4
+1482,NBC,6.7
+1483,CBS,8.2
+1484,ABC,7.8
+1485,NBC,7.8
+1487,ABC,7.8
+1488,CBS,8.1
+1489,NBC,7.4
+1490,CBS,
+1491,ABC,7.8
+1492,CBS,
+1493,ESPN,
+1494,Discovery Channel,
+1495,MTV,
+1496,NBC,8.3
+1497,NBC,6.5
+1498,Bravo,
+1499,CBS,8.4
+1500,ABC,8.0
+1501,Discovery Channel,
+1502,CBS,8.6
+1503,ABC,
+1504,Bravo,
+1505,Fuji TV,9.0
+1506,ABC,8.1
+1507,NBC,7.8
+1508,The WB,
+1509,Syndication,
+1510,NBC,7.5
+1511,CBS,6.4
+1512,Showcase,
+1514,Channel 5,
+1515,Global,7.0
+1516,Channel 5,
+1517,Disney XD,8.0
+1518,Comedy Central,6.4
+1519,Logo TV,
+1520,TV Land,6.6
+1521,CBC,
+1522,BBC One,8.3
+1523,CBS,7.2
+1524,Channel 4,6.8
+1525,Nagoya Broadcasting Network,
+1526,VH1,7.6
+1527,NBC,6.5
+1528,City,
+1529,Fox Kids,
+1530,BBC One,8.6
+1531,NBC,7.0
+1532,BBC America,8.4
+1533,TNT,
+1534,BBC Four,6.6
+1535,BBC One,6.8
+1536,NTV,8.3
+1537,Fuji TV,7.8
+1538,Oxygen,
+1539,TLC,
+1540,Disney XD,
+1541,Nickelodeon,
+1542,HBO,7.8
+1543,Animal Planet,
+1544,Audience Network,
+1545,Destination America,
+1546,E!,
+1548,ITV,8.5
+1549,Food Network,
+1550,Investigation Discovery,8.4
+1551,Disney XD,8.8
+1552,Bravo,
+1553,BBC America,
+1554,Science,
+1555,Science,7.0
+1556,PBS,
+1558,Great American Country,
+1559,Investigation Discovery,8.3
+1560,TLC,
+1561,WE tv,
+1562,Great American Country,
+1563,BBC America,
+1564,Nicktoons,
+1565,Bravo,
+1566,truTV,
+1567,History,
+1568,PBS,
+1569,Discovery Channel,
+1570,Science,
+1572,Great American Country,
+1573,Investigation Discovery,
+1574,Animal Planet,5.8
+1575,Paramount Network,
+1576,BET,
+1577,Cooking Channel,
+1581,History,8.0
+1582,Lifetime,
+1583,We tv,
+1584,Investigation Discovery,
+1586,Food Network,
+1587,Audience Network,
+1588,E!,8.5
+1589,The CW,7.9
+1590,A&E,
+1591,Oxygen,
+1592,The CW,
+1593,The CW,6.5
+1594,FX,6.8
+1595,Null,7.8
+1596,Null,7.6
+1597,Pay-Per-View,6.8
+1598,BBC One,8.5
+1599,BBC One,
+1600,BBC One,7.9
+1601,ITV,8.0
+1602,Science,
+1603,Adult Swim,8.7
+1604,Science,7.3
+1605,Science,8.1
+1606,BBC Two,8.7
+1607,BBC One,
+1608,CBC,8.0
+1609,National Geographic Channel,9.0
+1611,FOX,7.8
+1612,The WB,7.4
+1613,MTV,
+1614,SBS 6,
+1615,Cartoon Network,8.8
+1616,Disney XD,
+1617,Cartoon Network,
+1618,FXX,
+1619,SBS,7.1
+1620,Null,7.5
+1621,National Geographic Channel,
+1622,"fyi,",
+1623,TLC,
+1624,ABC,
+1625,Lifetime,
+1626,National Geographic WILD,
+1627,Quest,
+1628,DR3,
+1629,Discovery Channel,
+1630,ABC,
+1631,Null,7.2
+1632,ITV,9.0
+1633,MotorTrend,
+1634,Discovery Channel,7.3
+1635,MotorTrend,
+1636,Quest,
+1637,Discovery Channel,
+1638,BBC Two,7.0
+1639,BBC One,
+1640,BBC One,
+1641,Channel 4,8.6
+1642,RTP1,
+1643,MTV,8.5
+1644,Syndication,
+1645,Null,7.4
+1646,FreeForm,
+1647,RTP1,
+1648,FreeForm,8.5
+1649,Syfy,7.9
+1650,Channel 4,8.2
+1651,NBC,
+1652,BBC One,7.8
+1653,USA Network,
+1654,BBC One,8.2
+1655,BBC One,
+1656,CTV Sci-Fi Channel,6.7
+1657,History,
+1658,Syndication,5.8
+1659,BBC One,
+1660,The WB,
+1661,The WB,
+1662,YTV,7.6
+1663,ITV,
+1664,BBC One,
+1665,BBC Two,7.7
+1666,Comedy Central,
+1667,BBC Four,8.1
+1668,FOX,7.2
+1669,FOX,7.2
+1670,Sky 1,
+1671,FOX,7.2
+1672,Syndication,
+1673,NTV,
+1674,RTP1,
+1676,Fuji TV,8.9
+1678,BBC One,8.6
+1679,MTV2,
+1680,The CW,
+1681,PBS,6.8
+1682,ITV2,
+1683,BBC One,
+1684,CBS,
+1685,ITV,7.9
+1686,TNT,
+1687,Channel 4,
+1688,ABC,
+1689,Channel 4,7.0
+1690,Paramount Network,
+1691,CTV,7.7
+1692,FOX,7.2
+1693,BBC Two,
+1694,TNT,
+1695,La 1,
+1697,Cuatro,
+1698,Telecinco,
+1699,RTVE,
+1700,Antena 3,7.7
+1701,Antena 3,
+1702,Antena 3,
+1703,La Sexta,
+1704,Syndication,5.0
+1705,Channel 4,7.3
+1706,USA Network,8.1
+1707,BBC One,7.1
+1708,Telecinco,
+1709,Antena 3,
+1710,NBC,7.4
+1711,CBS,7.7
+1712,FOX,7.1
+1713,ABC,
+1714,BBC One,7.4
+1715,History,8.1
+1716,BBC One,7.3
+1717,HBO,7.6
+1718,BBC Two,
+1719,ITV,8.8
+1720,BBC Two,8.4
+1721,History,7.6
+1722,VH1,
+1723,Channel 4,
+1724,Discovery Channel,
+1725,Travel Channel,
+1726,VH1,
+1727,Lifetime,
+1728,Comedy Central,
+1729,Nicktoons,
+1730,PBS,
+1731,Syfy,6.1
+1732,Paramount Network,6.2
+1733,TBS,
+1734,Lifetime,7.6
+1735,Showtime,7.6
+1738,Investigation Discovery,
+1739,Animal Planet,
+1740,TBS,6.4
+1742,Lifetime,
+1743,E!,
+1744,Cartoon Network,8.7
+1745,FreeForm,7.6
+1746,Channel 4,7.0
+1747,History,6.8
+1748,ABC,7.2
+1749,London Weekend Television,
+1750,MBS,7.5
+1751,Syndication,8.8
+1752,CTV,6.8
+1753,BBC One,7.6
+1754,NBC,8.9
+1755,History,
+1756,ITV,
+1757,ITV,7.2
+1758,ITV,8.5
+1759,Syfy,6.6
+1760,CBC,
+1761,Fuji TV,
+1762,Fuji TV,8.3
+1763,La 1,7.8
+1764,Channel 4,
+1765,CBS,8.3
+1766,Canal+,8.2
+1767,ITV,7.7
+1768,BBC Two,
+1769,A&E,7.7
+1770,Channel 4,8.0
+1771,A&E,
+1772,E!,
+1773,National Geographic Channel,
+1774,National Geographic WILD,
+1775,CBC,7.5
+1776,BBC One,8.2
+1777,Null,
+1778,S4C,8.3
+1779,Global,7.9
+1780,MTV,7.6
+1781,VH1,
+1782,ABC,
+1783,ABC,
+1784,CBS,7.8
+1785,ABC,7.3
+1786,ABC,6.1
+1787,Null,
+1788,CTV Sci-Fi Channel,8.1
+1789,Channel 4,8.1
+1790,ITV,7.7
+1791,VH1,7.0
+1792,ITV,
+1794,USA Network,7.7
+1796,Null,6.4
+1797,MTV Portugal,
+1798,BBC Three,6.8
+1799,Oxygen,
+1800,ABC,
+1801,Discovery Channel,
+1802,PBS,
+1804,Null,8.2
+1805,Nickelodeon,7.4
+1806,Null,
+1807,ABC,
+1808,Nine Network,7.8
+1809,Seven Network,
+1810,Adult Swim,7.7
+1811,ABC,
+1812,BBC One,7.8
+1813,ITV,7.9
+1814,ABC,8.7
+1815,Network 10,7.9
+1816,Animal Planet,
+1817,National Geographic WILD,
+1818,NBC,
+1819,CTV Sci-Fi Channel,8.3
+1820,TNT,7.3
+1821,HBO,7.7
+1822,HBO,7.8
+1823,Null,6.7
+1824,AMC,7.3
+1825,Null,8.8
+1827,ITV,7.6
+1828,Showcase,8.5
+1829,TLC,
+1830,TLC,
+1831,CBS,
+1832,BBC One,
+1833,BBC Two,8.3
+1834,DR1,9.0
+1835,Nine Network,
+1836,Nine Network,7.6
+1837,PBS,8.5
+1838,Discovery Channel,
+1839,History,
+1840,History,
+1841,National Geographic Channel,
+1842,NBC,6.8
+1843,FOX,
+1844,FreeForm,7.3
+1845,IFC,7.8
+1846,FX,6.0
+1847,Null,7.2
+1848,IFC,5.4
+1849,Paramount Network,7.1
+1850,The CW,7.1
+1851,The CW,7.1
+1852,BBC One,8.1
+1853,FX,6.7
+1854,CBC,8.2
+1855,NBC,7.3
+1856,ABC ME,
+1857,SBS 6,
+1858,FOX,6.9
+1859,Null,8.4
+1861,The CW,7.5
+1862,FOX,7.0
+1863,Null,7.2
+1864,NBC,7.1
+1865,ABC,5.5
+1866,ABC,7.1
+1867,FOX,7.8
+1868,FOX,7.4
+1869,History,8.1
+1870,History,
+1871,USA Network,8.4
+1872,TNT,
+1873,The CW,6.5
+1874,NBC,6.0
+1875,TNT,7.3
+1876,MTV,
+1877,MTV,
+1878,ITV,7.6
+1879,Cinemax,
+1880,Channel 4,7.9
+1881,H2,
+1882,H2,
+1883,BBC Two,
+1884,ABC,7.0
+1885,Syndication,7.0
+1886,CBS,7.0
+1887,Channel 4,7.8
+1888,DR1,7.9
+1889,Syfy,8.2
+1890,Paramount Network,7.4
+1891,UPN,
+1892,ABC,8.0
+1893,USA Network,7.0
+1894,Syndication,7.8
+1895,Syndication,7.6
+1896,USA Network,7.5
+1897,FOX,7.4
+1898,ABC,7.7
+1899,Fuji TV,7.8
+1900,Syndication,6.5
+1901,ABC,
+1902,Syfy,6.4
+1903,Syndication,7.8
+1904,Syndication,
+1905,TV Tokyo,9.0
+1906,Fuji TV,8.2
+1907,CTV,6.3
+1908,Syfy,
+1909,MTV,7.5
+1910,SVT1,9.0
+1911,Syndication,7.3
+1912,Syndication,7.7
+1913,Showtime,
+1914,VTM,
+1915,NTV,7.7
+1916,Animax,
+1918,NBC,
+1919,CTV Sci-Fi Channel,6.3
+1920,FOX,6.8
+1921,UPN,7.3
+1922,NBC,7.5
+1923,TV Tokyo,
+1924,TV Tokyo,
+1925,TV Tokyo,8.1
+1926,WOWOW,7.2
+1927,NTV,
+1928,HBO,7.8
+1929,ITV,8.4
+1930,ITV,7.0
+1931,TBS,
+1932,Kids Station,
+1933,TV Tokyo,
+1934,TV Tokyo,
+1935,Animax,8.1
+1936,TV Kanagawa,8.0
+1937,USA Network,
+1938,TV Tokyo,8.5
+1939,Fuji TV,8.1
+1940,MBS,7.4
+1942,Tokyo MX,
+1943,Fuji TV,5.5
+1944,Tokyo MX,
+1945,TV Saitama,7.1
+1946,Tokyo MX,
+1947,BBC Three,8.1
+1948,E4,
+1949,Channel 4,8.4
+1950,BBC Two,
+1951,National Geographic Channel,7.9
+1952,BBC Three,
+1953,Cartoon Network,8.4
+1954,Cartoon Network,8.8
+1955,Cartoon Network,8.3
+1956,Cartoon Network,8.3
+1957,The WB,8.0
+1958,Adult Swim,
+1959,Adult Swim,6.0
+1960,Adult Swim,
+1961,ABC,
+1962,Lifetime,7.7
+1963,CBS,7.8
+1964,NTV,8.0
+1965,TBS,8.0
+1966,Tokyo MX,
+1967,NBC,6.8
+1968,FOX,
+1969,FreeForm,
+1970,FOX,
+1971,Comedy Central,6.5
+1972,ABC,
+1974,FOX,
+1975,CBS,
+1976,AT-X,
+1977,UPN,
+1978,The WB,
+1979,Syndication,7.0
+1980,CBS,
+1981,CTV,7.7
+1982,CBS,8.2
+1983,ABC,
+1984,Null,
+1985,Null,8.0
+1986,CBS,6.3
+1987,NBC,6.7
+1988,CBS,6.6
+1989,ABC,7.0
+1990,NBC,
+1991,FOX,
+1992,MTV,
+1993,The WB,
+1994,BBC Three,5.8
+1995,Sky 1,7.6
+1996,ABC,
+1997,Showcase,7.8
+1998,ABC,
+1999,ABC,
+2000,NBC,8.3
+2001,ABC,6.0
+2002,ABC,8.1
+2003,ABC,
+2004,TNT,
+2005,ABC,
+2006,The WB,
+2007,FOX,7.1
+2008,MTV,
+2009,BBC One,6.2
+2010,AMC,
+2011,NBC,
+2012,Sundance TV,
+2013,NBC,8.7
+2014,La Sexta,
+2015,BBC One,7.8
+2016,Syfy,8.9
+2017,DR1,8.3
+2018,UPN,
+2019,FOX,7.2
+2020,FOX,
+2021,The WB,7.4
+2022,Syfy,7.6
+2023,Syndication,
+2024,USA Network,7.4
+2025,ABC,7.8
+2026,TV Tokyo,
+2027,ABC,
+2028,Null,8.4
+2029,FX,7.3
+2030,Channel 4,7.8
+2031,ABC,7.3
+2032,ABC,
+2033,NBC,
+2034,CBS,8.0
+2035,USA Network,
+2036,NRK1,7.7
+2037,Tokyo MX,8.6
+2038,T+E,6.8
+2039,NBC,7.9
+2040,Syndication,
+2041,CBC,
+2042,Sky Atlantic,6.8
+2043,TV Tokyo,8.0
+2044,CBS,8.0
+2045,NBC,7.8
+2046,ABC,
+2047,CBS,8.3
+2048,MBS,
+2049,NTV,8.5
+2050,CBS,6.9
+2051,SUN-TV,8.8
+2052,Null,7.7
+2053,Bravo,
+2054,RTÉ ONE,8.5
+2055,ITV,
+2056,SBS,
+2057,MBC,
+2058,Syndication,
+2059,Tokyo MX,8.1
+2060,MBS,7.2
+2061,AT-X,7.5
+2062,Tokyo MX,7.5
+2063,Tokyo MX,4.0
+2064,Channel 4,
+2065,AT-X,
+2066,Tokyo MX,
+2067,AT-X,
+2068,Tokyo MX,
+2069,TV Tokyo,8.5
+2071,TBS,8.8
+2072,Fuji TV,7.5
+2073,TV Land,7.6
+2074,ABC,
+2075,NBC,8.3
+2076,Ovation,
+2077,BBC One,
+2078,ITV,
+2079,ITV,
+2080,Null,5.0
+2081,ABC,
+2082,TNT,7.8
+2083,CBS,7.7
+2084,NBC,6.8
+2085,CBS,8.0
+2086,Canal+,8.7
+2087,NBC,7.6
+2088,Fuji TV,
+2089,BBC Two,
+2090,Discovery Channel,
+2091,Hallmark Channel,7.8
+2092,National Geographic Channel,
+2093,NBC,6.9
+2094,BBC One,8.6
+2095,FXX,7.6
+2096,Disney Channel,
+2097,Showcase,7.1
+2098,ITV Be,
+2099,MTV,
+2100,MTV,7.5
+2101,Fox Reality Channel,
+2102,Fuji TV,8.7
+2103,Fuji TV,9.0
+2104,Fuji TV,7.7
+2105,CBC,
+2106,BBC Two,
+2107,FOX,
+2108,Bravo,7.3
+2109,Bravo,
+2110,FOX,6.0
+2111,Syndication,
+2113,VH1,
+2114,ABC,6.4
+2115,Animal Planet,
+2116,History,
+2117,Starz,
+2118,ABC,6.3
+2119,NBC,8.0
+2120,ABC,
+2121,CBS,7.0
+2122,NBC,9.3
+2123,Syndication,
+2124,CBS,6.6
+2125,Syndication,
+2126,Syndication,
+2127,NBC,
+2128,ABC,8.2
+2129,ABC,
+2130,ABC,
+2131,CBS,
+2132,NBC,8.3
+2133,ABC,
+2134,CBS,
+2135,Smithsonian Channel,
+2136,NBC,
+2137,ABC,8.0
+2138,NBC,
+2139,CBS,7.9
+2140,NBC,7.7
+2141,Syndication,
+2142,Syndication,5.3
+2143,ABC,8.0
+2144,ABC,6.6
+2145,ABC,8.0
+2146,ABC,
+2147,ABC,8.8
+2148,ABC,
+2149,NBC,
+2150,ABC,
+2151,CBS,7.6
+2152,History,
+2153,Null,5.7
+2154,FreeForm,
+2155,Syfy,
+2156,HGTV,
+2157,Pivot,
+2158,FreeForm,6.5
+2159,Ovation,
+2160,FreeForm,
+2161,CMT,6.4
+2162,Null,7.9
+2163,Network 10,
+2164,Nine Network,7.9
+2165,CNN,
+2166,PBS,
+2167,SBS,
+2168,MTV2,
+2169,Food Network,
+2170,HLN,
+2171,AHC,
+2173,Null,8.2
+2174,Null,7.2
+2175,Null,6.9
+2176,Null,7.3
+2178,Syfy,6.2
+2185,FreeForm,
+2186,FreeForm,7.7
+2187,NPO 1,
+2188,Bravo,
+2189,Nickelodeon,7.5
+2191,Syndication,
+2192,Syndication,
+2193,Syndication,9.1
+2194,Disney Channel,6.5
+2195,Disney Channel,6.6
+2196,BBC One,
+2197,NBC,
+2198,Syndication,
+2199,Syndication,
+2200,Disney Channel,
+2201,TNT,
+2202,Discovery Life,
+2203,Discovery Channel,7.9
+2204,E!,
+2205,CBC,7.6
+2206,Disney Channel,6.8
+2207,Disney Channel,
+2208,HBO,7.2
+2209,Disney Channel,
+2210,FOX,6.0
+2211,CBS,8.2
+2212,ABC,6.3
+2213,ABC,
+2214,Channel 10,8.4
+2215,CBS,
+2217,NBC,
+2218,NBC,7.1
+2219,CBS,7.8
+2220,FOX,6.3
+2221,Travel Channel,
+2222,Travel Channel,
+2223,AHC,
+2225,History,7.4
+2226,MSNBC,
+2227,Al Jazeera America,
+2228,Sky Atlantic,8.4
+2229,History,
+2230,AHC,
+2231,"fyi,",
+2233,Golf Channel,
+2234,Food Network,
+2236,TLC,7.2
+2237,Cooking Channel,
+2238,ITV,
+2240,Comedy Central,7.3
+2241,Science,
+2242,Esquire Network,
+2243,NBC,7.6
+2244,NBC,7.7
+2245,NBC,6.0
+2246,NBC,8.0
+2247,Null,6.2
+2248,BBC Two,
+2249,Sky 1,9.0
+2250,Oxygen,
+2251,CNBC,
+2252,Food Network,
+2253,Lifetime Movies,
+2254,BET,
+2255,FOX,
+2256,ABC,8.4
+2257,Outdoor Channel,
+2258,Game Show Network,
+2259,Null,
+2260,The CW,6.8
+2261,UP TV,4.5
+2262,A&E,8.3
+2263,A&E,
+2264,A&E,
+2265,Investigation Discovery,
+2266,USA Network,7.7
+2267,Disney Channel,
+2268,Bloomberg TV,
+2269,Disney XD,
+2270,VH1,
+2271,Cartoon Network,
+2272,RTP1,
+2273,Animal Planet,
+2274,Discovery Channel,8.1
+2275,CBS,6.4
+2276,CBS,8.4
+2277,FOX,6.1
+2278,Smithsonian Channel,
+2279,Al Jazeera America,
+2280,Food Network,
+2281,BBC One,
+2282,FOX News Channel,8.3
+2283,Lifetime,
+2284,Travel Channel,
+2285,BBC One,8.3
+2286,DIY Network,7.5
+2287,Paramount Network,
+2289,Syfy,8.3
+2290,HGTV,
+2291,Nick Jr.,
+2292,Investigation Discovery,
+2293,Food Network,
+2294,AMC,7.8
+2295,Discovery Channel,
+2296,Travel Channel,
+2297,The Weather Channel,
+2298,Null,
+2299,AMC,7.2
+2300,AMC,8.2
+2301,Null,
+2302,CBS,5.9
+2304,BET,
+2305,NBC,
+2306,ABC,7.9
+2307,Travel Channel,
+2308,Comedy Central,
+2309,REELZ,
+2310,Investigation Discovery,
+2311,NBC,
+2312,Travel Channel,
+2313,We tv,
+2314,CMT,
+2315,CBS,7.8
+2316,Showtime,
+2317,BET,
+2318,Outdoor Channel,
+2319,Discovery Channel,
+2320,BBC Three,
+2321,Channel 4,6.5
+2322,National Geographic WILD,
+2323,BBC One,8.1
+2324,HLN,
+2325,MotorTrend,
+2327,BBC One,8.1
+2328,Sky Atlantic,7.3
+2329,Channel 4,8.2
+2330,Sky 1,7.6
+2331,BBC One,6.8
+2332,Travel Channel,
+2333,ITV,
+2334,ITV,7.8
+2335,Channel 4,
+2336,truTV,
+2337,E!,
+2338,Travel Channel,
+2339,NBC,
+2340,REELZ,
+2341,FOX News Channel,
+2342,Centric,
+2343,BBC Two,7.2
+2344,CBBC,
+2345,ITV,
+2346,Sky 1,6.8
+2347,BBC One,8.8
+2349,The CW,
+2350,The CW,
+2351,Science,
+2353,Investigation Discovery,
+2354,Science,
+2355,BBC One,8.5
+2356,BBC Two,
+2357,E4,
+2358,BBC One,8.6
+2359,BBC One,
+2360,RTÉ ONE,7.7
+2361,ITV,7.9
+2362,BBC Two,
+2363,BBC One,
+2364,History,
+2365,National Geographic Channel,
+2366,National Geographic WILD,
+2367,Syfy,6.9
+2368,Fuji TV,8.1
+2369,Nickelodeon,
+2370,The CW,6.9
+2371,TeenNick,
+2372,National Geographic Channel,
+2373,DIY Network,
+2374,"fyi,",
+2375,HGTV,
+2376,Discovery Channel,7.5
+2377,Syfy,6.0
+2378,Lifetime,
+2379,E!,
+2380,TBS,6.7
+2381,UPN,8.1
+2382,CBS,7.7
+2383,TeenNick,
+2384,NPO 1,
+2385,Great American Country,
+2386,NPO 1,
+2387,DIY Network,
+2388,Destination America,
+2389,REELZ,
+2390,Esquire Network,
+2391,REELZ,
+2392,Oxygen,
+2393,TLC,
+2394,TLC,
+2396,TV Land,5.9
+2397,A&E,
+2398,E!,3.8
+2399,E!,
+2400,Lifetime,
+2401,ABC,
+2402,E!,
+2403,FreeForm,
+2404,REELZ,
+2405,ORF 1,
+2406,"fyi,",
+2407,E!,
+2408,HBO,
+2410,Cooking Channel,
+2411,E!,7.6
+2412,TVO,
+2413,"fyi,",
+2414,Null,7.1
+2415,FX,8.0
+2417,Nick Jr.,
+2418,MTV2,
+2419,"fyi,",
+2422,Investigation Discovery,7.6
+2423,Animal Planet,8.4
+2424,REELZ,
+2425,DIY Network,
+2426,Lifetime Movies,
+2427,Starz,8.1
+2428,BBC One,
+2429,BBC One,
+2430,History,
+2431,Oprah Winfrey Network,
+2432,Oprah Winfrey Network,
+2433,Hallmark Channel,
+2434,HLN,
+2435,MTV,
+2436,National Geographic Channel,
+2438,National Geographic Channel,7.6
+2439,TLC,
+2440,History,
+2441,Channel 9 MCOT HD,9.2
+2442,Sky Witness,
+2444,Channel 8,
+2445,Первый канал,
+2446,Adult Swim,6.9
+2447,TV Asahi,8.2
+2448,HLN,
+2449,FOX,
+2450,FOX,
+2451,Food Network,
+2452,Discovery Channel,
+2453,Destination America,
+2454,Nine Network,
+2455,BBC Four,
+2456,RTL4,
+2457,PBS,8.3
+2458,ESPN,
+2459,Food Network,7.7
+2460,VH1,
+2465,A&E,6.8
+2466,BBC One,
+2467,BBC One,
+2468,Starz,7.0
+2469,E!,
+2470,NBC,6.9
+2471,PBS,
+2473,CBS,8.1
+2474,CBS,7.6
+2475,FOX,7.2
+2476,Disney XD,7.9
+2477,ABC,7.4
+2478,FOX,7.3
+2479,Discovery Channel,
+2480,truTV,
+2481,Science,8.9
+2482,WOWOW,6.8
+2483,MBS,8.4
+2484,DIY Network,
+2485,Cooking Channel,
+2486,Cooking Channel,
+2487,Disney XD,
+2488,The CW,7.4
+2489,Hallmark Channel,6.8
+2490,National Geographic Channel,
+2491,NPO 2,
+2492,NPO 2,
+2493,TVB,
+2494,Discovery Channel,
+2496,TV One,
+2497,TLC,
+2498,TLC,5.0
+2499,Lifetime Movies,
+2500,Investigation Discovery,
+2501,CNBC,
+2502,ZDF,
+2503,ZDF,
+2504,RTL4,
+2505,Bravo,
+2506,Investigation Discovery,
+2507,Game Show Network,
+2508,Destination America,
+2509,AHC,
+2510,"fyi,",
+2511,MTV,
+2512,Discovery Channel,7.3
+2513,Cooking Channel,
+2514,Animal Planet,
+2515,AXS TV,
+2516,Pivot,
+2517,Disney Channel,
+2518,Null,8.7
+2519,Nicktoons,
+2520,KBS2,
+2521,CBS,
+2522,The CW,
+2523,Network 10,7.7
+2524,Tokyo MX,7.2
+2525,RTL4,
+2526,Tokyo MX,8.2
+2527,GTH on Air,
+2528,ABC,8.4
+2529,Tokyo MX,7.8
+2530,MBS,6.8
+2531,Tokyo MX,6.6
+2532,TBS,
+2533,Oxygen,
+2534,National Geographic Channel,
+2535,Fox Sports 1,
+2536,HGTV,
+2537,AHC,
+2538,National Geographic WILD,
+2540,Disney XD,7.4
+2541,Disney XD,
+2542,Seven Network,
+2543,NTV,
+2544,History,
+2545,KBS2,
+2546,Kanal 5,5.7
+2548,ITV,6.3
+2549,A&E,
+2550,Lifetime,
+2551,Esquire Network,
+2552,"fyi,",
+2553,Mnet,8.0
+2554,MTV,8.1
+2555,G4,5.7
+2557,Disney Channel,7.5
+2558,MTV,6.8
+2559,Nickelodeon,
+2560,France 3,
+2561,Challenge,8.0
+2562,HGTV,
+2563,ABC,
+2564,Disney XD,
+2565,Nicktoons,7.6
+2566,E!,
+2567,CBS,
+2568,Teletoon,
+2569,ABC,5.3
+2570,"fyi,",
+2571,"fyi,",
+2572,Pop,
+2573,BBC Three,
+2574,Channel 4,
+2575,BBC Two,8.2
+2576,Channel 4,
+2577,BBC Three,
+2578,BBC Two,
+2579,Adult Swim,7.9
+2581,Showtime,
+2582,BBC Two,
+2583,HBO,8.0
+2584,Channel 4,8.8
+2585,ITV,
+2586,BBC One,
+2587,HBO,8.9
+2588,BBC Three,
+2589,BBC Two,
+2590,HBO,8.3
+2591,Adult Swim,8.2
+2592,BBC One,8.8
+2593,FOX,7.4
+2595,SBS 6,
+2596,H2,
+2597,MTV,
+2598,TV One,
+2599,ABC,
+2600,Seven Network,8.0
+2601,ABC,7.4
+2602,NPO 3,
+2603,ITV,
+2604,BBC One,8.0
+2605,ITV,8.2
+2607,Logo TV,
+2608,Discovery Channel,
+2609,Hallmark Movies & Mysteries,7.7
+2610,Travel Channel,
+2611,TLC,
+2612,Cartoon Network,8.3
+2613,"fyi,",
+2614,Animal Planet,
+2615,DIY Network,
+2616,Null,
+2617,Null,
+2618,Null,
+2619,VH1,
+2622,BBC One,6.0
+2623,Discovery Channel,
+2624,MotorTrend,8.3
+2625,"fyi,",
+2626,truTV,
+2627,NBCSN,
+2628,Null,
+2629,A&E,
+2630,TV One,
+2631,We tv,
+2632,Epix,6.9
+2635,Null,
+2636,Epix,6.8
+2637,Channel 5,
+2638,National Geographic Channel,
+2639,Lifetime,
+2640,National Geographic Channel,
+2641,Nine Network,7.9
+2642,National Geographic Channel,
+2643,Disney Channel,6.8
+2644,History,
+2645,Paramount Network,
+2646,Discovery Life,
+2647,ESPN2,
+2648,MSNBC,
+2649,Science,8.0
+2650,AXS TV,
+2651,BOUNCE TV,
+2653,Discovery Channel,
+2654,Syfy,
+2655,Ovation,
+2656,CMT,
+2657,CMT,
+2658,Travel Channel,
+2659,Nickelodeon,
+2660,Destination America,
+2661,Discovery Channel,
+2662,RTL4,
+2663,Null,
+2665,ITV,
+2666,ABC,
+2667,Food Network,
+2668,Null,8.2
+2669,ABC,
+2670,Oxygen,
+2671,MotorTrend,
+2672,History,
+2673,CNBC,
+2674,"fyi,",
+2675,AHC,
+2677,Nine Network,8.1
+2678,VH1,
+2679,The CW,
+2680,Discovery Family,
+2681,A&E,
+2682,Null,6.6
+2683,Null,
+2684,BBC Two,
+2685,Discovery Family,
+2686,Null,8.0
+2687,Null,8.0
+2688,Pivot,
+2689,KBS2,
+2690,één,
+2691,KBS1,
+2692,KBS1,
+2693,"fyi,",
+2694,TBS,
+2695,Travel Channel,
+2696,Destination America,
+2697,National Geographic Channel,
+2698,El Rey Network,
+2699,AHC,
+2700,National Geographic Channel,
+2702,Investigation Discovery,
+2703,VH1,
+2704,TV Tokyo,
+2705,Null,8.5
+2706,Oxygen,
+2707,HBO Latin America,
+2708,Esquire Network,
+2709,Lifetime,5.4
+2710,USA Network,7.4
+2711,Cartoon Network,8.1
+2712,FreeForm,7.3
+2713,Travel Channel,
+2714,UP TV,6.4
+2715,Null,
+2716,MotorTrend,
+2717,TV Asahi,
+2718,Food Network,
+2719,TVN,
+2720,TVE,
+2721,NPO 1,
+2722,CNBC,
+2723,AHC,
+2724,TBS,8.0
+2725,Investigation Discovery,
+2726,Food Network,
+2727,Game Show Network,
+2728,Lifetime,
+2729,Investigation Discovery,
+2730,Null,7.6
+2731,Dave,7.8
+2733,Canal+,7.7
+2734,KBS1,
+2735,Cooking Channel,
+2736,HBO Latin America,
+2737,NPO 2,
+2738,The Weather Channel,
+2740,Showtime,7.3
+2742,Null,5.7
+2743,Null,7.7
+2745,USA Network,7.8
+2746,FOX,6.8
+2747,HBO,7.2
+2748,HBO,7.2
+2750,IFC,7.7
+2751,IFC,5.6
+2752,Null,6.5
+2753,FX,6.8
+2754,Comedy Central,7.2
+2756,CBS,6.2
+2757,USA Network,7.9
+2758,PBS,7.8
+2759,Null,8.5
+2760,Starz,8.0
+2761,Null,8.1
+2762,KBS2,
+2763,OCN,
+2764,Logo TV,
+2765,TLC,
+2767,MBC,
+2768,SBS,9.0
+2769,Null,
+2770,Null,
+2771,Tokyo MX,7.4
+2772,Adult Swim,7.9
+2773,BBC One,8.0
+2774,TBS,
+2775,Fuji TV,8.3
+2776,TBS,
+2777,Channel 4,
+2778,BBC Two,
+2779,BBC Two,
+2780,Showtime,6.5
+2782,TV Land,7.0
+2785,jTBC,
+2786,BBC Three,
+2787,A&E,
+2789,BBC Two,
+2790,NBC,7.7
+2791,Star Plus,
+2793,NBC,5.9
+2796,ITV,8.1
+2797,Showcase,6.3
+2798,TV Tokyo,
+2799,NBCSN,
+2800,RTV Utrecht,
+2801,FOX,7.6
+2802,CMT,
+2803,Bravo,
+2804,Lifetime,
+2805,ABC,
+2806,Travel Channel,
+2807,History,
+2808,Bravo,
+2809,A&E,
+2810,FUSE TV,
+2811,Null,6.4
+2812,CBS Sports Network,
+2813,Travel Channel,
+2814,OCN,7.3
+2815,Science,
+2816,"fyi,",
+2818,Discovery Family,7.5
+2819,HGTV,
+2820,USA Network,5.8
+2821,truTV,
+2822,BET,
+2823,MBC,
+2824,MBC,7.6
+2825,jTBC,
+2826,KBS2,
+2827,KBS2,
+2828,BBC Two,
+2829,ABC,
+2830,Россия 1,
+2831,CBS,5.5
+2832,PBS,
+2833,Canal+,
+2834,SBS,7.9
+2835,Comedy Central,6.2
+2836,Bravo,5.5
+2837,Travel Channel,
+2838,Game Show Network,
+2839,DIY Network,
+2840,National Geographic Channel,
+2841,WOWOW,
+2843,TG4,
+2844,TV4,
+2845,Cooking Channel,
+2846,SBS,
+2847,Null,7.8
+2849,TBS,
+2850,Hunan TV,
+2851,TVB,
+2852,KBS2,7.4
+2853,GTH on Air,
+2854,PBS,
+2855,Null,8.0
+2856,Investigation Discovery,
+2857,Destination America,7.0
+2858,CMT,
+2859,Cooking Channel,
+2860,BBC Two,
+2861,WOWOW,
+2862,TVB HD Jade,
+2863,tvN,
+2864,OCN,
+2865,MBC,
+2866,FOX,
+2867,Discovery Channel,
+2868,NHK,
+2869,MBS,8.3
+2870,MBC,
+2871,TV Tokyo,
+2872,jTBC,
+2873,Multishow,
+2874,Fuji TV,
+2875,BBC Two,
+2876,Audience Network,
+2877,BBC One,
+2878,Investigation Discovery,
+2879,Food Network,5.8
+2880,Food Network,7.8
+2881,VH1,
+2882,Disney Channel,
+2883,Bravo,
+2884,Investigation Discovery,
+2885,Disney Channel,7.3
+2886,Bravo,
+2887,Investigation Discovery,7.5
+2888,VH1,6.9
+2889,VH1,
+2890,DIY Network,
+2891,NBC,
+2892,Food Network,
+2893,ABC,
+2894,Investigation Discovery,8.3
+2895,ZDF,
+2896,NPO 3,
+2897,Channel 4,
+2898,Shenzhen TV,
+2900,Bravo,6.8
+2901,Bravo,
+2902,Cooking Channel,
+2903,Discovery Channel,6.8
+2904,Discovery Channel,
+2905,BBC Two,
+2906,Channel 5,
+2907,National Geographic Abu Dhabi,
+2908,Syndication,
+2909,Lifetime Movies,
+2910,Channel 4,
+2911,BBC One,8.8
+2912,BBC One,
+2913,BBC Two,8.8
+2914,BBC One,7.2
+2915,MotorTrend,
+2916,Speed TV,
+2917,BOUNCE TV,7.0
+2918,Null,
+2919,Null,
+2920,TV One,
+2921,TV One,
+2922,TV One,
+2924,TV One,
+2925,TV One,
+2926,Investigation Discovery,
+2927,TV Chosun,
+2928,AXS TV,
+2929,AXS TV,
+2930,ESPN,
+2931,Nickelodeon,
+2932,TLC,4.2
+2933,TLC,
+2934,TLC,
+2935,TLC,
+2936,TLC,
+2937,W Network,
+2938,CBS Sports Network,
+2942,Syfy,7.3
+2946,"fyi,",
+2947,Lifetime Movies,
+2948,Sky 1,8.1
+2949,Channel 4,
+2950,Channel 4,8.5
+2951,Channel 4,
+2952,Channel 4,6.4
+2953,BBC Two,7.3
+2954,Dave,
+2955,Channel 4,8.1
+2956,Channel 4,8.3
+2957,BBC One,7.7
+2958,BBC One,7.0
+2959,BBC Two,
+2960,BBC Two,7.6
+2961,BBC One,7.6
+2962,BBC One,
+2963,BBC Two,8.8
+2964,ITV,7.8
+2965,ITV2,
+2966,Dave,7.0
+2967,Dave,
+2968,ITV2,7.1
+2969,BBC One,6.4
+2970,Channel 4,
+2971,Dave,
+2972,BBC Two,
+2973,BBC Two,
+2974,TV Asahi,
+2975,tvN,
+2976,ITV,
+2977,tvN,
+2978,DIY Network,
+2979,ITV,
+2981,NPO 1,
+2982,France 3,
+2983,Channel 5,
+2984,Sundance TV,
+2985,Food Network,
+2986,HGTV,
+2987,Cooking Channel,
+2988,CTV,7.5
+2989,ABC,
+2990,ČT1,
+2991,BBC Two,
+2992,CBS,6.3
+2993,Null,8.7
+2994,"fyi,",
+2995,A&E,
+2996,Null,
+2997,RTL4,
+2998,SBS,
+2999,Paramount Network,7.4
+3000,SBS,7.7
+3001,Outdoor Channel,
+3002,Outdoor Channel,
+3003,Null,
+3004,Channel 4,7.9
+3005,Net5,
+3006,NPO 3,
+3007,National Geographic Channel,
+3009,SBS,7.9
+3010,PBS,
+3012,Outdoor Channel,
+3013,Fusion,
+3014,TV One,
+3016,VTM,
+3017,Fusion,
+3018,Discovery Family,
+3019,Disney XD,
+3020,Investigation Discovery,
+3021,HGTV,
+3022,Null,7.0
+3024,MTV,
+3027,Null,6.4
+3030,TNT,6.7
+3031,NBC,7.1
+3032,CBS,5.9
+3034,Seven Network,8.2
+3035,Sky Atlantic,
+3036,Null,7.2
+3037,Canal+,7.6
+3038,Showcase,7.1
+3039,Null,8.1
+3040,"fyi,",
+3041,Discovery Family,
+3042,Discovery Family,
+3043,Investigation Discovery,
+3044,FUSE TV,
+3045,FUSE TV,
+3046,FUSE TV,
+3047,FUSE TV,
+3048,FUSE TV,
+3049,FUSE TV,
+3050,REELZ,
+3052,Discovery Family,
+3055,Great American Country,
+3056,Investigation Discovery,
+3057,CMT,
+3058,Syndication,
+3059,Cooking Channel,
+3060,Ovation,
+3061,Ovation,
+3062,ITV,7.0
+3063,Food Network,
+3064,Destination America,
+3065,Oxygen,
+3066,Disney XD,
+3067,VH1,6.2
+3068,H2,
+3069,ITV,7.2
+3070,Bravo,
+3071,Discovery Channel,
+3072,ABC,7.4
+3073,ABC,6.9
+3074,ABC,7.8
+3075,CBS,8.1
+3076,CBS,6.8
+3077,FOX,6.5
+3078,NBC,7.8
+3079,NBC,7.3
+3080,HBO,7.8
+3081,Null,5.6
+3082,Syfy,7.0
+3083,Syfy,7.9
+3084,Showtime,
+3085,Cooking Channel,
+3086,Three,
+3087,Three,6.0
+3088,TVNZ 1,8.3
+3089,Three,
+3090,Three,
+3092,TLC,
+3093,TLC,
+3094,BET,
+3095,BET,5.3
+3096,Science,
+3097,Paramount Network,
+3098,Null,
+3099,Null,8.1
+3100,CTV,6.8
+3101,History,7.6
+3102,NBC,
+3104,NBC,7.4
+3108,MTV,
+3109,MTV,7.9
+3110,Travel Channel,
+3111,truTV,7.3
+3112,UP TV,
+3113,BBC Two,
+3114,Disney XD,7.8
+3115,Nickelodeon,5.0
+3116,Travel Channel,
+3117,Disney XD,
+3118,CMT,
+3119,E!,
+3121,ITV,
+3122,ITV,6.6
+3123,Destination America,
+3124,Destination America,
+3125,E!,
+3126,Esquire Network,
+3127,More4,
+3128,Sky 1,7.3
+3129,CBBC,7.8
+3130,Channel 5,
+3131,BBC Four,8.4
+3132,BBC Two,8.5
+3134,Cartoon Network,8.8
+3135,Adult Swim,8.5
+3136,Comedy Central,7.2
+3137,Channel 4,
+3138,Animal Planet,6.7
+3139,TLC,5.9
+3140,ITV Be,3.0
+3141,Arena,
+3142,BBC One,7.8
+3143,BBC Two,
+3144,AMC,8.1
+3145,National Geographic Channel,8.2
+3147,DIY Network,
+3148,Nicktoons,
+3149,A&E,
+3150,Adult Swim,6.4
+3151,W,7.8
+3152,Showtime,
+3153,CBC,5.1
+3154,National Geographic Channel,
+3155,Adult Swim,4.2
+3156,BBC One,7.6
+3157,Sky 1,8.1
+3158,BBC One,7.0
+3159,Seven Network,
+3160,Network 10,7.8
+3161,Nine Network,9.3
+3162,Showcase,
+3163,CTV,7.5
+3164,CBC,8.4
+3165,BBC Two,
+3166,BBC One,8.9
+3167,SBS,7.7
+3168,SBS,
+3169,Fuji TV,
+3170,KBS2,7.9
+3171,National Geographic Channel,
+3172,KBS2,
+3173,TV Chosun,
+3174,MBC,7.2
+3175,MBC,
+3176,MBC,7.2
+3178,MBC,
+3179,MBC,
+3180,MTV,3.6
+3182,Starz,7.8
+3183,CBS,
+3184,ABC,7.0
+3185,Discovery Channel,8.2
+3186,Null,
+3188,Channel 4,
+3189,ABC,5.3
+3190,"fyi,",
+3191,Disney Channel,
+3192,VH1,5.7
+3193,Disney XD,
+3194,MBC,
+3195,MBC,
+3196,MBC,
+3197,MBC,
+3198,MBC,
+3199,MBC,8.4
+3200,MBC,
+3201,Discovery Channel,8.2
+3202,Discovery Channel,6.7
+3203,NBC,7.6
+3204,BBC Two,8.0
+3205,BBC Two,7.3
+3206,TVNZ 2,
+3207,"fyi,",
+3208,Esquire Network,
+3209,National Geographic Channel,7.1
+3210,Food Network,
+3211,PBS,8.7
+3212,Food Network,
+3213,Food Network,
+3214,Food Network,
+3215,PBS,
+3216,Channel 5,
+3217,Travel Channel,
+3218,Food Network,
+3219,Paramount Network,
+3220,CTV,
+3221,Food Network,
+3222,Food Network,
+3223,Travel Channel,
+3224,Cooking Channel,
+3225,Food Network,
+3226,Food Network,5.6
+3227,Network 10,
+3228,Investigation Discovery,9.1
+3229,History,7.8
+3230,MBC,
+3231,MBC,
+3232,MBC,
+3233,MBC,
+3234,MBC,
+3235,MBC,
+3236,MBC,
+3237,MBC,
+3238,MBC,
+3239,MBC,
+3240,MBC,
+3241,MBC,
+3242,MBC,
+3243,Syndication,
+3244,UP TV,
+3245,History,6.5
+3246,Centric,
+3248,Bravo,7.9
+3249,ITV,8.6
+3250,ABC,8.4
+3251,Channel 4,7.8
+3252,Null,8.3
+3254,Channel 4,8.0
+3255,ITV,8.9
+3256,ITV,
+3257,Sky Witness,6.8
+3258,BBC One,7.5
+3259,Sky Uno,
+3260,Sky Uno,
+3261,BBC America,
+3262,TLC,8.5
+3263,TF1,5.7
+3265,KBS2,
+3266,SBS,
+3267,KBS2,7.3
+3269,KBS2,
+3270,OCN,
+3271,Disney XD,
+3272,Discovery Family,
+3273,Food Network,
+3274,NBC,
+3275,Outdoor Channel,
+3276,ITV,8.5
+3277,MTV,3.4
+3278,Great American Country,
+3279,MTV,3.2
+3280,H2,
+3281,H2,
+3282,BBC One,8.5
+3283,NBC,8.5
+3284,ABC,6.8
+3285,UPN,7.0
+3286,Discovery Channel,6.8
+3287,FX,8.5
+3288,CBS,7.3
+3289,Syndication,8.3
+3290,TF1,
+3291,ITV,
+3292,NBC,7.5
+3293,FOX,8.4
+3294,ABC,7.7
+3295,Null,
+3296,ITV,
+3297,BBC One,6.9
+3298,Lifetime Movies,
+3299,Nickelodeon,
+3300,ABC,8.3
+3301,НТВ,
+3302,ITV,8.3
+3303,BBC One,
+3304,Network 10,
+3305,НТВ,
+3306,ABC Comedy,7.5
+3307,CBS,8.1
+3308,Bravo,8.4
+3309,CBS,8.3
+3310,A&E,
+3311,A&E,
+3312,ABC,8.4
+3313,ABC,8.1
+3314,Channel 4,7.9
+3315,Food Network,
+3316,Syfy,8.0
+3318,VTM,
+3319,National Geographic WILD,
+3321,PBS,8.9
+3322,H2,
+3323,History,
+3324,Paramount Network,7.0
+3325,VTM,
+3326,Discovery Channel,
+3327,CBS,9.0
+3328,CBS,
+3329,BBC Two,
+3330,PBS,7.8
+3331,MTV,
+3332,BT Sport 1,
+3333,Bravo,7.6
+3334,Channel 4,8.1
+3335,BBC Two,
+3336,BBC Two,
+3337,ABC,
+3338,ABC,2.7
+3339,Dragon TV,
+3340,tvN,
+3341,HGTV,7.6
+3342,History,
+3343,PBS,
+3344,Food Network,6.4
+3346,HBO,
+3347,Disney XD,
+3348,"fyi,",
+3350,KBS2,8.3
+3351,SBS,
+3352,СТС,
+3353,СТС,7.9
+3354,Audience Network,
+3355,KBS2,
+3356,Null,
+3357,Channel 2,7.2
+3358,CBS,8.2
+3359,ABC,
+3360,CBS,
+3362,SBS,
+3363,één,
+3364,ITV Encore,7.4
+3365,één,8.5
+3366,ITV,
+3367,Discovery Channel,
+3368,ITV,7.3
+3369,ITV,6.6
+3370,VTM,
+3371,ITV,8.3
+3372,één,
+3373,ITV,
+3374,BBC One,7.9
+3375,BBC Two,
+3376,tvN,
+3377,BBC One,
+3378,BBC One,
+3379,BBC One,
+3380,tvN,
+3381,BBC One,
+3382,BBC One,6.4
+3383,SBS,
+3384,CBC,7.8
+3385,CBC,6.8
+3386,Canal+,8.3
+3387,MBC,
+3388,Canal+,
+3389,KBS2,
+3390,Первый канал,
+3391,ТНТ,7.0
+3392,France 2,9.2
+3393,BBC One,
+3394,BBC One,8.3
+3396,Null,
+3397,BBC One,7.7
+3398,Null,
+3399,BBC One,
+3400,BBC Two,
+3401,Null,7.7
+3402,Adult Swim,
+3403,We tv,7.8
+3404,SVT1,8.0
+3405,Null,
+3406,VH1,
+3407,BBC Three,6.8
+3408,National Geographic Channel,
+3409,Nat Geo Wild,
+3410,BBC One,
+3411,TLC,
+3412,RTÉ ONE,
+3413,Channel 4,7.6
+3414,BBC Four,
+3415,BBC Two,
+3416,Comedy Central,
+3417,ABC,
+3418,ABC,7.3
+3419,ITV4,
+3420,BBC One,
+3421,BBC One,
+3422,BBC One,7.5
+3423,jTBC,
+3424,BBC One,
+3425,BBC One,
+3426,BBC One,
+3427,BBC One,
+3428,KBS Drama,
+3429,BBC Two,
+3430,BBC Two,
+3431,BBC Two,
+3432,Syndication,6.3
+3434,OCN,
+3435,BBC Two,
+3436,Disney Channel,6.0
+3437,BBC Two,
+3438,SBS,
+3439,BBC Two,
+3440,Mnet,
+3442,FreeForm,
+3443,BBC One,
+3444,BBC Two,
+3445,Nicktoons,
+3446,SBS,7.8
+3447,Comedy Central,
+3449,Investigation Discovery,
+3451,BBC Four,8.8
+3452,BBC Two,
+3454,City,
+3456,BBC One,
+3457,BBC Three,6.0
+3458,H2,
+3459,BBC One,
+3460,BBC Two,
+3461,E!,
+3462,SBS,
+3463,CTV Sci-Fi Channel,7.0
+3464,E!,
+3465,VTM,
+3466,DIY Network,
+3467,The CW,
+3468,TNT,
+3469,National Geographic Channel,
+3470,SVT1,7.7
+3471,LifeStyle,
+3472,ITV,
+3473,Channel 4,
+3474,ITV,8.0
+3475,Sky Atlantic,
+3476,ITV,
+3477,MBC,
+3478,MBC,
+3479,SBS,8.5
+3480,MBC,
+3481,Three,8.5
+3482,CNN,
+3483,Null,8.5
+3484,BBC One,
+3485,ITV,
+3486,ITV,
+3487,BBC One,
+3488,CBS,
+3489,BBC Three,
+3490,CNBC,
+3491,Oprah Winfrey Network,7.4
+3492,Nicktoons,
+3493,ABC,7.5
+3494,BOUNCE TV,
+3495,Syfy,
+3496,Null,7.2
+3497,Null,
+3498,ABC,
+3499,Disney XD,
+3500,Logo TV,
+3501,National Geographic WILD,8.4
+3502,SBS,
+3503,KBS2,
+3504,BOUNCE TV,
+3505,jTBC,
+3506,ITV,
+3507,PBS,8.2
+3508,Channel 4,
+3509,PBS,8.9
+3510,Syndication,7.4
+3511,CBS,
+3512,NBC,
+3513,NBC,7.2
+3515,CBS,8.7
+3516,Syndication,
+3517,Discovery Channel,8.3
+3518,TNT,8.4
+3519,TVNorge,8.2
+3520,TVNorge,
+3521,BBC News,
+3522,The Weather Channel,
+3523,Al Jazeera America,
+3524,PBS,8.6
+3525,KBS1,
+3526,KBS1,
+3527,Hallmark Movies & Mysteries,8.3
+3528,Family Channel,
+3529,NBC,
+3530,CBS,
+3531,Hallmark Movies & Mysteries,
+3532,ABC,
+3533,ABC,7.1
+3534,BBC Two,
+3535,SBS,
+3536,SBS,
+3538,tvN,
+3539,MBC Dramanet,
+3541,MBN,
+3542,CBS,6.8
+3543,Syndication,
+3546,ITV,
+3547,Syndication,
+3549,BBC One,6.6
+3550,Discovery Channel,
+3551,ITV,
+3552,BBC One,8.7
+3553,Nine Network,
+3554,ITV,
+3555,TLC,
+3556,ITV,
+3557,Cartoon Network,8.2
+3558,HGTV,
+3559,NBC,
+3560,IFC,6.3
+3561,CBS,
+3562,Super Channel Fuse,
+3563,ITV,
+3564,ABC,8.8
+3566,ITV,
+3567,ITV,
+3569,NBC,
+3570,BBC Four,7.3
+3571,Adult Swim,
+3572,NBC,
+3573,Syndication,6.5
+3574,CBS,
+3575,BBC Three,
+3576,PBS,7.5
+3577,Al Jazeera America,
+3578,CNBC,
+3580,ITV,
+3581,ITV,
+3582,ABC,7.5
+3583,ITV,8.0
+3584,Syfy,
+3585,Cartoon Network,8.1
+3586,ITV,
+3587,FOX,
+3588,CBS,7.9
+3589,ABC,
+3590,TBS,6.6
+3591,ITV,
+3592,BBC One,7.9
+3593,BBC One,8.6
+3594,Null,8.5
+3600,National Geographic Channel,
+3601,ITV Encore,8.1
+3603,HBO,6.9
+3605,HBO,6.7
+3606,Showtime,8.3
+3607,Channel 5,
+3608,CMT,7.5
+3609,ABC,
+3610,Paramount Network,
+3611,H2,
+3612,Seven Network,
+3613,BBC One Scotland,
+3614,ABC,
+3615,The CW,
+3616,USA Network,
+3617,ABC,7.5
+3618,CBC,
+3619,NBC,
+3620,CBS,8.2
+3621,ABC,8.2
+3622,CBC,
+3623,TV4,9.0
+3624,CBC,
+3625,Style TV,
+3626,The CW,
+3627,NPO 3,
+3628,MTV,8.2
+3629,BBC One,
+3633,KBS2,7.7
+3634,CBS Sports Network,
+3635,MBC,7.3
+3636,MBC,
+3637,KBS1,8.2
+3638,MBC,7.9
+3639,CBS Sports Network,
+3640,MotorTrend,
+3641,MotorTrend,
+3642,MotorTrend,
+3643,NBC,
+3644,History,
+3645,Channel 4,
+3646,FOX,7.1
+3647,ABC,5.8
+3648,ITV,
+3650,ITV,
+3651,BBC One,8.7
+3652,ITV,8.8
+3653,ITV,
+3654,ITV,
+3655,BBC One,
+3656,TV2,
+3657,Sky Atlantic,8.3
+3658,CBC,
+3659,NBC,
+3660,Hallmark Channel,
+3661,ABC,7.7
+3662,Virgin Media One,8.0
+3663,TF1,7.7
+3664,ITV,
+3665,NBC,
+3666,ITV,
+3667,ITV,
+3668,ITV,
+3669,RTÉ ONE,
+3670,ITV,
+3671,ITV,
+3672,ITV,
+3673,Showcase TV,
+3674,BBC Two,
+3675,ITV,
+3676,ITV,
+3677,ITV,
+3678,BBC One,6.7
+3679,ABC,7.6
+3680,ITV,
+3681,Null,6.6
+3682,World,
+3683,VH1,
+3684,BBC Four,
+3685,Channel 4,7.0
+3686,Smithsonian Channel,
+3687,BBC Two,
+3688,IFC,
+3689,National Geographic WILD,
+3690,E4,6.2
+3691,Ovation,
+3692,PBS,
+3693,National Geographic WILD,
+3694,Discovery Channel,
+3695,Smithsonian Channel,
+3696,National Geographic Channel,
+3697,BBC Two,
+3698,CBS,
+3699,NBC,
+3700,FOX,
+3701,CBS,
+3702,ABC,
+3703,ABC,
+3704,SBS,8.7
+3705,SBS,
+3706,RTÉ ONE,
+3707,SBS,8.5
+3708,Food Network,
+3709,ABC,
+3710,Syndication,
+3711,Syndication,
+3712,Syndication,
+3713,CBS,
+3714,National Geographic Channel,
+3715,Sky 1,7.4
+3716,PBS,
+3717,PBS,
+3718,BBC News,
+3719,Channel 4,8.2
+3720,REELZ,
+3721,FOX,
+3722,ABC,7.6
+3723,NBC,
+3724,ABC,
+3725,SBS,
+3726,RTÉ ONE,5.7
+3727,ESPN2,
+3728,Paramount Network,5.7
+3730,SBS,7.8
+3732,tvN,7.5
+3733,SBS,8.1
+3734,FUSE TV,
+3735,NFL Network,
+3736,Nick Jr.,
+3737,E4,6.8
+3738,CBS,7.8
+3739,NBC,
+3740,CBS,6.0
+3741,NBC,8.0
+3742,ABC,
+3743,ABC,6.2
+3744,KBS2,
+3745,Network 10,
+3746,CBS,6.4
+3747,OCN,
+3748,History,
+3749,WE tv,
+3750,Channel 4,
+3751,Food Network,
+3753,Animal Planet,
+3754,ITV2,7.7
+3755,BBC Three,5.0
+3756,E4,7.8
+3757,National Geographic,8.0
+3758,Channel 4,
+3759,Channel 4,
+3760,Channel 4,
+3761,Channel 4,
+3762,Channel 4,8.5
+3764,ITV2,
+3766,History,8.4
+3767,CBS,
+3768,National Geographic Channel,
+3769,Animal Planet,
+3770,Sky 1,
+3771,Bravo,
+3772,Bravo,
+3773,ITV,
+3774,ABC,
+3775,Syfy,
+3776,ABC,7.7
+3777,ABC,8.0
+3778,CBS,
+3780,Channel 4,
+3781,Null,
+3782,BBC One,
+3783,BBC Two,
+3784,ITV,
+3786,Channel 5,
+3787,Family Movie Channel,
+3788,ITV,
+3789,National Geographic Channel,
+3790,Destination America,
+3791,BBC Two,
+3792,Yesterday,
+3793,BBC Two,
+3794,History,
+3795,Channel 4,7.4
+3796,Sky Witness,
+3797,Sky Arts,
+3798,ABC,
+3799,Null,7.2
+3800,ITV,
+3801,National Geographic WILD,
+3802,ITV,
+3803,The Comedy Channel,
+3804,ITV,
+3805,Nicktoons,
+3806,Channel 4,6.2
+3808,SBS,
+3809,Sky 1,
+3810,City,
+3811,ITV,7.0
+3812,Sky Witness,
+3814,ABC,
+3815,ABC,
+3817,Gold,
+3818,Nova TV,
+3819,"fyi,",
+3820,Nick Jr.,
+3822,NBC,7.2
+3823,Disney Channel,
+3824,CBS,8.2
+3825,CBS,7.8
+3826,USA Network,5.8
+3827,Channel 5,
+3828,Channel 4,
+3829,Null,7.5
+3830,Disney Channel,
+3831,Discovery Life,
+3832,DIY Network,
+3833,The CW,7.5
+3834,NBC,5.8
+3835,FOX,7.2
+3836,ABC,
+3837,BBC One,8.3
+3838,FOX,
+3839,ABC,8.2
+3840,NBC,7.8
+3841,Oprah Winfrey Network,5.5
+3842,Oprah Winfrey Network,
+3843,USA Network,
+3844,Syndication,
+3845,ABC,
+3846,NBC,5.3
+3847,ABC,
+3848,NBC,
+3849,USA Network,6.6
+3850,PBS,8.3
+3851,World,
+3852,TVP2,
+3853,CBS,8.8
+3854,NBCSN,
+3855,Disney Channel,
+3862,Nickelodeon,
+3863,jTBC,7.3
+3864,KBS2,
+3865,KBS2,
+3866,KBS2,
+3867,jTBC,
+3868,SBS,
+3869,tvN,
+3870,jTBC,8.2
+3871,NBCSN,
+3872,NFL Network,
+3873,Oprah Winfrey Network,
+3874,CMT,
+3875,BBC Two,
+3876,NBC,
+3877,ABC,8.8
+3878,ITV,7.3
+3879,ABC,
+3880,UPN,7.5
+3883,FOX,6.6
+3884,CBS,7.6
+3885,TVNZ 1,
+3886,Sky Arts,
+3887,Sky Witness,7.0
+3888,Sky 1,7.6
+3889,BBC One,
+3890,A&E,6.5
+3891,The Movie Network,
+3892,Syfy,6.8
+3893,Россия 1,7.6
+3894,Network 10,
+3895,ABC,8.3
+3896,TVN,
+3898,TVN,
+3899,TVN,
+3900,TVN,
+3901,TVN,
+3902,Polsat,
+3903,TVP1,
+3905,CNN,
+3907,History,
+3908,CNN,
+3909,BBC One,7.6
+3910,Comedy Central,
+3911,USA Network,8.1
+3912,Null,7.5
+3913,NBC,
+3914,NBC,
+3915,TLC,
+3916,Disney Junior,
+3917,Disney Junior,
+3918,The Weather Channel,
+3919,Pop,
+3920,Syfy,
+3921,truTV,
+3922,Telemundo,
+3923,PBS,
+3924,Lifetime,
+3925,Oprah Winfrey Network,6.8
+3926,BBC One,
+3927,Cooking Channel,
+3928,Comedy Central,6.2
+3929,The WB,
+3930,Animal Planet,
+3931,The CW,5.4
+3932,Cartoon Network,7.8
+3933,BBC One,7.8
+3934,DR1,7.8
+3935,CBS,6.0
+3936,CBS,6.4
+3937,CNN,7.8
+3938,CBS,7.2
+3939,CBS,
+3940,NBC,6.4
+3941,FOX,
+3942,FreeForm,
+3943,MTV,6.8
+3944,TV Land,
+3945,TBS,7.0
+3946,FOX,6.4
+3947,Bravo,
+3948,Discovery Channel,
+3949,Null,7.3
+3950,FreeForm,4.0
+3951,BBC One,8.1
+3952,NTV,
+3953,Null,8.4
+3954,MTV,8.0
+3955,MTV,
+3956,MTV,
+3957,Sub.,
+3958,MTV,
+3959,Showcase,
+3960,KBS2,
+3961,MBC Every1,
+3962,Lifetime,6.3
+3963,NRK1,
+3964,Null,8.0
+3965,Discovery Channel,
+3966,ABC,
+3967,Adult Swim,7.0
+3968,BBC One,8.0
+3969,BBC One,
+3970,Adult Swim,7.4
+3971,Adult Swim,
+3972,ABC,
+3973,IFC,7.1
+3974,ITV2,6.8
+3975,DIY Network,
+3976,Current TV,
+3977,NBC,7.0
+3978,Travel Channel,
+3979,A&E,
+3980,A&E,7.2
+3981,ABC,6.7
+3982,FOX,
+3983,Sky 1,
+3984,BBC Two,7.5
+3985,ITV4,
+3986,Null,6.9
+3987,W,
+3988,Channel 4,
+3989,Lifetime,
+3990,MTV,
+3991,BBC One,
+3992,ABC,
+3993,BBC Three,8.0
+3995,Lifetime,
+3996,Nickelodeon,
+3997,A&E,6.5
+3998,FOX,
+3999,NBC,
+4000,BBC One,8.7
+4001,BBC Two,
+4002,BBC Two,
+4003,France 2,
+4004,National Geographic Channel,
+4005,Investigation Discovery,8.3
+4006,Biography Channel,
+4007,Investigation Discovery,
+4008,Animal Planet,6.0
+4009,TLC,
+4010,CBC,8.0
+4011,Showcase,
+4012,The Movie Network,
+4013,Polsat,
+4014,Sky Uno,
+4015,REELZ,
+4016,REELZ,
+4017,Lifetime,
+4018,Universal Kids,
+4019,Investigation Discovery,
+4020,FOX,6.8
+4021,ITV2,
+4022,CBS,8.1
+4023,BBC One,
+4024,BBC One,
+4025,BBC Two,
+4026,Really,8.3
+4027,MTV,6.8
+4028,MTV,
+4029,Channel 4,
+4030,BBC One,8.5
+4031,BBC Three,7.0
+4032,E4,
+4033,Cartoon Network,
+4034,Null,
+4035,Cooking Channel,
+4036,Null,5.8
+4037,Nickelodeon,8.8
+4038,Null,6.5
+4039,Nicktoons,7.8
+4040,ABC,
+4041,CBS,7.2
+4042,ABC,8.7
+4043,NBC,
+4044,ABC,6.8
+4045,ABC,
+4046,NBC,
+4047,NBC,7.7
+4048,CBS,
+4049,NBC,
+4050,CBS,7.7
+4051,ABC,
+4052,NBC,
+4053,USA Network,
+4054,ABC,
+4055,Первый канал,8.0
+4056,NBCSN,
+4057,FOX,
+4059,USA Network,
+4060,Sky 1,
+4061,Channel 4,
+4062,BBC Two,
+4063,Channel 4,
+4064,The WB,
+4065,ITV,
+4066,REELZ,
+4067,BBC One,
+4068,TLC,
+4069,Paramount Network,
+4070,Oxygen,
+4071,PRO TV,
+4072,Null,7.0
+4073,Animal Planet,7.2
+4076,Null,
+4077,NBCSN,
+4079,Null,
+4080,Cooking Channel,
+4081,History,
+4083,ABC,
+4084,G4,8.5
+4085,BBC Two,
+4086,Family Channel,6.0
+4087,MTV,
+4088,BBC Three,
+4089,Syndication,
+4090,E4,
+4091,Null,8.1
+4092,Tokyo MX,7.2
+4093,France 2,
+4094,France 3,7.8
+4095,NHK,8.5
+4096,TV Tokyo,
+4097,TV Tokyo,6.6
+4099,TV Tokyo,8.0
+4100,TV Tokyo,7.2
+4101,AHC,6.8
+4102,BBC One,
+4103,Cartoon Network,
+4104,Null,7.8
+4105,France 2,
+4106,Destination America,
+4107,Syndication,
+4108,Syfy,7.8
+4109,AHC,
+4110,AHC,
+4111,The Movie Network,
+4112,Science,8.3
+4113,AHC,
+4114,AHC,
+4115,Yesterday,
+4116,National Geographic Channel,
+4117,AHC,
+4118,TLC,
+4119,AHC,
+4120,BBC One,
+4121,AHC,
+4122,Discovery Channel,
+4123,Discovery Channel,
+4124,ABC,
+4125,Channel 4,
+4126,BBC Two,
+4127,BBC Two,
+4128,Comedy Central,8.4
+4129,ABC,6.6
+4130,Adult Swim,
+4131,Nickelodeon,6.0
+4132,ABC,7.0
+4133,CBS,
+4134,NBC,7.5
+4135,Lifetime,
+4136,TLC,
+4137,Discovery Life,
+4138,TLC,
+4139,ITV,7.0
+4141,A&E,
+4142,A&E,
+4143,A&E,
+4144,Bravo,7.9
+4145,Crime & Investigation,
+4150,TV Tokyo,8.7
+4151,Crime & Investigation,
+4152,Discovery Channel,
+4153,MTV,
+4154,NBC,8.4
+4155,Channel 4,
+4156,Channel 4,
+4157,SET TV,
+4158,Cinemax,7.9
+4159,CBS,8.3
+4160,NPO 3,
+4161,UPN,
+4162,NBC,
+4163,Discovery Channel,
+4164,ABC,7.1
+4165,ProSieben,8.0
+4166,Travel Channel,
+4167,CBS,6.0
+4168,SBS,
+4169,Null,
+4170,Null,
+4171,Null,7.9
+4173,Null,
+4174,SVT1,
+4175,Channel 4,
+4177,Syndication,5.8
+4178,National Geographic WILD,8.4
+4179,Channel 4,
+4180,Channel 4,
+4181,FOX,8.3
+4182,MBC,8.4
+4183,ТНТ,7.9
+4184,Россия 1,7.2
+4185,СТС,
+4186,NTV,7.7
+4187,Channel 4,
+4188,TV4,7.5
+4189,ABC,6.0
+4190,Discovery Channel,
+4191,Ovation,
+4193,Food Network,
+4194,Smithsonian Channel,
+4195,Sky 1,
+4196,AHC,7.3
+4197,FOX,8.4
+4198,Tokyo MX,
+4199,Tokyo MX,7.3
+4200,TBS,
+4201,TV Tokyo,8.9
+4202,Tokyo MX,
+4204,A&E,
+4205,A&E,
+4206,A&E,
+4207,OLN,
+4208,Syfy,8.5
+4209,Syndication,
+4210,Syfy,8.3
+4211,ITV,8.3
+4212,Lifetime Asia,
+4213,BBC One Wales,
+4214,BBC Two Wales,
+4215,Tokyo MX,
+4216,truTV,
+4217,truTV,
+4218,Tokyo MX,8.3
+4219,Tokyo MX,5.0
+4220,FX,7.0
+4221,MTV,
+4222,nick@nite,
+4223,TV Tokyo,
+4224,ITV,
+4225,Null,8.3
+4226,BBC One,7.0
+4227,Syndication,8.1
+4228,Syndication,7.5
+4229,Syndication,
+4230,Syndication,6.1
+4231,Cartoon Network,
+4232,Syndication,
+4233,Syndication,
+4234,Sky 1,6.2
+4235,National Geographic Channel,
+4236,CBS,
+4237,TVP2,
+4238,TVP2,
+4239,TVP1,
+4240,Syndication,
+4241,UPN,
+4242,Kanal 5,
+4243,Syndication,
+4244,Fox Kids,8.8
+4245,Cartoon Network,
+4246,Fuji TV,7.6
+4247,YTV,7.9
+4248,TV Tokyo,7.6
+4249,Animax,
+4250,Nickelodeon,6.1
+4251,TV2,7.5
+4252,BBC One,7.9
+4253,WOWOW,
+4254,TV Asahi,
+4255,BBC Four,
+4256,E!,
+4257,BBC One,
+4258,BBC One,6.9
+4259,CBS,
+4260,CNBC,
+4261,The Family Channel,
+4262,ABC,6.7
+4263,Oprah Winfrey Network,
+4264,"fyi,",
+4265,IFC,
+4266,CBS,
+4267,ABC,
+4268,MBS,7.1
+4269,VH1,
+4270,AT-X,8.2
+4271,BBC Three,8.2
+4272,ICTV,
+4273,BBC One Wales,
+4274,Nickelodeon,
+4275,BBC One,
+4276,ABC,8.5
+4277,IFC,
+4278,MTV,
+4279,Dave,
+4280,FOX,
+4281,ITV,
+4282,Syndication,
+4283,1-й Балтийский канал,
+4284,CBS,7.4
+4285,Canal+,
+4286,ABC,8.0
+4287,TVN,
+4288,Polsat,
+4289,Polsat,
+4290,TVN,
+4291,Polsat,
+4292,BBC Two,
+4293,NBC,7.7
+4294,NRK1,8.8
+4295,Disney Channel,7.9
+4296,Cartoon Network,7.0
+4297,Animax,8.6
+4298,BBC One,8.2
+4299,ABC,7.8
+4300,NBC,
+4301,NBC,
+4302,NTV,
+4303,NBC,
+4304,ABC,6.0
+4305,BBC Three,
+4306,TV Tokyo,8.1
+4307,CNBC,6.8
+4308,BBC Two,
+4309,ABC,
+4310,History,
+4311,FreeForm,
+4312,History,
+4313,СТС,
+4314,СТС,
+4315,СТС,
+4316,CBS,
+4317,FreeForm,6.5
+4318,TV Tokyo,
+4319,Food Network,
+4320,Lifetime Movies,
+4323,Comedy Central,6.9
+4324,Discovery Channel,
+4326,CBS,
+4327,BBC Three,
+4328,Україна,
+4329,MTV,7.8
+4330,ABC,7.5
+4331,Channel 4,
+4332,Bravo,
+4333,BBC One,8.2
+4334,BBC Two,
+4335,BBC One,8.3
+4336,E4,7.4
+4337,FX,6.3
+4338,Null,
+4339,E4,
+4340,NBC,7.9
+4341,Channel 4,
+4342,ABC,
+4343,Network 10,7.7
+4344,CBS,6.2
+4345,Null,
+4346,History,
+4347,PBS,
+4348,History,8.1
+4349,Travel Channel,8.8
+4350,BBC One,
+4351,BBC One,
+4352,BBC One,
+4354,BBC Two,
+4355,ITV,
+4356,Channel 4,
+4357,BBC One,
+4358,Adult Swim,8.0
+4359,Channel 4,
+4360,Oprah Winfrey Network,
+4361,Food Network,
+4362,Cinemax,
+4363,Cinemax,
+4364,Food Network,
+4365,The Weather Channel,
+4366,BBC One,8.9
+4367,Channel 5,
+4368,Prime,8.2
+4369,ITV,
+4370,BBC Two,
+4371,NBC,
+4372,Channel 4,
+4373,Channel 4,
+4374,BBC Three,7.4
+4375,NBC,
+4376,NBC,
+4377,ABC,
+4378,NBC,8.0
+4379,NBC,
+4380,CBS,
+4381,NBC,
+4382,CBS,
+4383,BBC Two,
+4384,BBC One,
+4385,ITV,
+4386,BBC Two,
+4387,BBC Three,
+4388,Channel 5,
+4389,ITV,
+4390,BBC Four,
+4391,ITV,
+4392,ITV,
+4393,FOX,7.8
+4394,BBC Two,
+4395,BBC One,5.6
+4396,NTV,
+4397,NTV,
+4398,CBS,7.3
+4400,Syndication,
+4401,FXX,8.0
+4402,ABC,6.0
+4403,ITV,8.3
+4404,History,
+4405,Das Erste,
+4406,FUSE TV,
+4407,Cinemax,5.8
+4408,CBS,8.1
+4409,ITV2,
+4410,CTV,
+4411,ITV,7.5
+4412,The WB,
+4413,TBS,
+4414,Lifetime,7.7
+4415,CTV Sci-Fi Channel,
+4416,TBS,
+4417,NBC,
+4418,History,
+4419,BBC Three,
+4420,ITV,
+4421,NBC,
+4422,ABC,
+4423,Nine Network,8.7
+4424,CBC,7.7
+4425,Channel 4,6.9
+4426,Null,
+4427,BBC One,
+4428,ITV,
+4429,CBS,
+4430,ITV,
+4431,Cartoon Network,
+4433,ITV2,
+4434,Channel 4,
+4435,National Geographic Channel,
+4436,RTL7,
+4437,Animal Planet,7.0
+4438,Investigation Discovery,7.6
+4439,Channel 4,6.8
+4440,ITV2,
+4441,BBC One,
+4442,BBC One,
+4443,Gold,
+4444,Sky 1,5.9
+4445,Channel 5,
+4446,M-Net,
+4447,Polsat,
+4448,BBC One,
+4449,CTV,
+4450,NBC,7.8
+4451,TNT,
+4452,NBC,
+4453,NBC,
+4454,Lifetime,
+4455,CBS,6.5
+4456,ITV,
+4457,UPN,
+4458,MTV,6.8
+4459,BBC Three,
+4460,NBC,7.6
+4461,FOX,
+4462,NBC,
+4463,NBC,6.5
+4464,Syndication,
+4465,ABC,
+4466,UPN,9.0
+4467,CBS,5.8
+4468,Fuji TV,
+4469,The WB,
+4470,Animax,
+4471,CBC,
+4472,Global,
+4473,TBS,
+4474,Syndication,
+4475,CBC,7.9
+4476,Syndication,7.1
+4477,FOX,7.4
+4478,NBC,
+4479,FOX,7.4
+4480,The WB,
+4481,CBS,
+4482,NBC,
+4483,ABC,
+4484,FOX,6.6
+4485,Syndication,
+4487,Channel 4,
+4488,ITV,
+4489,ABC,
+4490,The CW,8.2
+4491,BBC Three,
+4492,HBO Asia,
+4493,Channel 4,
+4494,TBS,8.2
+4495,FOX,
+4496,FOX,
+4497,BBC One,
+4498,FX,
+4499,BBC Three,
+4500,FreeForm,
+4501,CBS,
+4502,ESPN,
+4503,NBC,
+4504,ABC,
+4505,TNT,
+4506,ABC,
+4507,CTV,
+4508,NBC,
+4509,ABC,
+4510,CBS,7.6
+4511,The WB,
+4512,CBS,8.4
+4513,TVP1,
+4514,Polsat,
+4515,TVN,
+4516,Channel 4,
+4517,TV Asahi,9.4
+4519,CBC,
+4520,Disney Channel,
+4521,HBO,7.5
+4522,Canal+,
+4523,Polsat,
+4524,Polsat,
+4525,ABC,
+4526,TVP1,
+4527,Cartoon Network,
+4528,BBC One,8.3
+4529,BBC One,8.4
+4530,Fuji TV,
+4531,Oxygen,8.3
+4532,UPN,
+4533,ABC,8.9
+4534,CBS,8.7
+4536,Global,
+4537,NBC,7.8
+4538,CBS,7.2
+4539,Channel 4,
+4540,ABC,8.3
+4541,The CW,
+4542,ABC,
+4543,Showtime,
+4544,NBC,
+4545,FOX,
+4546,History,
+4547,History,
+4548,History,
+4549,History,
+4550,History,
+4551,History,
+4552,NBC,
+4553,CBS,
+4554,NBC,6.8
+4555,History,
+4556,CBS,
+4557,CBC,
+4558,The CW,
+4559,Comedy Central,
+4560,NBC,
+4561,Channel 4,
+4562,BBC One,
+4563,CBS,
+4564,CBS,6.8
+4565,CBS,6.2
+4566,Showtime,7.9
+4567,BBC Three,7.8
+4568,Paramount Network,
+4569,NBC,8.0
+4570,Showtime,7.2
+4571,ITV,
+4572,ITV,7.3
+4573,NBC,
+4575,BBC Three,
+4577,NBC,
+4578,Fuji TV,
+4579,Syndication,5.9
+4580,CBS,6.8
+4582,V,
+4583,NBC,6.7
+4584,Cartoon Network,7.0
+4585,Null,
+4586,NBC,7.3
+4587,FOX,
+4588,ABC,
+4589,ABC,6.1
+4590,E4,
+4591,BBC Three,
+4592,BBC One,
+4593,BBC Two,
+4594,BBC Two,
+4595,Lifetime,
+4596,VH1,7.3
+4597,Channel 4,
+4598,BBC One,
+4599,BBC One,
+4600,BBC One,
+4601,BBC One Wales,
+4602,TV Asahi,7.3
+4603,ITV,7.3
+4604,ABC,6.8
+4605,TV4,
+4606,ABC,7.0
+4607,NBC,7.2
+4608,Polsat,
+4609,Polsat,
+4610,TVP1,
+4611,Polsat,
+4612,TLC,
+4613,Polsat,
+4614,ITV,
+4615,Channel 4,
+4616,Channel 4,8.0
+4617,ITV,
+4618,Sky Arts,
+4619,Channel 4,8.8
+4620,ITV,
+4621,Comedy Central,
+4622,BBC Three,
+4623,BBC Three,
+4624,ITV,
+4625,ITV2,
+4626,TV Land,6.1
+4627,ABC,7.5
+4628,TBS,
+4629,Cinemax,
+4630,Cinemax,
+4631,ABC,7.8
+4632,The WB,
+4633,NBC,
+4634,CBC,
+4635,Syndication,
+4636,NBC,
+4637,HGTV,6.3
+4638,Null,
+4639,History,
+4640,Canale 5,
+4641,CTV,8.0
+4642,NBC,
+4643,OCN,
+4644,ABC,
+4645,ABC,7.1
+4646,YTV,
+4647,BBC One,
+4648,BBC One,
+4649,SBS,8.1
+4650,Showcase,
+4651,SBS,
+4652,NBC,8.2
+4653,CBS,
+4654,KBS1,8.0
+4655,FOX,
+4656,ABC,
+4657,Null,
+4658,ABC,
+4659,National Geographic Channel,
+4660,National Geographic Channel,
+4661,TVN,
+4662,B92,
+4663,TVP2,
+4664,TVN,
+4665,TVP2,
+4666,CTV,
+4667,NBC,8.2
+4668,ABC,
+4669,CBS,
+4670,BBC Three,
+4671,Null,
+4672,OCN,
+4673,FOX,7.8
+4674,ITV,
+4675,KBS2,
+4676,Fuji TV,
+4677,ITV,
+4678,tvN,7.0
+4679,SBS,
+4680,NBC,
+4681,CTV,7.8
+4682,SBS,
+4683,NBC,
+4684,FOX,
+4685,ABC,
+4686,NBC,
+4687,NBC,
+4688,NBC,
+4689,NBC,
+4690,Channel 4,
+4691,BBC Two,
+4692,The WB,
+4693,FOX,
+4694,TBS,
+4695,BBC Two,
+4696,BBC Two,
+4697,NBC,
+4698,MTV2,
+4699,Channel 4,
+4700,Channel 4,
+4701,BBC One,
+4702,BBC One,
+4703,USA Network,
+4704,The WB,
+4705,FOX,
+4706,The CW,
+4707,Tokyo MX,7.0
+4708,BBC One,7.6
+4709,FreeForm,
+4710,Nagoya Broadcasting Network,
+4711,Comedy Central,7.2
+4712,NTV,7.8
+4713,Channel 4,7.4
+4714,BBC Two,
+4715,Channel 4,
+4716,BBC One,
+4717,Channel 4,
+4718,OCN,
+4719,ABC,
+4720,NBC,7.6
+4721,E4,
+4722,ABC,
+4723,FOX,
+4724,Channel 5,
+4725,CBC,
+4726,BBC One,
+4727,TV Land,
+4728,FOX,
+4729,Channel 4,
+4730,CBS,
+4731,BBC Two,
+4732,HGTV,
+4733,CBS,7.5
+4734,Channel 5,
+4735,BBC One,
+4736,ABC,
+4737,ITV,
+4738,FOX,
+4739,Nagoya Broadcasting Network,
+4740,Channel 4,
+4741,NBC,6.8
+4742,SBS,
+4743,BBC One,
+4744,BBC Two,
+4745,één,
+4746,TNT,7.3
+4747,BBC One,
+4748,Channel 4,
+4749,ABC,
+4750,FOX,
+4751,ABC,8.3
+4752,ABC,
+4753,ABC,
+4754,CBC,6.1
+4755,BBC One,
+4756,Channel 4,
+4757,Channel 4,
+4758,tvN,
+4759,BBC Two,
+4760,Channel 5,
+4762,Quest,
+4763,MTV,
+4764,Global,
+4765,Seven Network,
+4766,Showtime,
+4767,DIY Network,
+4768,BBC One,
+4770,ITV,
+4771,BBC One,5.3
+4772,Channel 4,
+4773,Channel 4,
+4774,Channel 4,
+4775,Ovation,
+4776,Cartoon Network,
+4777,Cartoon Network,
+4778,Cartoon Network,
+4779,Cartoon Network,
+4780,Cartoon Network,
+4781,Cartoon Network,
+4782,Cartoon Network,
+4783,Adult Swim,
+4784,Channel 4,
+4785,Channel 4,
+4786,Channel 4,
+4787,truTV,
+4788,USA Network,
+4789,RTÉ ONE,
+4790,The CW,
+4791,BBC One,
+4792,ITV,
+4793,National Geographic Channel,
+4794,CBC,
+4795,BBC One,7.4
+4796,ABC,
+4797,Channel 4,
+4798,Sky 1,
+4799,ITV,
+4800,Channel 4,
+4801,Channel 4,
+4802,BBC One,
+4803,BBC One,
+4804,TBS,
+4805,BBC One,
+4806,France 2,
+4807,ITV,
+4808,FX,
+4809,BBC One,
+4810,Channel 4,7.2
+4811,ITV,
+4812,ITV2,
+4813,Paramount Network,
+4814,VH1,
+4815,VH1,
+4816,ITV,
+4817,ITV,
+4818,Channel 4,
+4819,CBC,
+4820,Channel 4,
+4821,ITV,
+4822,ITV,
+4823,Channel 5,
+4824,ITV,
+4825,ITV,
+4826,ITV,
+4827,ITV,
+4828,ITV,
+4829,National Geographic Channel,
+4830,Channel 4,
+4831,ITV,7.2
+4832,ITV,
+4833,FX,
+4834,NBC,
+4835,ТНТ,
+4836,BBC One,
+4837,BBC One,
+4838,National Geographic Channel,
+4839,History,
+4840,BBC Two,
+4841,Discovery Channel,
+4842,BBC One,8.8
+4843,BBC Two,
+4844,BBC Two,
+4845,Yesterday,
+4846,Mnet,
+4847,NPO 1,5.9
+4848,Discovery Channel,
+4849,BBC One,
+4850,Food Network,
+4851,"fyi,",
+4852,RTL4,
+4853,Channel 4,
+4854,NPO 1,
+4855,BBC Two,
+4856,Paramount Network,6.0
+4857,HGTV,
+4858,BBC One,
+4859,ITV,6.5
+4860,BBC Three,
+4861,ITV2,
+4862,BBC Two,
+4863,BBC Two,
+4864,Channel 4,
+4865,MTV,
+4866,Nine Network,7.9
+4867,The CW,
+4868,TVE,
+4869,Food Network,6.6
+4870,BBC One,
+4871,Network 10,
+4873,Channel 5,
+4874,National Geographic Channel,
+4875,Tokyo MX,6.3
+4876,ABC,
+4877,Outdoor Channel,
+4878,TVNZ 1,
+4879,Sky Cinema,
+4880,DIY Network,
+4881,BBC One,8.0
+4882,FOX,
+4883,FXX,7.3
+4884,Disney Channel,
+4885,The Movie Network,6.2
+4886,HBO,
+4887,TV One,
+4888,CBS,6.3
+4889,Fuji TV,7.9
+4890,FOX,
+4891,HBO,
+4892,ABC,
+4893,ABC,
+4894,Null,5.4
+4895,FX,
+4896,ABC,
+4897,AT-X,5.6
+4898,SVT1,
+4899,AT-X,4.3
+4900,Antena 3,
+4901,SBS 6,
+4902,NPO 1,
+4903,RTL,5.7
+4904,TV Tokyo,
+4905,Tokyo MX,7.5
+4906,TBS,6.5
+4907,Fuji TV,7.7
+4908,Null,
+4909,BBC Two,
+4910,Smithsonian Channel,
+4911,KBS2,
+4912,CBS,
+4913,MBC,7.6
+4914,The Weather Channel,
+4915,ABC,
+4916,Antena 3,
+4917,Polsat,
+4918,Polsat,
+4919,TVN,
+4920,TVN,
+4921,Polsat,
+4922,TV Tokyo,7.3
+4923,TLC,
+4924,Fuji TV,7.6
+4925,VH1,
+4926,Discovery Channel,
+4927,Channel 4,
+4928,TBS,6.4
+4929,NHK,
+4930,NBC,
+4931,Discovery Channel,
+4932,Tokyo MX,7.8
+4933,AT-X,
+4934,BBC One Wales,
+4935,Smithsonian Channel,
+4936,Smithsonian Channel,
+4937,Smithsonian Channel,
+4939,BBC One,
+4940,The Weather Channel,
+4941,TV Tokyo,6.5
+4942,Smithsonian Channel,
+4943,The Weather Channel,
+4944,AT-X,8.1
+4945,AT-X,7.8
+4946,FOX8,
+4947,Three,
+4948,ABC,8.5
+4950,FOX,
+4951,NBC,
+4952,MBC,7.4
+4953,CMT,
+4954,ITV,
+4955,The CW,
+4957,The CW,
+4958,Animal Planet,
+4959,REELZ,8.1
+4960,Lifetime,
+4961,Science,
+4962,Showtime,
+4963,MotorTrend,8.2
+4964,Food Network,
+4965,CBS,
+4966,ABC,8.0
+4967,CBS,
+4968,CBS,7.5
+4969,NBC,
+4970,CBS,
+4971,Syndication,
+4972,Channel 5,
+4973,MTV3,
+4974,Discovery Channel,
+4975,Discovery Channel,
+4976,BBC One,
+4977,BBC Two,
+4978,BBC Two,
+4979,BBC Two,
+4980,RTL5,
+4981,één,
+4982,één,7.8
+4983,BBC One,
+4985,TVB HD Jade,
+4986,Golf Channel,
+4987,HGTV,
+4989,HGTV,
+4991,ABC,
+4992,MTV3,
+4993,BBC One,
+4994,TV Tokyo,
+4996,BBC One,
+4997,Bravo,
+4998,BBC One,
+4999,Первый канал,
+5000,ТНТ,
+5001,ТНТ,
+5002,History,
+5003,Пятница,
+5004,TNT,
+5005,ITV2,
+5006,Discovery Channel,
+5007,History Asia,8.3
+5008,SVT1,
+5009,BBC Two,
+5010,BBC Two,
+5011,TBS,
+5012,Outdoor Channel,
+5013,Outdoor Channel,
+5014,NTV,7.2
+5015,BBC One,
+5016,Star Plus,
+5018,ABC,
+5019,Bravo,
+5020,Россия 1,
+5021,Первый канал,
+5022,Adult Swim,
+5023,Outdoor Channel,
+5025,Outdoor Channel,
+5026,ТВ-3,5.9
+5027,Tokyo MX,8.7
+5028,TVP1,
+5029,Outdoor Channel,
+5030,Первый канал,
+5031,Food Network,
+5032,Bravo,
+5033,Null,
+5034,Sky 1,7.4
+5035,Outdoor Channel,
+5036,Outdoor Channel,
+5037,Outdoor Channel,
+5038,Tokyo MX,
+5039,Tokyo MX,
+5040,Tokyo MX,7.6
+5041,Nickelodeon,
+5042,ЦТ СССР,7.7
+5043,Channel 4,
+5044,Outdoor Channel,
+5045,Sportsman Channel,
+5046,BBC Two,
+5047,VTM,
+5048,AT-X,5.7
+5049,één,
+5050,SBS,
+5051,Channel 4,
+5052,ABC,
+5053,NHK,
+5054,ABC,
+5055,Tokyo MX,7.3
+5056,Sky 1,
+5057,BBC Three,
+5058,ТНТ,
+5059,Channel 4,
+5060,ЦТ СССР,9.0
+5061,ABC,5.0
+5062,ABC,
+5063,BBC Two,
+5064,СТС,
+5065,BBC Two,
+5066,BBC Two,
+5067,The WB,7.8
+5068,BBC Two,
+5069,Channel 4,
+5070,TVP2,
+5071,NBC,7.5
+5072,Sky 1,8.0
+5073,BBC Four,
+5074,BBC Four,
+5075,Discovery Channel,8.7
+5076,BBC Four,
+5077,SBS,
+5079,Null,8.0
+5081,FM,
+5082,FM,
+5083,FM,
+5084,FM,
+5085,Rede Globo,
+5086,ТНТ,
+5087,СТС Love,
+5088,ITV,
+5089,SBS,8.2
+5090,BBC One,
+5091,Dave,
+5093,BBC Two,
+5094,BBC Two,
+5095,BBC Two,
+5096,ТНТ,
+5097,Seven Network,
+5098,BBC Four,
+5099,BBC One,
+5100,ITV,
+5101,VTM,
+5102,één,8.4
+5103,ITV,
+5104,CBBC,8.0
+5105,Telemundo,
+5106,Первый канал,
+5108,Syfy,
+5109,Первый канал,
+5110,Golf Channel,
+5111,AT-X,6.8
+5112,Null,7.4
+5113,ABC,
+5114,Game Show Network,
+5115,Oxygen,
+5116,Tokyo MX,
+5117,Tokyo MX,
+5118,TV Saitama,
+5119,Tokyo MX,
+5120,Polsat,
+5121,BBC One,
+5122,TV Puls,
+5124,Channel 4,
+5125,Tokyo MX,
+5126,Tokyo MX,7.8
+5127,Univision,
+5128,ТНТ,7.2
+5129,TV Tokyo,
+5130,Tokyo MX,
+5131,Первый канал,
+5132,Tokyo MX,
+5133,Tokyo MX,
+5134,Tokyo MX,
+5135,één,
+5136,TV Asahi,
+5137,Animax,6.0
+5138,Tokyo MX,
+5139,ТНТ,
+5140,ITV,
+5141,BBC Four,
+5142,Fuji TV,
+5143,NHK,
+5144,CBS,7.1
+5145,Investigation Discovery,
+5146,TVP1,
+5147,TVP1,
+5148,TVP1,
+5149,Tokyo MX,
+5150,AT-X,5.5
+5151,Cartoon Network,
+5152,Tokyo MX,
+5153,AT-X,7.4
+5154,TBS,
+5155,TV Tokyo,
+5156,Tokyo MX,
+5157,AT-X,
+5158,AT-X,
+5159,Bravo,
+5160,BBC Two,
+5161,Comedy Central,
+5162,TBS,
+5163,Kids Station,
+5164,Tokyo MX,
+5165,Tokyo MX,
+5166,MBS,
+5167,Tokyo MX,
+5168,MBS,
+5169,TBS,
+5170,Nicktoons,
+5171,Outdoor Channel,
+5172,Outdoor Channel,
+5173,TBS,
+5174,BBC One,
+5175,BBC Two,
+5176,СТС,
+5177,Пятница,
+5178,Tokyo MX,
+5179,Tokyo MX,
+5180,ITV,
+5181,Outdoor Channel,
+5182,Outdoor Channel,
+5183,Fuji TV,7.5
+5184,Tokyo MX,
+5185,Tokyo MX,
+5186,Animax,
+5187,Tokyo MX,
+5188,Kids Station,
+5189,СТС,
+5190,VTM,
+5191,AT-X,
+5192,Tokyo MX,7.8
+5193,MBS,7.8
+5194,AT-X,
+5195,Tokyo MX,7.2
+5196,BS11,6.1
+5197,Tokyo MX,
+5198,NTV,
+5199,TV Tokyo,
+5200,Tokyo MX,
+5202,Tokyo MX,
+5203,Tokyo MX,
+5204,AT-X,
+5205,MBS,
+5206,TBS,
+5207,VTM,
+5208,VTM,
+5209,VTM,
+5210,VTM,
+5211,VTM,6.2
+5212,VTM,
+5213,één,
+5214,VTM,
+5215,France 2,
+5216,NPO 3,
+5217,MTV,
+5218,één,
+5219,ABC,
+5220,History,
+5221,Інтер,
+5222,СТБ,
+5223,VIER,
+5224,VIER,
+5225,VTM,
+5226,VIER,
+5227,Canvas,
+5228,VTM 2,
+5229,VIER,7.6
+5230,VTM 2,
+5231,VTM 2,
+5232,Sky PerfecTV,
+5233,TVNZ 1,
+5234,VIER,
+5235,GDS TV,
+5236,Null,8.1
+5237,DIY Network,
+5238,Fox Sports 1,
+5239,Fox Sports 1,
+5240,MTV,
+5241,TV Asahi,
+5242,Nagoya Broadcasting Network,
+5243,NPO 3,
+5244,Nagoya Broadcasting Network,
+5245,Nagoya Broadcasting Network,
+5246,TV Asahi,
+5247,TV Asahi,
+5248,Canale 5,
+5249,ZDF,
+5250,Starz,
+5251,CITV,
+5252,truTV,
+5253,ITV,
+5254,Null,
+5255,MBS,
+5256,één,
+5257,LifeStyle,
+5258,TBS,
+5259,Null,
+5260,Інтер,8.2
+5261,Null,8.0
+5262,The CW,6.7
+5264,Null,6.1
+5265,Gold,5.3
+5266,BBC One,
+5267,NBC,
+5268,Showtime,
+5269,BBC One,8.6
+5270,BBC Three,
+5271,ITV,7.4
+5273,NTV,
+5275,CBS,7.0
+5276,MBS,8.1
+5277,MBS,
+5278,Tokyo MX,6.3
+5279,MBS,7.0
+5280,AT-X,5.5
+5281,TV Tokyo,
+5282,BBC Two,
+5283,Null,
+5284,TBS,7.1
+5285,MBS,7.3
+5286,Rede Globo,
+5287,truTV,
+5288,DIY Network,
+5289,The CW,
+5290,The CW,
+5291,DIY Network,
+5292,CBS,
+5293,BBC One Northern Ireland,
+5294,BBC Two,
+5295,BBC Two,8.2
+5297,BBC Two,
+5299,A&E,
+5301,TBS,7.6
+5302,Chiba TV,
+5303,AT-X,
+5304,AT-X,7.7
+5305,Tokyo MX,8.1
+5306,AT-X,7.9
+5307,CBS,6.8
+5308,Disney Channel,7.4
+5309,Disney Channel,7.6
+5310,A&E,
+5311,SBS 6,
+5312,Tokyo MX,7.9
+5313,Tokyo MX,7.7
+5314,Disney Channel,7.2
+5315,History,
+5316,ABC,7.5
+5317,BBC Four,
+5318,TNT,
+5319,CBS,
+5320,Polsat,
+5321,Polsat,
+5322,TVP2,
+5323,TVP2,
+5324,TVP1,
+5325,TVP1,
+5326,TVN,
+5327,TVP1,
+5328,TVN,
+5329,TVP1,
+5330,VTM,
+5331,Quest,6.3
+5332,NBC,
+5333,TBS,
+5334,FOX,
+5335,ABC,
+5336,MTV,
+5337,Speed TV,
+5338,Comedy Central,
+5339,MTV,5.1
+5340,Comedy Central,
+5341,BBC Three,
+5342,Null,7.7
+5343,Bravo,
+5344,CBS Sports Network,
+5345,CBBC,
+5346,TLC,
+5347,Null,
+5348,Comedy Central,
+5349,Rai 1,
+5350,CMT,
+5351,National Geographic Channel,
+5352,Telecinco,
+5353,London Live,
+5354,Bravo,
+5355,Super Channel Fuse,
+5356,TV Tokyo,
+5357,Discovery Channel,
+5358,TVE,
+5359,TV Tokyo,
+5360,BBC One,
+5361,TBS,
+5362,TV Tokyo,
+5363,TV Asahi,
+5364,Fuji TV,
+5365,TBS,
+5366,MBS,
+5367,MBS,
+5368,TeenNick,
+5369,MBS,
+5370,TV Saitama,
+5371,CBS,7.8
+5372,CBS,
+5373,Discovery Channel,
+5374,AXS TV,
+5375,Chiba TV,
+5376,Fox Sports 1,
+5377,NPO 3,
+5378,Channel 4,
+5380,СТБ,
+5381,Tokyo MX,
+5382,TVP1,
+5383,Discovery Channel,
+5384,tvN,
+5385,BBC Two,
+5387,Seven Network,
+5388,NBC,
+5389,CBS,7.8
+5390,NBC,5.4
+5391,PBS,
+5392,Animal Planet,
+5393,TLC,
+5394,Channel 5,
+5395,BBC One,
+5396,BBC One,
+5397,BBC Two,
+5398,BBC One,
+5399,Channel One,
+5400,Channel 4,
+5401,Channel 4,
+5402,Sky 1,
+5403,Sky 1,
+5404,Channel 4,
+5405,Channel 5,
+5406,NBC,
+5407,VH1,
+5408,Discovery Channel,
+5409,Discovery Channel,
+5410,E!,
+5411,ESPN,
+5412,VH1,
+5413,Discovery Channel,
+5414,ITV,
+5415,Investigation Discovery,
+5416,ITV,
+5417,ITV,
+5418,ITV,
+5419,Seven Network,7.6
+5420,10 Peach,7.5
+5421,TV Tokyo,7.8
+5422,The CW,
+5423,ITV,
+5424,BBC Three,
+5425,VH1,
+5426,A&E,
+5427,ITV,
+5428,Channel 5,
+5429,YTV,6.2
+5430,ITV2,
+5431,ITV,
+5432,ITV,
+5433,VH1,
+5434,VH1,
+5435,VH1,
+5436,ITV4,
+5437,Channel 4,
+5438,Channel 4,
+5439,Network 10,
+5440,VTM 2,
+5441,RTL4,
+5442,NPO 3,
+5443,FOX,6.3
+5444,RTL4,
+5445,RTL4,
+5446,RTL4,
+5447,RTL4,
+5448,RTL4,
+5449,NPO 3,
+5450,NPO 3,
+5451,RTL4,
+5452,Tokyo MX,
+5453,RTL4,
+5454,RTL5,
+5455,NPO 3,
+5456,Net5,
+5457,RTL4,
+5458,RTL4,
+5459,RTL4,
+5460,TBS,7.0
+5461,Tokyo MX,
+5462,Bloomberg TV,
+5463,Nickelodeon,
+5464,TV Tokyo,6.5
+5465,TBS,7.7
+5466,TV Asahi,
+5467,Tokyo MX,5.8
+5468,Tokyo MX,
+5469,The WB,
+5470,AT-X,7.6
+5471,CBS,
+5472,Cartoon Network,6.6
+5473,MBS,
+5474,BBC Two,
+5475,National Geographic Channel,
+5476,TV Asahi,8.2
+5477,Centric,
+5478,ITV,
+5479,TLC,
+5480,MTV,
+5481,DIY Network,
+5482,CTV,
+5483,СТС,4.5
+5484,ICTV,7.4
+5485,CBS,
+5486,NBC,
+5487,ABC,7.1
+5488,HBO,8.1
+5489,Lifetime,
+5490,CBS,
+5491,Sky Witness,
+5492,TV Asahi,
+5493,Bravo,
+5495,FOX,7.7
+5496,ABC,6.5
+5497,ABC,
+5498,PBS,7.5
+5499,Hunan TV,
+5500,E4,
+5501,Smithsonian Channel,
+5502,Investigation Discovery,
+5503,BBC Two,
+5504,H2,
+5505,HGTV,
+5506,Centric,
+5507,Bravo,
+5508,VH1,
+5509,National Geographic Channel,7.5
+5510,A&E,
+5511,CBS,5.9
+5512,BET,6.5
+5513,History,6.3
+5514,ITV,
+5515,ABC,8.3
+5516,BBC One,
+5517,ITV,
+5518,ABC,
+5519,CBS,8.0
+5520,Polsat,
+5521,Mnet,
+5522,Travel Channel,
+5523,PBS SoCal,
+5524,BBC One,
+5525,Travel Channel,
+5526,VH1,
+5527,ESPN,
+5528,USA Network,
+5529,Null,7.8
+5530,TVN,
+5531,TVP1,
+5532,TVP1,
+5533,HBO Polska,
+5534,TVN,
+5535,Null,7.0
+5536,BBC One,7.6
+5537,The WB,
+5538,CBS,7.1
+5539,Channel 4,
+5540,truTV,
+5541,BBC Three,7.3
+5542,FOX,
+5543,CBS,
+5544,Null,
+5545,TV Tokyo,7.7
+5546,Investigation Discovery,
+5547,FOX,
+5548,NBC,
+5549,ABC,
+5550,Null,
+5551,TVP1,
+5552,TVP1,
+5553,TVP1,
+5554,MTV,
+5555,TVP1,
+5556,TVP1,
+5557,TF1,7.4
+5558,MTV,
+5559,Discovery Channel,
+5560,BOUNCE TV,
+5561,Animal Planet,
+5562,Channel 4,
+5563,BBC One,
+5564,H2,
+5565,History,
+5566,MTV,
+5567,Travel Channel,
+5568,TV Tokyo,
+5569,TG4,
+5570,Global,
+5571,Channel 4,
+5572,BBC Two,
+5573,ITV,
+5574,BBC Two,
+5575,ITV,
+5576,MBC,7.4
+5577,ITV,
+5578,Channel 4,
+5579,ITV,
+5580,Channel 4,
+5581,BBC Two,
+5582,BBC Two,
+5583,Channel 4,
+5584,Channel 4,
+5585,Channel 4,
+5586,Discovery Channel,
+5587,Channel 4,
+5588,Sky 1,
+5589,ITV2,
+5590,Channel 4,
+5591,Channel 4,
+5592,NBC,
+5593,USA Network,
+5594,ТНТ,7.8
+5595,NBC,
+5596,Global,
+5597,Syndication,
+5598,FOX,
+5599,Create,8.3
+5600,NBC,
+5601,Sky Witness,
+5602,VTM,
+5603,NBC,
+5604,ABC,
+5605,Showcase,
+5606,A&E,
+5607,History,
+5608,Destination America,
+5609,Telecinco,
+5610,TLC,
+5611,Teletoon,
+5612,Sat.1,
+5613,NDR,8.5
+5614,Nickelodeon,
+5615,Canal+,7.5
+5616,Science,
+5617,Cartoon Network,
+5618,HBO Polska,8.1
+5619,The Movie Network,7.3
+5620,TV Tokyo,
+5621,Syfy,
+5622,HBO,
+5623,Food Network,
+5624,MTV,
+5625,Oxygen,
+5626,History,
+5628,Channel 4,
+5629,Sat.1,
+5630,Discovery Family,
+5631,National Geographic Channel,7.8
+5633,RTL,
+5634,National Geographic Channel,
+5635,Hunan TV,
+5636,Three,8.3
+5637,Syfy,7.5
+5638,Polsat,
+5639,TVP1,
+5640,TVP2,
+5641,TVP1,
+5642,TVP2,
+5643,TVP1,
+5644,TVP1,
+5645,Nine Network,
+5646,TV Tokyo,6.6
+5651,E4,
+5652,Discovery Channel,
+5653,Sky 1,
+5654,PBS,
+5655,Channel 4,
+5656,ITV,
+5657,TVE,
+5658,ABC,7.5
+5659,ABC,
+5661,BBC Two,8.0
+5663,USA Network,6.6
+5667,Tokyo MX,
+5668,NHK,
+5669,Tokyo MX,6.8
+5670,MBS,
+5671,RTL5,
+5672,MTV,
+5673,Tokyo MX,6.8
+5674,AT-X,5.8
+5675,Fuji TV,
+5676,BBC One,
+5677,BBC One,
+5678,A&E,
+5679,HGTV,
+5680,Fox Sports 1,
+5682,Cartoon Network,8.6
+5684,Channel 5,
+5685,DIY Network,
+5686,VTM,
+5687,HBO Latin America,
+5688,Sky 1,
+5689,MTV,
+5690,History,
+5691,TV Land,7.3
+5692,City,
+5693,RTL Klub,
+5694,Новий Канал,
+5695,RTL4,
+5697,RTL4,
+5698,RTL4,
+5699,BBC One,
+5700,CBS Sports Network,
+5701,MBS,
+5702,TV2,
+5703,ABC,6.3
+5704,Null,
+5705,ČT1,
+5706,Outdoor Channel,
+5707,Outdoor Channel,
+5708,ZDF,
+5709,The WB,7.5
+5710,CNN,
+5711,TV Land,
+5712,truTV,
+5713,Cartoon Network,
+5714,NBC,7.3
+5715,Smithsonian Channel,
+5716,BBC Two,
+5717,Новий Канал,
+5718,Smithsonian Channel,
+5719,AHC,
+5720,ABC,
+5721,BBC One,
+5722,Channel 4,
+5723,BBC One,
+5724,ITV,7.0
+5725,FOX,6.2
+5726,Cartoon Network,8.3
+5727,RTL5,
+5728,TV Tokyo,7.6
+5729,TV Asahi,
+5730,National Geographic WILD,
+5731,Tokyo MX,7.3
+5732,MBS,
+5733,France 2,
+5734,CBS,7.3
+5735,ABC,8.5
+5736,Cooking Channel,
+5737,Investigation Discovery,
+5738,Investigation Discovery,
+5739,BBC One,
+5740,ITV2,
+5741,BBC Four,
+5742,Channel 5,7.8
+5743,REELZ,
+5744,BBC Two,
+5745,Hallmark Channel,8.5
+5746,REELZ,
+5747,Sky 1,6.8
+5748,Network 10,7.7
+5749,Nickelodeon,8.8
+5750,TVO,
+5751,CBS,7.6
+5752,France 4,
+5753,NBC,
+5754,CBS,8.2
+5755,Syndication,6.5
+5756,DIY Network,7.0
+5757,NBC,
+5758,Fox Sports 1,
+5759,Outdoor Channel,
+5760,Outdoor Channel,
+5761,Syndication,
+5762,Movie Central,
+5763,Teletoon,
+5764,ABC,7.6
+5765,TV Tokyo,
+5766,TV4,8.0
+5767,VH1,6.0
+5768,ABC,7.1
+5769,CBS,
+5770,More4,
+5771,NBC,
+5773,ABC,5.9
+5774,London Weekend Television,
+5775,Comedy Central,5.8
+5776,BBC Two,7.8
+5777,Antena 3,
+5778,La 1,
+5779,Outdoor Channel,
+5780,Outdoor Channel,
+5781,VTM,
+5782,ABC,8.3
+5783,Outdoor Channel,
+5784,Outdoor Channel,
+5785,Outdoor Channel,
+5786,Outdoor Channel,
+5787,Channel 5,
+5788,BBC One,8.0
+5789,ITV2,
+5790,Channel 4,
+5791,Sky Atlantic,
+5792,TLC,
+5793,BBC Three,
+5794,BBC Three,
+5795,Travel Channel,8.3
+5796,ITV,
+5797,MTV,
+5798,BBC Two,8.4
+5799,PBS,
+5800,Canal+,
+5801,VH1,
+5802,HBO,7.0
+5803,één,
+5804,Channel 4,
+5805,Antena 3,
+5806,SVT1,
+5807,één,
+5808,Channel 4,
+5809,ITV,
+5810,MTV,
+5811,ITV,
+5812,BBC Two,
+5813,ITV,
+5814,ABC,8.5
+5815,Telecinco,
+5816,Discovery Channel,
+5817,TV Tokyo,8.2
+5818,FOX,8.1
+5819,Antena 3,
+5820,NFL Network,
+5821,BET,
+5822,HBO,
+5823,Discovery Family,
+5824,Channel 4,
+5825,ITV,
+5826,ITV,
+5827,MUCH,
+5828,USA Network,
+5829,ITV,
+5830,FUSE TV,
+5831,ITV,7.3
+5832,National Geographic Channel,
+5833,TV4,
+5834,SBS,
+5835,BBC One,6.2
+5836,BBC Two,6.8
+5837,Nine Network,
+5838,Network 10,
+5839,National Geographic Channel,
+5841,CBS,6.0
+5842,TV Tokyo,
+5843,National Geographic Channel,
+5844,National Geographic Channel,
+5845,National Geographic Channel,
+5846,National Geographic Channel,
+5847,TVE,
+5848,National Geographic Channel,
+5849,NBC,
+5850,HGTV,7.7
+5851,National Geographic Channel,
+5852,Animal Planet,
+5853,Discovery Channel,7.0
+5854,TVE,
+5855,National Geographic Channel,
+5856,BET,
+5857,ESPN,
+5858,Star TV,
+5859,Polsat,
+5860,VIJF,
+5861,TVN,
+5862,TVP1,
+5863,TVN,
+5864,Discovery Channel,
+5865,TVP1,
+5866,AHC,
+5867,AHC,
+5868,MBC1,
+5869,Channel 4,
+5870,Discovery Channel,
+5871,TF1,
+5872,Null,
+5873,CCTV-8,
+5874,Game Show Network,
+5875,Food Network,
+5876,Food Network,
+5877,TV Asahi,
+5878,SBS,
+5879,Outdoor Channel,
+5880,Tokyo MX,
+5881,Fox,6.7
+5882,TV Tokyo,
+5883,Nickelodeon,6.4
+5884,Global,
+5885,truTV,
+5887,Game Show Network,
+5888,Syndication,
+5889,ABC,5.4
+5890,Cooking Channel,
+5891,AHC,
+5892,Discovery Channel,
+5893,TBS,6.5
+5894,TV Tokyo,
+5895,Tokyo MX,
+5896,TBS,8.2
+5897,AT-X,6.8
+5898,MBS,
+5899,Fuji TV,8.4
+5900,France 3,
+5901,Tokyo MX,7.8
+5902,Tokyo MX,6.4
+5903,BBC Four,
+5904,TF1,
+5905,E4,7.8
+5906,HBO Canada,7.3
+5907,Discovery Family,
+5908,BBC Two,9.2
+5909,NBC,
+5910,ABC,
+5911,Null,
+5912,СТС,
+5913,Null,7.6
+5914,Nickelodeon,
+5915,ITV,
+5916,ITV,
+5917,ITV,
+5918,ITV,8.8
+5919,ITV,8.3
+5920,ITV,7.7
+5921,ABC,
+5925,7mate,
+5926,Science,8.3
+5927,TVP1,
+5928,Polsat,
+5929,TVP1,
+5930,TVP1,
+5931,TVP1,
+5932,Channel 5,
+5933,HBO Polska,
+5934,AXS TV,
+5935,ABC,5.5
+5936,Syfy,
+5937,FOX,
+5938,Lifetime Movies,8.8
+5939,USA Network,
+5940,Nickelodeon,
+5941,ABC,
+5942,NBC,
+5943,NBC,
+5944,ABC,5.8
+5945,BBC Two,
+5946,Syfy,
+5947,Syfy,
+5948,ITV,
+5949,The WB,
+5950,The WB,
+5951,The WB,8.6
+5952,ITV,
+5953,ITV,
+5954,Syndication,
+5955,VH1,
+5956,Outdoor Channel,
+5957,Outdoor Channel,
+5958,Outdoor Channel,
+5959,Outdoor Channel,
+5960,ITV,
+5961,ITV,
+5962,Lifetime Movies,
+5963,Bravo,
+5964,BET,
+5965,Cooking Channel,
+5966,Cooking Channel,
+5967,HBO,6.4
+5969,Channel 4,
+5970,Quest,
+5971,TVP1,
+5972,ITV,8.0
+5973,TVN,
+5974,TVN,
+5975,NPO 1,
+5976,London Weekend Television,
+5977,Новий Канал,
+5978,Discovery Channel,6.5
+5979,TVP1,
+5980,TVP2,
+5981,ITV,
+5982,ITV,
+5983,ITV,8.0
+5984,Новий Канал,
+5985,National Geographic Channel,
+5986,Null,
+5987,ABC,6.7
+5988,Net5,
+5989,NPO 3,
+5990,National Geographic Channel,
+5991,Discovery Channel,
+5992,PBS,
+5993,PBS,
+5994,WGN America,7.2
+5995,Channel 4,
+5996,FreeForm,
+5997,FX,8.0
+5998,The WB,
+5999,Channel 4,
+6000,OLN,
+6001,Channel 4,
+6002,National Geographic Channel,
+6003,Syndication,
+6004,ABC,6.2
+6005,Lifetime,
+6006,Syndication,3.3
+6007,Net5,
+6008,RTL4,
+6009,ABC,
+6010,ABC,
+6011,CBS,
+6012,SBS 6,
+6013,VTM,
+6014,FOX,
+6015,NPO 1,8.5
+6016,RTL7,
+6017,Net5,
+6018,Net5,
+6019,Disney Channel,8.3
+6020,ITV,7.0
+6021,BBC One,
+6022,BBC One,8.8
+6023,ITV,
+6025,Disney XD,8.7
+6026,NPO 2,
+6027,VTM,
+6028,ITV,
+6029,ITV,
+6030,ITV,
+6031,ABC,
+6032,ABC,7.0
+6033,ABC,
+6034,USA Network,
+6035,National Geographic Channel,
+6036,BBC Two,
+6037,Polsat,
+6038,TVP1,
+6039,TVP1,
+6040,TVE,7.0
+6041,Cuatro,
+6042,Channel 4,
+6043,Syndication,
+6044,Discovery Channel,
+6045,Paramount Network,
+6046,Lifetime,6.8
+6047,Comedy Central,6.7
+6048,ABC,2.7
+6049,CBS,
+6050,FOX,7.2
+6051,TVP1,
+6052,TVN,
+6053,Polsat,
+6054,TVP1,
+6055,Syndication,
+6056,NBC,
+6057,CBS,8.4
+6058,CBS,
+6059,RTL4,
+6060,Syndication,
+6061,Syndication,
+6062,Syndication,4.3
+6066,CBS,6.4
+6067,Syndication,
+6068,The CW,
+6069,Syndication,
+6070,Syndication,
+6071,Syndication,
+6072,Syndication,
+6073,Syndication,
+6074,Syndication,
+6075,Fuji TV,
+6076,ITV,
+6077,ABC,
+6078,Comedy Central,7.8
+6079,Channel 5,
+6080,MTV,
+6081,BBC Two,7.5
+6082,Duna TV,
+6083,BBC Two,8.3
+6084,ITV,
+6085,ITV,
+6086,ITV2,
+6087,ITV,
+6088,BBC One,
+6089,Channel 4,
+6090,Null,
+6091,BBC One,
+6092,BBC One,
+6093,BBC One,
+6094,ABC,
+6095,Investigation Discovery,
+6096,Null,
+6097,Null,
+6098,Null,
+6099,ESPN,
+6100,Investigation Discovery,
+6101,AXS TV,
+6102,KBS1,
+6103,BBC One,
+6104,"fyi,",
+6105,Destination America,
+6106,Null,
+6108,NHK,
+6109,AXS TV,
+6110,Food Network,6.9
+6111,Null,
+6112,Food Network,
+6113,HBO,
+6114,TF1,
+6115,TVP2,
+6116,TVN,
+6117,TVN,
+6118,Polsat,
+6119,Arte,
+6120,HGTV,
+6122,Channel 4,
+6123,Channel 4,
+6124,Oprah Winfrey Network,
+6125,TV 2,8.8
+6126,ABC,8.3
+6127,Null,7.3
+6128,Canal+,
+6129,TF1,
+6130,France 2,
+6131,Canal+,8.6
+6133,ITV,7.3
+6134,BBC One,7.9
+6135,ITV,
+6137,HGTV,
+6138,BBC Two,8.8
+6139,ČT1,
+6140,TF1,
+6141,Null,7.3
+6142,MBC,
+6143,GTV,
+6144,Kanal D,7.0
+6145,HBO Česká Republika,
+6146,Null,
+6147,Null,
+6148,RTL Klub,
+6149,Channel 4,
+6150,Null,
+6151,Пятница,
+6152,BBC One,8.3
+6153,GDS TV,
+6156,ABS-CBN,
+6157,Seven Network,
+6158,City,
+6159,RTL4,
+6160,TV Asahi,
+6161,TV Asahi,
+6162,VTM,
+6163,TVNZ 1,
+6164,Network 10,
+6165,NBC Universo,
+6166,Top Channel,
+6167,1TV,
+6168,Telefe,
+6169,1+1,
+6170,CBC,
+6171,één,
+6172,DIY Network,
+6173,Fox Sports 1,
+6174,TV One,
+6175,Oprah Winfrey Network,
+6176,G4,
+6177,VH1,
+6178,Channel 4,8.0
+6179,National Geographic WILD,
+6180,BET,
+6181,TV One,
+6182,We tv,
+6183,Bravo,8.0
+6184,Food Network,
+6185,We tv,
+6186,ESPNEWS,
+6187,MBC 4,
+6188,CBC,
+6189,CBC,
+6190,VTM,
+6191,TVNZ 1,
+6192,CBC,
+6193,één,
+6195,RTL-TVI,
+6196,Shant TV,
+6197,AXN Asia,
+6198,Null,
+6199,Syndication,
+6200,GDS TV,
+6201,SBS,7.8
+6202,On Style,
+6203,NPO 3,
+6204,NPO 1,
+6205,TV 2,7.2
+6206,één,
+6207,NPO 1,
+6208,RTL4,
+6209,Null,7.8
+6210,Crime & Investigation,
+6211,Polsat,
+6212,TVP1,
+6213,TVP2,
+6214,TF1,
+6215,Canal+,
+6216,BBC One,
+6217,Antena 3,
+6218,CITV,
+6219,OCS Max,
+6220,ICI Radio-Canada Télé,
+6221,TBS,
+6222,Comedy Central,
+6223,Adult Swim,
+6224,ABC,
+6225,Adult Swim,
+6226,Fuji TV,
+6227,MTV,
+6228,Comedy Central,
+6229,TBS,
+6231,Comedy Central,
+6232,Comedy Central,
+6233,TV Tokyo,
+6234,Adult Swim,
+6235,Adult Swim,
+6236,CBS,
+6237,Play UK,
+6238,ABC,7.0
+6239,Adult Swim,
+6240,Adult Swim,
+6241,FOX,
+6242,FOX,
+6243,Cartoon Network,
+6245,MTV,
+6246,Adult Swim,
+6247,FOX,
+6248,ABC,
+6249,MTV,
+6250,Comedy Central,
+6251,HBO,
+6252,Adult Swim,
+6254,RTP1,
+6255,RTP1,
+6256,RTP1,
+6257,Showtime,8.7
+6258,RTP1,
+6259,ITV,8.4
+6260,NBCSN,
+6261,Rai 1,
+6262,ITV,7.8
+6263,"fyi,",
+6264,ATV,
+6265,Null,
+6266,VIER,
+6267,Rede Record,
+6268,bTV,
+6269,ABC,
+6270,NBC,
+6271,ABC,
+6272,ABC,9.0
+6273,ABC,
+6274,ABC,
+6275,NBC,
+6276,NBC,
+6277,VTM 2,
+6278,MBS,
+6279,ITV,
+6280,СТБ,
+6281,СТБ,
+6284,CBC,
+6285,Sky Cinema,7.8
+6286,National Geographic Channel,
+6287,NPO 2,
+6288,Three,
+6289,Nickelodeon,
+6290,Telecinco,
+6291,La Sexta,
+6292,BET,
+6293,Null,
+6294,La 1,
+6295,Showtime,
+6296,VIER,
+6297,TVNZ 1,
+6298,RTL Klub,
+6299,Nickelodeon,5.4
+6300,RTL5,
+6301,Nickelodeon,8.5
+6302,Paramount Network,
+6303,Null,
+6304,Nickelodeon,
+6305,Nickelodeon,
+6306,Tokyo MX,8.8
+6307,Tokyo MX,
+6308,Nickelodeon,6.7
+6309,Nickelodeon,
+6310,Sky Arts,
+6311,Destination America,
+6312,Oxygen,
+6313,TLC,
+6314,Science,
+6315,ABC,7.6
+6317,VIER,
+6318,Rai 1,
+6319,BBC Two,
+6320,Syndication,
+6321,CBS,
+6322,Nickelodeon,6.6
+6323,Nickelodeon,
+6324,Nickelodeon,
+6325,Nickelodeon,
+6326,Nickelodeon,
+6327,The WB,
+6328,Nickelodeon,7.6
+6329,Nickelodeon,
+6330,"fyi,",
+6331,Nickelodeon,
+6332,Nick Jr.,
+6333,Nickelodeon,
+6334,Antena 3,
+6335,La Sexta,
+6336,Antena 3,
+6337,Antena 3,
+6338,TV Tokyo,7.0
+6339,Outdoor Channel,
+6340,VIER,
+6341,LifeStyle Food,
+6342,NPO 2,
+6343,VIASAT3,
+6344,Rai 2,
+6345,World,
+6346,Telecinco,
+6347,Telecinco,
+6348,Channel 5,
+6349,NFL Network,
+6350,Новий Канал,
+6351,1+1,
+6353,Colors,
+6354,1+1,
+6355,1+1,
+6356,1+1,
+6357,1+1,
+6358,1+1,
+6359,WOWOW,7.2
+6360,1+1,
+6361,1+1,
+6362,ORF 1,
+6364,CBBC,
+6365,MTV,
+6367,Null,
+6368,BBC Two,
+6369,Null,
+6370,ТНТ,
+6371,Channel 5,
+6373,Syndication,
+6374,Null,
+6375,TBS,
+6376,TBS,
+6377,Fuji TV,
+6378,TBS,
+6379,NTV,
+6380,NTV,
+6381,NTV,
+6382,Null,
+6383,Fuji TV,
+6384,BBC One,
+6385,NTV,
+6386,Esquire Network,
+6387,Null,
+6388,Outdoor Channel,
+6392,Null,6.6
+6393,FX,7.4
+6399,Esquire Network,
+6401,Lifetime,6.3
+6402,ITV,
+6403,ITV,
+6404,Null,
+6405,Nickelodeon,6.8
+6406,Null,
+6407,Food Network,
+6408,TBS,
+6409,CBeebies,
+6410,Fuji TV,
+6411,Fuji TV,
+6412,Fuji TV,
+6413,Fuji TV,
+6414,Fuji TV,
+6415,Fuji TV,8.4
+6416,TBS,
+6417,Fuji TV,
+6418,NTV,
+6419,NTV,7.3
+6420,NTV,
+6421,TBS,
+6422,Channel 4,
+6423,TBS,8.3
+6424,NTV,6.8
+6425,TBS,
+6426,NTV,
+6427,DR1,
+6428,Cartoon Network,7.5
+6429,VTM,
+6430,KBS2,
+6432,AXN,
+6433,VIER,
+6435,CBS Sports Network,
+6436,NBCSN,
+6437,TLC,
+6438,AXS TV,
+6439,HGTV,
+6440,Fox Sports 1,
+6441,NFL Network,
+6442,Discovery Life,
+6443,Null,
+6444,Canvas,
+6445,Seven Network,
+6446,Das Erste,7.8
+6447,BBC Three,
+6448,Sky 1,
+6449,Null,8.0
+6450,TF1,
+6451,ITV Be,
+6452,CBS,7.7
+6453,Dave,
+6456,Starz,8.1
+6457,PBS,
+6458,Channel 5,
+6459,TF1,7.2
+6460,BBC Two,
+6461,Discovery Channel,
+6462,SBS,7.5
+6463,KBS2,8.3
+6464,ZDF,
+6465,Null,7.8
+6466,TF1,
+6467,Science,
+6468,National Geographic Channel,
+6469,Space,
+6470,Lifetime,
+6471,Channel 4,
+6472,ITV,
+6473,Fuji TV,
+6474,PAC-12 Network,
+6475,BBC Two,
+6476,Seven Network,
+6477,A&E,
+6478,IFC,
+6479,AHC,
+6480,PBS,
+6481,BBC Three,
+6482,Nickelodeon,8.3
+6483,Nickelodeon,3.0
+6484,Discovery Channel,
+6485,AT-X,
+6486,CTV Comedy Channel,
+6487,ZDF,
+6489,Nickelodeon,7.3
+6490,BBC Three,
+6491,ITV,7.0
+6492,Channel 4,
+6493,RTL2,
+6494,SuperTV2,
+6495,ITV,
+6496,Cartoon Network,7.6
+6497,ITV,
+6498,ITV,
+6499,NBC,
+6500,BBC One,
+6501,ITV,
+6503,NRK1,
+6504,Comedy Central,8.2
+6505,Travel Channel,
+6506,Sky 1,
+6508,FX,7.4
+6510,Jiangsu TV,
+6511,Пятница,
+6512,The CW,5.7
+6514,FX,6.6
+6515,Discovery Channel,
+6516,Первый канал,8.2
+6517,PBS,
+6518,Paramount Network,
+6519,CNBC,8.5
+6520,ITV,8.5
+6521,Paramount Network,
+6522,National Geographic WILD,
+6523,National Geographic WILD,
+6524,National Geographic WILD,
+6525,truTV,
+6526,Channel 4,
+6527,Network 10,7.4
+6528,TVP1,
+6529,TVP1,
+6530,TVP1,
+6531,Fuji TV,
+6532,Fox Sports 1,
+6533,AXS TV,
+6534,DIY Network,
+6535,AXS TV,
+6536,TBS,
+6537,Animal Planet,
+6538,NBCSN,
+6539,BBC One,
+6540,BBC One,
+6541,BBC One,
+6542,BBC One,
+6543,BBC One,
+6544,Null,8.1
+6545,Channel 5,
+6546,Channel 5,
+6547,ITV4,
+6548,Sky Sports 1,
+6549,Sky 1,
+6550,Channel 4,
+6551,ITV,
+6552,MTV,
+6553,Channel 4,
+6554,ITV,7.6
+6555,Tokyo MX,7.8
+6556,Antena 3,
+6557,ITV,
+6558,Disney Channel,
+6559,BBC One,
+6560,BBC Two,
+6561,ORF 1,7.4
+6562,TBS,7.8
+6563,TV Tokyo,
+6564,YTV,
+6565,NRK1,
+6566,Null,
+6567,Disney Channel,
+6568,CMT,
+6569,MTV3,
+6570,ABC,8.0
+6571,СТС,4.3
+6572,Das Erste,
+6573,TV Kanagawa,
+6574,СТС,
+6575,BBC Two,
+6576,Tokyo MX,
+6577,TV Asahi,
+6578,Warner Bros Japan,7.8
+6579,ITV,
+6580,AT-X,8.3
+6581,History,
+6582,Science,
+6583,NBCSN,
+6584,Oprah Winfrey Network,
+6585,TV2,7.0
+6586,CBS,
+6587,G4,
+6588,Disney Channel,
+6589,TV Tokyo,8.0
+6590,Showtime,
+6591,ЦТ СССР,8.8
+6592,СТС,
+6593,ЦТ СССР,
+6594,BET,
+6595,TV Tokyo,8.2
+6596,SBS,8.0
+6597,TBS,
+6598,Chiba TV,
+6599,ABC,
+6600,Pivot,
+6601,TV Tokyo,
+6602,NTV,
+6604,TV Tokyo,8.2
+6605,Fuji TV,7.8
+6606,ABC,8.4
+6607,Network 10,
+6608,Tokyo MX,
+6609,TBS,
+6610,TV Tokyo,7.3
+6611,TV Asahi,
+6612,Null,
+6613,NTV,
+6614,Fox Sports 1,
+6615,ESPNEWS,
+6616,Outdoor Channel,
+6617,Outdoor Channel,
+6618,Outdoor Channel,
+6619,Outdoor Channel,
+6620,ABC,
+6621,MBC,
+6622,TV 2,
+6624,Disney Channel,
+6625,Discovery Channel,
+6626,E4,7.4
+6628,Food Network,
+6629,PBS,
+6630,ICI Radio-Canada Télé,
+6631,Animal Planet,
+6632,Animal Planet,
+6633,Animal Planet,
+6634,Animal Planet,
+6635,Animal Planet,
+6636,Animal Planet,
+6637,Animal Planet,
+6638,We tv,
+6639,We tv,
+6640,Animal Planet,
+6641,TVNZ 1,
+6642,Canvas,
+6643,BBC One,8.0
+6644,RTÉ ONE,
+6645,Discovery Channel,
+6646,CBC,7.7
+6647,BBC Two,8.6
+6648,Пятница,
+6649,Россия 1,
+6650,jTBC,
+6651,SET TV,
+6652,KBS2,
+6653,CBS Sports Network,
+6654,History,
+6655,BBC Four,
+6656,Syndication,
+6657,CBS,6.4
+6658,JIM,
+6659,HGTV,
+6660,VIER,
+6661,NBCSN,
+6662,Al Jazeera America,
+6663,TBS,6.4
+6665,ABC,
+6666,VIER,
+6667,ABC,
+6668,BNT 1,
+6669,Syndication,
+6670,MTV,
+6671,TV2,
+6672,BBC One,
+6673,ABC,7.4
+6674,CBS,
+6675,PBS,
+6676,BBC Scotland,
+6677,Golf Channel,
+6678,Первый канал,
+6679,ABC,
+6680,DIY Network,
+6681,VTM,
+6682,We tv,5.5
+6683,Travel Channel,
+6684,Food Network,
+6686,Oprah Winfrey Network,
+6687,TV2 Zulu,
+6688,NBC,
+6689,HBO,
+6690,NBCSN,
+6691,Outdoor Channel,
+6692,Outdoor Channel,
+6693,"fyi,",
+6694,ESPN Classic,
+6695,VTM,
+6696,RTL,
+6697,SVT1,8.3
+6698,TV Guide Channel,
+6700,Comedy Central,
+6701,Null,5.2
+6702,IFC,
+6703,The WB,
+6704,Game Show Network,
+6705,TVNorge,8.8
+6706,Nickelodeon,
+6707,WOWOW,8.0
+6709,NHK,7.3
+6710,TV Tokyo,6.4
+6711,TV Tokyo,
+6713,Comedy Central,4.0
+6714,truTV,
+6715,TLC,
+6716,TLC,
+6717,We tv,
+6718,Animal Planet,7.7
+6719,Disney XD,
+6720,Discovery Channel,
+6721,National Geographic Channel,7.4
+6722,Discovery Channel,
+6723,BBC One,7.8
+6724,BBC Two,
+6725,MTV,
+6726,"fyi,",
+6727,NBC,
+6728,E!,
+6729,FOX,
+6730,TNT,
+6731,ABC,
+6732,1+1,7.0
+6733,FOX,
+6734,CBS,
+6735,CBS,
+6736,NBC,7.2
+6737,MTV,
+6738,The CW,
+6741,FX,6.1
+6742,NBC,8.1
+6743,Cartoon Network,
+6744,Hallmark Channel,7.4
+6745,Nicktoons,
+6746,Outdoor Channel,
+6747,NTV,
+6748,E!,
+6749,TV Tokyo,
+6750,BBC Two,
+6751,CBeebies,
+6752,BBC One,
+6753,Sky 1,8.1
+6755,FOX,6.8
+6756,ABC,5.4
+6757,NBC,
+6758,FOX,
+6759,CBS,
+6760,CMT,
+6761,Sky 1,7.0
+6762,WGN America,8.0
+6763,Null,7.7
+6764,Sundance TV,7.7
+6765,Null,7.3
+6766,Null,7.8
+6767,Syfy,7.3
+6768,Null,7.5
+6769,Null,6.7
+6770,Null,5.0
+6771,Cartoon Network,6.2
+6773,Golf Channel,
+6774,ITV,
+6775,Sky 1,8.2
+6776,Null,6.9
+6777,Slice,
+6778,IFC,
+6779,Sky Uno,
+6780,Sky 1,
+6781,NTV,
+6782,The Weather Channel,
+6784,BBC One,7.3
+6787,Food Network,
+6788,ITV,
+6789,Lifetime,
+6790,On Style,
+6791,FOX8,
+6792,ITV,
+6793,СТС,
+6794,CBC,8.5
+6795,ABC,
+6796,Network 10,7.2
+6797,ABC,
+6798,Arena,
+6800,Seven Network,
+6801,Network 10,
+6802,CMT,
+6803,Fuji TV,
+6804,Telefe,
+6805,El Trece,
+6806,The WB,7.6
+6807,Great American Country,
+6808,CBS Sports Network,
+6809,VTM,
+6810,CBS Sports Network,8.8
+6811,M2,
+6812,UP TV,
+6814,BET,
+6815,ABC,5.5
+6817,Super Channel Fuse,
+6818,Cooking Channel,
+6819,Hallmark Channel,
+6820,Hallmark Channel,
+6821,Animal Planet,
+6822,ABC,
+6823,Network 10,
+6824,ITV,
+6825,TNT Serie,
+6826,FTV,7.4
+6827,ITV,
+6828,ITV,
+6829,MTV,
+6830,MBC Music,7.6
+6831,BBC One,
+6833,The WB,
+6835,SBS,
+6836,FOX,
+6837,Travel Channel,
+6838,The WB,
+6839,NPO 3,
+6840,TV Tokyo,7.7
+6841,Food Network,
+6842,Travel Channel,
+6843,Bravo,
+6844,NPO 3,
+6846,Lifetime,
+6847,Das Erste,
+6848,Sundance TV,
+6849,PBS,
+6850,Oprah Winfrey Network,
+6851,Oprah Winfrey Network,
+6852,The Weather Channel,
+6853,"fyi,",
+6854,Travel Channel,
+6855,We tv,
+6856,Esquire Network,
+6857,Esquire Network,
+6858,E!,
+6859,NPO 1,
+6860,Syndication,
+6861,Hallmark Channel,
+6862,Channel 5,
+6863,MTV Polska,
+6864,Oxygen,
+6865,CBS,
+6866,HBO,7.8
+6867,Oxygen,
+6869,Null,
+6871,Null,5.8
+6872,CTV,
+6873,MBS,8.4
+6874,Tokyo MX,
+6875,Syndication,
+6876,Comedy Central,
+6877,BBC One,
+6878,BBC Two,
+6879,Channel 4,
+6880,Syndication,
+6881,Network 10,
+6882,ABC,
+6883,FOX,
+6884,BBC One,
+6885,TV3,
+6886,Canal+,
+6887,Channel 4,
+6888,CBBC,
+6889,BBC One,
+6890,CBC,
+6891,Sundance TV,7.2
+6892,HBO,
+6893,Nicktoons,
+6894,Fuji TV,
+6895,TBS,
+6896,TBS,
+6897,Fuji TV,
+6898,Fuji TV,
+6899,TBS,
+6900,Fuji TV,
+6902,TBS,
+6903,BBC Two,
+6904,Syfy,7.8
+6905,Fuji TV,
+6906,TV Asahi,
+6907,BBC One,
+6908,NTV,
+6909,TV Tokyo,8.8
+6910,Syndication,
+6911,BBC One,
+6912,ITV,7.7
+6913,RTÉ ONE,6.9
+6914,HBO,
+6915,Fuji TV,
+6916,NTV,
+6917,ESPN2,
+6918,BYU Television,
+6919,Lifetime,
+6920,Showtime,4.7
+6921,BBC One,
+6922,CTV,
+6923,BYU Television,
+6924,CBS,
+6925,BBC One,
+6926,TV Tokyo,6.0
+6927,BBC One,
+6928,CBS,7.0
+6929,Pay-Per-View,
+6930,BYU Television,
+6931,CMT,
+6932,NBC,
+6933,Starz,7.3
+6935,Oprah Winfrey Network,7.3
+6936,Nicktoons,
+6937,Nickelodeon,
+6938,tvN,7.0
+6939,MBC,
+6940,Fuji TV,
+6941,HKTV,
+6942,ITV,
+6943,Food Network,
+6944,BBC One,8.3
+6945,Nine Network,
+6946,BBC Three,
+6947,TV Tokyo,
+6948,CTV Sci-Fi Channel,
+6949,ABC,6.3
+6950,СТС,
+6951,Great American Country,
+6952,BBC One,
+6953,BBC America,
+6954,Virgin Media One,
+6955,Fox Sports 1,
+6956,Canal+,
+6957,Réseau Des Sports,
+6958,Fox Sports 1,
+6959,Outdoor Channel,
+6960,Outdoor Channel,
+6961,Outdoor Channel,
+6962,CBS,
+6963,Food Network,
+6964,TVH!TS,
+6965,NBCSN,
+6966,NBC,7.3
+6967,ESPN,
+6968,BBC One,7.1
+6970,Null,7.6
+6971,FOX,
+6972,NBC,6.8
+6973,BBC Two,
+6974,BBC Two,
+6975,Channel 4,
+6976,Null,
+6977,ABC,
+6978,ABC,
+6979,Channel 4,
+6981,NBC,6.9
+6982,BBC Two,
+6983,NPO 2,
+6984,NBC,
+6985,Bravo,
+6986,Showtime,
+6988,E!,
+6989,VH1,
+6990,CNN,
+6991,ABC,
+6992,CBS,
+6993,Syndication,
+6994,VH1,
+6995,jTBC,
+6996,Colors,
+6997,Null,
+6999,AT-X,7.3
+7000,CBS Sports Network,
+7001,Showtime,
+7002,TV Tokyo,
+7003,History,
+7004,History,
+7005,Kids Station,8.1
+7006,TBS,
+7007,Fuji TV,
+7008,Fuji TV,
+7009,Fuji TV,
+7010,Fuji TV,
+7011,TV Tokyo,
+7012,Comedy Central,
+7013,IFC,
+7014,Esquire Network,
+7015,USA Network,8.0
+7016,Telemundo,7.8
+7017,FOX8,
+7018,Nickelodeon,7.7
+7019,Null,6.6
+7021,NBC,
+7023,ABC,
+7024,CBS,
+7025,NBC,
+7026,NBC,
+7027,History,7.8
+7029,BBC One,7.5
+7030,Bravo,
+7031,Fuji TV,
+7032,HBO Latin America,
+7033,VTM 2,
+7034,ABC,
+7035,GTV,
+7036,Nickelodeon,
+7037,PBS,
+7038,BBC One,
+7039,BBC One,8.0
+7040,BBC One,
+7041,СТБ,
+7042,BBC Three,
+7043,BBC Two,
+7044,7mate,
+7045,tvN,
+7046,Network 10,7.5
+7047,Null,
+7048,The WB,
+7049,NHK,
+7050,Seven Network,
+7051,ABC,7.7
+7052,Null,
+7053,één,
+7054,VTM,
+7055,Cartoon Network,
+7056,VTM,
+7057,VTM,
+7058,BBC Two,
+7059,Syndication,
+7060,yesSTARS,
+7061,TV Aichi,
+7062,ABC,
+7063,Stöð 2,
+7064,Lifetime,
+7065,Outdoor Channel,
+7066,NHK,
+7067,YTV,
+7068,Showcase,
+7069,Disney Channel,
+7070,Outdoor Channel,
+7072,CBS,
+7073,CBS,
+7075,Null,
+7076,CBS,
+7077,CBS,
+7078,CBS,
+7079,CBS,
+7080,Nick Jr.,
+7085,TV Tokyo,
+7086,Россия 1,
+7087,ABC,
+7088,Virgin Media One,
+7089,BBC Lifestyle,
+7090,ABC,
+7091,ABC,
+7092,M6,
+7093,FOX Türkiye,6.8
+7094,NBC,
+7095,Syndication,
+7096,Seven Network,
+7097,Nine Network,
+7098,France 2,
+7099,Syndication,
+7100,TV2,
+7101,CBS,
+7102,ABC,
+7103,BBC One,9.4
+7104,Syndication,
+7105,BBC Two,
+7106,FOX,
+7107,ABC,
+7108,OMNI,
+7109,Chiba TV,
+7110,SBS,
+7111,Network 10,
+7112,Hum TV,
+7113,Beijing TV,
+7114,Fox Crime,
+7115,TV Tokyo,7.8
+7116,Null,7.1
+7117,FOX,
+7118,NBC,
+7119,SVT1,
+7120,E!,
+7121,NBC,
+7122,ABC,
+7123,Lifetime,
+7124,Bravo,
+7126,ITV,
+7127,ITV,
+7128,UPN,
+7129,CBS,
+7130,The WB,
+7131,Seven Network,
+7132,Syndication,
+7133,JIM,
+7134,VIER,
+7135,Beijing TV,8.0
+7136,NBC,7.5
+7137,Hunan TV,
+7139,tvN,7.5
+7140,tvN,
+7141,The Weather Channel,
+7142,UniMás,
+7143,CBS Sports Network,
+7144,CTV Sci-Fi Channel,
+7145,Channel 4,
+7146,ABC,
+7147,TVNZ 2,
+7148,Network 10,
+7149,Seven Network,
+7150,ABC,
+7151,Showcase,
+7152,ITV,
+7153,Prime,
+7154,ABC,
+7155,Nine Network,
+7156,ABC,
+7157,ABC,
+7158,ABC,
+7159,ABC,
+7160,ABC,
+7161,ABC Comedy,
+7162,Nickelodeon,
+7163,SBS,
+7164,ABC Comedy,
+7165,Seven Network,
+7166,Channel 4,
+7167,SBS,
+7168,Network 10,
+7169,TVNZ 1,
+7170,TVNZ 2,
+7171,CBC,
+7172,Showcase,
+7173,Network 10,
+7174,TV Tokyo,
+7175,TLC,7.3
+7176,BBC One,
+7177,Syfy,
+7178,HBO,
+7179,PBS,
+7181,Telemundo,
+7182,Channel 4,
+7183,Animal Planet,
+7184,Investigation Discovery,
+7185,één,
+7186,BBC One,8.6
+7187,SVT1,
+7188,Esquire Network,
+7189,BBC Two,
+7190,ETV,
+7191,TV Tokyo,
+7192,Channel 4,
+7193,NBC,7.2
+7194,Null,7.2
+7195,BBC Three,
+7196,Channel 5,7.5
+7197,National Geographic Channel,
+7198,MotorTrend,
+7199,National Geographic Channel,
+7200,HGTV,
+7201,BBC One,
+7202,BBC Three,
+7203,Oxygen,
+7204,Channel 4,
+7205,Nine Network,
+7206,Null,
+7207,Showtime,
+7208,RTÉ ONE,7.3
+7209,Canal+,7.0
+7210,Syndication,
+7212,Travel Channel,
+7213,CBC,
+7214,Null,
+7215,Seven Network,
+7216,Syndication,
+7217,SBS,
+7218,Comedy Central,
+7219,Syndication,7.3
+7220,CBS,6.1
+7221,NBC,
+7222,PBS,8.4
+7223,PBS,
+7224,Discovery Family,
+7225,Null,
+7226,AMC,8.0
+7229,CBS,
+7231,Three,
+7232,TVNZ 1,
+7233,Seven Network,
+7234,Crime + Investigation,
+7235,Three,
+7236,Network 10,
+7237,Network 10,
+7238,Nine Network,
+7239,ABC,
+7240,TV2,
+7241,Null,
+7242,VIER,
+7243,CBS,8.3
+7244,Syndication,
+7245,CBS Sports Network,
+7246,CBeebies,
+7247,CBeebies,
+7248,NBC,
+7249,Paramount Network,
+7250,Paramount Network,
+7251,Paramount Network,
+7252,Paramount Network,
+7253,Pop,
+7254,NBC,
+7255,CBeebies,
+7256,PBS,
+7257,BBC One,
+7258,BBC Two,6.1
+7259,BBC One,8.3
+7260,tvN,7.2
+7261,Channel 4,8.0
+7262,BBC Two,
+7263,Channel 4,
+7264,BBC One,
+7265,Channel 5,
+7266,tvN,7.9
+7268,CBBC,
+7269,tvN,8.1
+7270,SBS,
+7271,Sky 1,
+7272,Three,
+7274,NBC,
+7275,TNT,
+7276,ITV,
+7277,DR1,
+7278,ITV,
+7279,CBS,
+7280,Network 10,
+7281,Three,
+7282,Three,
+7283,TVNZ 1,
+7284,TVNZ 1,
+7285,ABC,
+7286,Nine Network,
+7287,ABC,
+7288,Three,
+7289,ТНТ,
+7290,SBS,
+7291,TVNZ 1,
+7292,ABC,
+7293,ABC,
+7294,TVNZ 1,
+7295,Network 10,
+7296,TVN,
+7297,Nine Network,
+7298,ITV4,
+7299,Nine Network,6.6
+7300,ABC,
+7301,CBS,
+7302,Cartoon Network,
+7303,HBO,8.3
+7304,NBC,
+7305,NBC,
+7306,Syndication,
+7307,Первый канал,
+7308,Canal+,
+7309,BBC One,
+7310,DR1,
+7311,Syfy,
+7312,ITV,
+7313,ITV,
+7314,Seven Network,
+7315,Māori Television,
+7316,Star World,
+7317,TV2,7.3
+7318,CBeebies,
+7319,DR1,
+7320,Canvas,
+7321,NPO 3,
+7322,RTL5,
+7323,Cartoon Network,
+7324,Syndication,
+7325,Discovery Channel,
+7326,History,
+7327,één,
+7328,Channel 4,
+7329,Null,
+7330,ITV,
+7331,CBS,
+7333,BBC One,
+7334,NBC,
+7335,Cartoon Network,8.3
+7336,ITV,
+7337,The WB,
+7338,Discovery Channel,
+7339,NBC,
+7340,Sky Sports Premier League,
+7341,CBS,
+7342,Syndication,
+7344,Channel 4,
+7345,Cartoon Network,8.3
+7346,ITV,
+7347,Syndication,
+7348,ABC,8.1
+7349,Null,
+7350,CNN,
+7351,TVO,
+7352,Звезда,
+7353,TV 2,
+7354,TV 2,
+7355,TV 2,
+7356,MyNetworkTV,
+7357,CBS,
+7358,The CW,
+7359,Fox Sports 1,
+7360,TV Land,
+7361,ABC,
+7362,BBC One,
+7363,TV Tokyo,
+7364,Syndication,4.7
+7365,ABC,
+7366,Adult Swim,8.0
+7367,SBS,8.2
+7368,Channel 4,
+7369,RTL Klub,
+7370,Первый канал,
+7371,tvN,
+7372,BBC One,
+7373,Channel 4,
+7374,ITV,
+7375,BBC One,7.9
+7376,ITV,
+7377,НТВ,
+7378,BBC Two,
+7379,BBC One,
+7380,BBC One,
+7381,CBC,
+7382,TV Tokyo,
+7383,BBC Two,
+7384,Gold,
+7385,BBC One,8.6
+7386,PBS,
+7387,E4,8.3
+7388,BBC One,
+7389,Channel 4,
+7391,Comedy Central,
+7392,TV Tokyo,7.1
+7393,één,
+7394,Россия 1,
+7395,één,
+7396,History,
+7397,HBO,7.8
+7398,Syndication,
+7399,Null,6.3
+7400,MTV,
+7401,ABC,6.0
+7402,Nickelodeon,
+7403,Null,
+7404,Null,
+7405,E4,7.1
+7406,Null,
+7407,Россия 1,
+7408,Null,
+7409,Nickelodeon,
+7410,Travel Channel,
+7411,Discovery Channel,
+7412,Null,
+7413,Nickelodeon,
+7414,Seven Network,7.3
+7415,ABC,
+7416,UPN,
+7417,NBC,
+7418,FOX,
+7419,CBBC,
+7420,Channel 4,
+7421,Yesterday,
+7422,Channel 4,
+7423,ITV,
+7424,Sky 1,
+7425,ITV,
+7426,ITV,
+7427,BBC Three,
+7428,TBS,
+7429,NRK1,
+7430,BBC Two,
+7431,AHC,
+7432,CBS,
+7433,CNBC,
+7434,YTV,
+7436,Null,
+7437,BBC Four,
+7438,Disney Junior,
+7439,TNT,
+7440,BBC One,7.8
+7441,BBC Two,
+7442,FOX,6.2
+7443,TV 2,
+7444,Science,
+7445,Cartoon Network,
+7446,TV 2,
+7447,CNN,
+7448,Домашний,
+7449,Disney XD,
+7451,Null,
+7452,ABC,6.7
+7454,NHK World,
+7455,Network 10,
+7456,NHK,
+7457,Nickelodeon,6.5
+7458,The WB,
+7459,Fuji TV,
+7460,TVNorge,
+7461,BBC Two,
+7462,Syndication,
+7463,FOX,
+7464,TV 2,
+7465,СТБ,
+7466,Science,
+7468,BBC One,
+7469,Россия 1,
+7470,TVP2,4.8
+7471,BBC Two,
+7472,AHC,
+7473,BBC Two,
+7474,NRK1,
+7475,TVNZ 1,
+7476,BBC One,
+7478,FOX,
+7479,UniMás,
+7480,Null,7.8
+7481,Las Estrellas,
+7482,TVNorge,
+7483,CBS,
+7484,NBCSN,
+7486,NFL Network,
+7487,ESPN2,
+7488,MotorTrend,6.2
+7489,DIY Network,
+7490,DIY Network,
+7491,DIY Network,
+7492,DIY Network,
+7493,NBC,
+7494,Fox Sports 1,
+7495,ESPN,
+7496,ITV2,
+7497,The Movie Network,
+7498,KBS1,
+7499,SBS,
+7500,ABC,
+7501,CTV,
+7502,CBC,
+7503,Showcase,
+7504,HBO Canada,
+7505,ABC,
+7506,HBO Canada,
+7507,BBC Two,
+7508,CBS,
+7509,Beijing TV,
+7510,ABC,
+7511,ZDF,
+7512,NBC,
+7513,NBC,8.3
+7514,Spektrum,
+7515,RTL Klub,
+7516,RTL Klub,
+7517,On Style,
+7518,PBS,
+7519,Null,
+7520,More4,6.8
+7522,Null,5.3
+7523,Syfy,6.8
+7524,ESPNU,
+7525,ABC,
+7526,HBO Canada,
+7528,CBS,
+7529,Discovery Channel,
+7530,ESPN2,
+7531,ABC,5.0
+7532,BBC One,
+7533,NBCSN,
+7534,NBCSN,
+7535,UPN,
+7536,NBCSN,
+7537,BBC One,
+7538,UPN,
+7539,Duna TV,
+7540,NBCSN,
+7541,NFL Network,
+7542,NFL Network,
+7543,CBS Sports Network,
+7546,E!,
+7547,CBC,
+7548,BBC One,7.6
+7549,ITV,
+7550,NPO 2,
+7551,Disney Channel,
+7552,ITV,
+7553,CBS,7.1
+7554,één,
+7555,BBC Four,
+7556,Animal Planet,
+7557,TV Tokyo,7.9
+7558,ESPN,
+7560,M2,
+7561,BBC Two,
+7564,Null,
+7566,Россия 1,
+7567,CBS,
+7568,NBC,
+7569,BBC One,
+7570,Channel 4,
+7571,Первый канал,
+7572,СТС,
+7573,USA Network,
+7574,ITV,
+7575,ITV,
+7576,BBC One,
+7577,ABC,
+7579,National Geographic Channel,
+7580,Star TV,9.8
+7581,BBC Two,
+7582,Syfy,
+7583,PBS,4.8
+7584,NTV,
+7585,NTV,
+7586,ESPN,
+7587,Null,7.4
+7588,Россия 1,
+7589,Rede Globo,
+7590,TBS,
+7591,Null,
+7592,Інтер,
+7593,The WB,8.2
+7594,NBC,
+7595,BBC Two,
+7596,Первый канал,
+7597,NRK1,
+7598,BBC One,
+7599,NBC,
+7600,NBC,
+7601,AT-X,5.8
+7602,NBC,
+7603,ABC,
+7604,CBS,
+7605,CBS,7.4
+7606,Showtime,
+7608,NHK,
+7609,FreeForm,
+7610,Las Estrellas,
+7611,Bloomberg TV,
+7612,NBCSN,
+7613,RFD-TV,
+7614,HGTV,
+7615,TF1,
+7616,BBC Two,
+7617,Discovery Family,
+7618,Discovery Channel,
+7619,A&E,
+7621,Style TV,
+7622,BBC Two,
+7623,CBS,
+7624,Dragon TV,
+7625,PBS,
+7626,BBC One,7.6
+7627,СТС,
+7628,BBC Four,
+7629,CBBC,
+7630,BBC Two,
+7631,ITV,
+7632,ITV,
+7633,ITV,
+7634,CBS,
+7635,The WB,
+7636,CBS,
+7637,Syndication,
+7638,NBC,
+7639,ABC,
+7640,FOX8,
+7641,Null,
+7642,Family Channel,
+7643,Россия 1,
+7644,E4,
+7645,Null,
+7646,FOX,
+7647,Sky 1,
+7648,History,
+7649,Channel 4,
+7650,NBC,
+7651,NBC,
+7652,Investigation Discovery,
+7653,ITV,
+7654,Null,7.5
+7655,truTV,
+7656,HBO,
+7657,Channel 4,
+7658,KBS2,
+7659,CBS,
+7660,UPN,
+7661,UPN,
+7662,TV Kanagawa,
+7663,FOX Türkiye,
+7664,Star TV,
+7665,BBC Three,
+7666,BBC Two,7.6
+7667,ESPNU,
+7668,NBCSN,
+7669,Bloomberg TV,
+7670,ESPN2,
+7671,TNT,7.5
+7672,CTV,
+7673,FreeForm,6.1
+7674,FreeForm,6.7
+7675,Zee TV,
+7676,Null,
+7677,Channel 4,
+7678,Інтер,
+7679,Інтер,
+7680,TV Saitama,
+7682,Россия 1,
+7683,Star Plus,
+7684,Zee TV,
+7685,Null,
+7686,Sony Pal,
+7687,Life OK,
+7688,TF1,
+7689,BBC Two,
+7690,CBS,
+7691,ABC,7.0
+7692,Canal+,
+7693,1+1,
+7694,ATV,
+7695,СТБ,
+7696,BBC One,
+7697,BBC Two,
+7698,РЕН ТВ,
+7699,Россия 1,
+7700,Россия 1,
+7701,NBC,
+7702,UPN,
+7703,UPN,
+7704,NBC,6.4
+7705,NBC,
+7706,ESPN2,
+7707,Channel 4,8.0
+7708,PBS,
+7709,Bravo,
+7710,Pop,
+7711,Outdoor Channel,
+7712,Outdoor Channel,
+7713,Outdoor Channel,
+7714,Outdoor Channel,
+7715,Outdoor Channel,
+7716,Outdoor Channel,
+7717,Outdoor Channel,
+7718,Outdoor Channel,
+7719,Outdoor Channel,
+7720,Outdoor Channel,
+7721,Outdoor Channel,
+7722,Outdoor Channel,
+7723,Outdoor Channel,
+7724,Outdoor Channel,
+7725,Outdoor Channel,
+7726,Outdoor Channel,
+7727,Outdoor Channel,
+7728,Outdoor Channel,
+7729,DR1,
+7730,Investigation Discovery,
+7731,Investigation Discovery,
+7732,ITV,
+7733,BBC Two,9.8
+7734,Null,
+7735,ITV,
+7736,Outdoor Channel,
+7737,ITV,
+7738,BBC One,
+7739,Sky 1,
+7740,Sky 1,
+7741,BBC One,
+7742,TTV,
+7743,CBS,
+7744,NBC,
+7745,BBC Two,
+7746,NBC,
+7747,ABC,8.3
+7748,Syndication,
+7749,Kanal D,
+7750,Null,
+7751,VH1,
+7752,National Geographic Channel,
+7753,BBC One,
+7754,BBC One,
+7755,ITV,
+7756,ITV,
+7757,NBC,
+7758,BBC One,
+7759,BBC One,7.4
+7760,Adult Swim,
+7761,Adult Swim,7.0
+7762,ITV,
+7763,ITV,
+7764,BBC One,
+7766,Crime & Investigation,
+7767,ITV,
+7768,Investigation Discovery,
+7769,BBC One,
+7770,BBC One,5.5
+7771,CNN,
+7772,UPN,
+7773,ABC,
+7774,CBS,
+7775,CBS,
+7777,ESPNEWS,
+7778,HBO Latin America,
+7779,ABC,
+7780,ABC,
+7781,Das Erste,
+7782,ABC,
+7783,TLC,
+7784,BBC Three,
+7785,CMT,
+7786,Channel 4,
+7787,Arte,
+7788,Cartoon Network,
+7789,ABC,
+7790,Fuji TV,
+7791,TV Tokyo,
+7792,Syndication,
+7793,REELZ,
+7794,REELZ,
+7795,NBC,
+7796,NBCSN,
+7797,Discovery Family,
+7798,BBC One,
+7799,Fusion,
+7800,Syndication,
+7801,MotorTrend,
+7803,één,
+7804,Das Erste,
+7805,Sat.1,
+7806,UPN,
+7807,CNBC,
+7808,TLC,
+7809,MTV,6.8
+7810,Colors,
+7811,Das Erste,
+7812,RTL,
+7813,Sat.1,
+7814,RTL,
+7815,ZDF,
+7816,ZDF,
+7817,Das Erste,
+7818,Null,
+7819,Null,
+7820,jTBC,
+7821,ITV,
+7822,TF1,
+7823,ITV,
+7824,BBC One,
+7825,BBC One,
+7826,ITV,
+7827,BBC One,
+7828,Null,
+7829,Null,
+7832,BBC World News,
+7834,Universal Kids,
+7835,CBS,
+7836,ABC,
+7837,The WB,
+7838,Null,
+7841,VH1,
+7843,ITV,
+7844,één,
+7845,CBS,8.6
+7846,AMC,
+7847,Null,
+7848,1+1,
+7849,ABC,
+7850,Channel 4,
+7851,FOX,
+7852,Comedy Central,
+7853,TBS,
+7854,ITV,
+7855,NBC,
+7856,FX,
+7857,Bravo,
+7858,ABC,
+7859,TLC,
+7860,A&E,
+7861,SAT1 Emotions,
+7862,Sky 1,
+7863,NBC,
+7864,ProSieben,
+7865,WDR,
+7866,SAT1 Emotions,
+7867,Das Erste,
+7868,Null,
+7869,RTL,
+7870,WDR,
+7871,ORF 1,
+7872,ZDF,
+7873,Great American Country,
+7874,ZDF,
+7875,Sat.1,
+7876,CBC,
+7877,The Family Channel,
+7878,NBCSN,
+7879,ZDF,
+7880,Null,
+7881,Channel 4,
+7882,NBCSN,
+7883,NBCSN,
+7885,Univision,
+7886,CBS Sports Network,
+7887,FOX,
+7888,NBCSN,
+7889,ZDF,
+7890,History,
+7891,ABC,
+7892,ESPN2,
+7893,ZDF,
+7894,Destination America,
+7896,CBS,
+7897,ITV,
+7898,BBC One,
+7899,ABC,5.8
+7900,ITV,
+7902,BBC One,
+7903,FOX,
+7904,ABC,
+7905,BBC One,7.5
+7906,NTV,7.0
+7907,Antena 3,
+7908,Discovery Channel,
+7909,Null,
+7910,Canal 9,
+7911,BBC Two,
+7912,Null,
+7913,PBS,
+7914,ORF 1,
+7915,ТВ-3,
+7916,RTL5,
+7917,Three,
+7918,ITV,
+7919,OMNI,7.0
+7920,FOX,
+7921,Fox Soccer,
+7922,W Network,
+7923,Das Erste,
+7924,TVNZ 2,
+7925,BBC One Wales,
+7926,UPN,
+7927,Syfy,
+7928,Comedy Central,
+7929,Investigation Discovery,
+7930,Channel 4,
+7931,Channel One,
+7932,TLC,
+7933,BBC One,
+7934,Investigation Discovery,
+7935,Null,
+7936,ITV,
+7938,Seven Network,
+7939,Lifetime Movies,
+7940,NBC,
+7941,Canal+,
+7942,BBC One,
+7943,CBS Sports Network,
+7944,NBCSN,
+7945,ITV,
+7946,Channel 4,
+7947,Null,
+7948,ZDFneo,
+7949,ZDFneo,
+7950,CBBC,
+7951,Nick Jr.,
+7952,Canal+,7.0
+7953,Das Erste,
+7954,ORF 1,
+7955,ZDF,
+7957,Discovery Channel,
+7958,CBS Sports Network,
+7959,NBCSN,
+7960,CBC,
+7961,ABS-CBN,
+7962,Channel 5,
+7963,ITV,
+7964,Telemundo,
+7965,ABS-CBN,
+7966,MLB Network,
+7967,NHL Network,
+7968,BBC Three,
+7969,BBC Three,
+7970,Channel 4,
+7971,TLC,
+7972,Virgin Media One,8.4
+7973,Channel 4,
+7974,TLC,
+7975,BBC Two,
+7976,BBC Two,
+7977,Channel 4,
+7978,Audience Network,
+7979,BBC Two,
+7980,Channel 4,
+7981,BBC One,
+7982,ABS-CBN,
+7983,ABC,
+7984,ABC,
+7985,ABC,
+7986,ABC,
+7987,ABC,
+7988,Syndication,
+7989,Null,8.5
+7990,ESPN,
+7991,Channel 4,
+7992,RTL5,
+7993,Travel Channel,
+7994,History,5.8
+7995,REELZ,
+7996,BBC One,
+7997,ITV,
+7998,BBC One,
+7999,BBC One,
+8000,TVP1,
+8001,TVP1,
+8002,TVP1,
+8003,Polsat,
+8004,TVP1,
+8005,TVP2,
+8006,TVP1,
+8007,TVP2,
+8008,TVP1,
+8009,TVN,
+8010,TVP1,
+8011,TVP2,
+8012,TVP2,
+8013,TVP2,
+8014,TVP2,
+8015,TVP2,
+8016,TVP1,
+8017,TVN,
+8018,SET TV,
+8019,TVP1,
+8020,Polsat,
+8021,TVP1,
+8022,TVP1,
+8023,Tokyo MX,
+8024,RTL,
+8025,RTL,
+8026,Null,
+8027,MBC,
+8028,ORF 1,
+8029,RTL,
+8030,RTL Nitro,
+8031,NBC,
+8032,ABC,
+8033,ZDFneo,
+8034,ZDF,
+8035,Null,
+8036,ZDF,
+8037,VOX,
+8038,ZDF,
+8039,Sat.1,
+8040,ORF 1,
+8041,RTL,
+8042,Null,
+8043,ZDF,
+8044,WDR,
+8045,Arte,
+8046,ITV,
+8047,BBC One,
+8048,BBC One,
+8049,BBC One,
+8050,Science,
+8051,BBC One,
+8052,TV One,
+8053,Sat.1,
+8054,Sat.1,
+8055,Sat.1,
+8056,ZDF,
+8057,VOX,
+8058,ТВ-3,
+8059,Network 10,
+8060,ТВ-3,
+8061,ESPN,
+8062,Fox Sports 1,
+8063,Three,
+8064,Food Network,
+8065,Channel 4,
+8066,Discovery Family,
+8067,REVOLT,
+8068,Discovery Family,
+8069,CBS Sports Network,
+8070,SEC Network,
+8071,ESPNU,
+8072,TVNZ 1,
+8073,ITV2,
+8074,ITV,
+8075,Network 10,
+8076,Sat.1,
+8077,ITV,
+8078,AMC,
+8079,City,
+8080,ITV,
+8081,ITV,
+8082,Network 10,
+8083,Channel 5,
+8084,CBS,
+8085,Sky 1,7.8
+8087,BBC One,
+8088,ЦТ СССР,
+8089,Channel 4,
+8090,BBC One,
+8091,FOX,
+8092,ABC,
+8093,Das Erste,
+8094,RTL,
+8095,RTL,
+8096,ITV,
+8097,FOX,5.7
+8098,SAT1 Emotions,
+8099,Sat.1,
+8100,CBC,
+8101,Slice,
+8102,Channel 5,
+8103,Jiangsu TV,
+8104,Seven Network,
+8105,Das Erste,
+8106,Channel 4,
+8107,BBC One,
+8108,BBC One,
+8109,BBC One,
+8110,BBC One,
+8111,PBS,
+8112,RTL,
+8113,National Geographic Channel,
+8114,RTL,
+8115,TNT Serie,
+8116,RTL,
+8117,Sat.1,
+8118,DR1,
+8119,BBC One,
+8120,ZDF,
+8121,ZDFneo,
+8122,Rai 1,
+8123,SAT1 Emotions,
+8124,SAT1 Emotions,
+8125,Antena 3,
+8126,ITV,
+8127,ABC,8.2
+8128,CBS,
+8130,ABC,
+8131,Discovery Channel,
+8132,NBC,
+8133,VTM,
+8139,ЦТ СССР,8.6
+8140,CBS,
+8141,Travel Channel,
+8142,Syfy,3.8
+8143,NBC,
+8144,CBS,
+8145,ABC,
+8146,NBC,
+8147,CBS Sports Network,
+8148,Oprah Winfrey Network,
+8149,UPN,
+8150,Canal+,
+8151,NBC,
+8152,ITV,
+8153,Fox Business Network,
+8154,SEC Network,
+8159,Channel 4,
+8161,AMC,7.4
+8163,Null,7.6
+8165,Null,7.2
+8166,Null,
+8167,Null,7.4
+8171,CBS,7.0
+8172,France 2,
+8173,ITV,
+8174,Null,
+8175,ABC,6.0
+8176,CBS,
+8177,BBC One,
+8178,ProSieben,
+8179,Rede Globo,
+8180,BBC One,
+8181,BBC One,
+8182,Rede Globo,
+8183,BBC One,
+8184,Rede Globo,
+8185,BBC One,
+8186,Rede Globo,
+8187,Rede Globo,
+8188,Rede Globo,
+8189,Rede Globo,
+8190,Rede Manchete,
+8191,Rede Manchete,
+8192,BBC One,
+8193,BBC One,
+8194,BBC One,
+8195,France 2,
+8196,BBC One,
+8197,BBC One,
+8198,Fuji TV,
+8199,Tokyo MX,6.6
+8201,TV Tokyo,7.0
+8202,Fuji TV,6.3
+8203,Fuji TV,
+8204,TV Saitama,
+8205,BBC One,
+8206,CBS,8.3
+8207,Cartoonito,
+8208,BBC One,
+8209,ITV,
+8210,BBC One,
+8211,ITV,
+8212,NBCSN,
+8213,Null,
+8214,Las Estrellas,
+8215,Las Estrellas,
+8216,Las Estrellas,
+8217,Fuji TV,
+8218,ITV2,
+8219,Channel 5,
+8220,SVT1,
+8221,TV4,
+8222,Kanal 5,
+8223,TV4,
+8224,The WB,
+8225,NBC,
+8226,The WB,
+8227,PBS,
+8228,NBCSN,
+8229,VH1,
+8230,UniMás,
+8231,Telemundo,
+8232,Tokyo MX,7.4
+8234,Prime,
+8235,AT-X,7.4
+8236,TVNZ 1,
+8237,TV Tokyo,
+8238,MBS,
+8239,Nine Network,
+8240,Null,
+8241,MBS,
+8242,TV Tokyo,
+8243,NBC,
+8244,NTV,8.6
+8245,AT-X,
+8246,PBS,
+8247,Tokyo MX,8.2
+8248,Tokyo MX,
+8249,Tokyo MX,7.5
+8250,Fuji TV,8.1
+8251,Animax,
+8253,AT-X,
+8254,TV Kanagawa,7.3
+8255,TV Tokyo,6.8
+8256,WOWOW,8.4
+8257,Tokyo MX,
+8258,Fuji TV,7.8
+8259,TV Tokyo,
+8260,Chiba TV,
+8261,Fuji TV,5.8
+8262,Fuji TV,7.6
+8263,ABC,
+8264,ITV,
+8265,PBS,
+8266,ITV,
+8267,ITV,
+8268,BBC One,
+8269,BBC One,
+8270,Network 10,
+8271,Discovery Channel,
+8272,BBC One,
+8273,BBC One,
+8274,BBC One,
+8275,BBC Three,
+8276,Tokyo MX,7.3
+8277,Tokyo MX,
+8278,Chiba TV,
+8279,Tokyo MX,
+8280,Tokyo MX,
+8281,TV Tokyo,6.2
+8282,Tokyo MX,
+8283,AT-X,
+8284,NTV,
+8285,Tokyo MX,
+8286,KBS1,
+8287,Tokyo MX,8.3
+8288,TV Tokyo,
+8289,SBS,
+8290,TV Tokyo,
+8291,TV Asahi,
+8292,ТНТ,
+8293,Nickelodeon,
+8294,Fuji TV,
+8295,Channel 4,
+8296,KBS1,7.8
+8297,SBS,7.6
+8298,Paramount Network,
+8299,Discovery Family,
+8300,BBC Three,
+8301,Fuji TV,
+8302,SBS,
+8303,KBS2,
+8304,Das Erste,9.0
+8305,MBC,
+8306,Null,
+8307,CBS,
+8308,Antena 3,6.4
+8309,Showtime,
+8310,Інтер,
+8311,BBC One,
+8312,ТНТ,
+8313,ТНТ,
+8315,E4,
+8316,Null,
+8317,Cartoon Network,
+8318,Comedy Central,
+8319,SBS,
+8320,1+1,
+8321,KBS2,
+8322,СТБ,
+8323,Outdoor Channel,
+8324,Comedy Central,
+8325,SBS,
+8326,SBS,
+8327,ITV,
+8328,NPO 3,
+8329,tvN,
+8330,Animax,7.0
+8331,Animax,
+8332,SVT1,
+8333,NRK1,
+8334,FOX,
+8335,Arte,
+8336,СТС,
+8337,ТНТ,
+8338,Fearnet,
+8339,Null,
+8340,Syndication,
+8341,СТС,
+8342,Россия 1,
+8343,СТС,
+8344,ТНТ,
+8345,Chiba TV,8.2
+8346,The WB,
+8347,ITV2,
+8348,Первый канал,
+8349,1+1,
+8350,BBC Two,
+8351,ТНТ,
+8352,Fox Premium,
+8353,Starz,
+8354,Null,7.2
+8355,MBS,
+8356,Sky 1,8.6
+8358,NBC,6.5
+8359,Channel 4,
+8360,НЛО TV,
+8361,Fuji TV,
+8362,MTV2,7.0
+8363,TV Tokyo,
+8364,CTV,
+8365,Disney Channel,
+8366,Null,
+8367,UPN,
+8368,MTV,
+8369,CBC,
+8370,Disney XD,
+8371,Audience Network,
+8376,BBC One,7.1
+8379,ITV,
+8380,ITV,
+8381,Paramount Network,
+8382,Nickelodeon,
+8383,BBC One,
+8384,Las Estrellas,
+8385,TET,
+8386,ITV,7.7
+8387,Інтер,
+8388,BBC One,
+8389,Null,
+8390,Null,
+8391,BBC Two,
+8392,The CW,
+8393,Rede Globo,
+8394,Network 10,
+8395,TBS,
+8396,BBC Three,6.8
+8397,History,
+8398,Null,
+8399,BBC One,
+8400,ITV,7.7
+8401,CBeebies,
+8402,ABC,
+8403,СТС,
+8404,НТВ,
+8405,СТС,
+8406,СТС,
+8407,СТС,
+8408,СТС,
+8409,СТС,
+8410,СТС,
+8411,СТС,
+8412,СТС,
+8413,СТС,
+8414,СТС,
+8415,СТС,
+8416,NTV,
+8417,СТС,
+8418,СТС,
+8419,Duna TV,
+8420,ABC,
+8421,NBC,
+8422,CBS,
+8423,NBC,
+8424,ABC,
+8425,BBC One,
+8426,CBS,
+8427,ABC,
+8428,Null,
+8429,BBC One,
+8430,BBC Three,
+8431,Null,
+8432,Null,
+8433,BBC Red Button 1,
+8434,ITV,
+8435,Null,7.4
+8436,BBC One,
+8437,Lifetime,
+8438,Syndication,
+8439,ITV,
+8440,FOX,
+8441,Fearnet,
+8442,Animax,7.2
+8443,FOX News Channel,
+8444,1+1,
+8445,СТС,
+8446,ТНТ,
+8447,SBS,
+8448,ATV,
+8449,WOWOW,8.0
+8450,National Geographic Channel,
+8451,ТНТ,
+8452,Новий Канал,
+8453,Первый канал,
+8454,Chiba TV,
+8455,BBC One,
+8456,ITV,
+8457,Adult Swim,7.0
+8458,CBS,
+8459,BBC One,
+8460,ITV,
+8462,France 2,
+8463,Fuji TV,
+8464,1+1,
+8465,Null,
+8466,Null,
+8467,ITV,
+8468,PBS,
+8469,FOX,
+8470,tvN,
+8471,Nine Network,
+8472,Null,
+8473,BBC One,
+8474,BBC One,
+8475,CBS,
+8476,Teletoon,
+8477,2x2,
+8479,Animax,
+8480,Fuji TV,7.0
+8481,TV Tokyo,
+8482,MBS,
+8483,Fox Kids,
+8484,BET,
+8485,France 2,
+8486,NBC,
+8487,Cooking Channel,
+8488,PBS,
+8489,BBC One,
+8490,Comedy Central,
+8491,Oprah Winfrey Network,
+8493,CBS Sports Network,
+8494,Outdoor Channel,
+8495,Outdoor Channel,
+8496,MBC,
+8497,ORF 1,
+8498,ITV,
+8499,ITV,
+8500,ORF 1,
+8501,ORF 1,
+8502,ORF 1,
+8503,ORF 1,
+8504,Channel 4,
+8505,BBC One,
+8506,Null,
+8507,ITV,
+8508,ORF 1,
+8509,BBC One,
+8510,Yle TV2,
+8511,Sat.1,
+8512,Outdoor Channel,
+8513,Outdoor Channel,
+8514,Colors,
+8515,Canal Once,
+8516,ITV,
+8517,BBC One,8.0
+8518,ITV,
+8519,CBS,
+8520,Disney Channel,6.8
+8521,CBS,
+8522,FOX Türkiye,
+8524,TV Tokyo,8.8
+8525,REVOLT,
+8526,BBC Two,
+8527,Audience Network,
+8528,A&E,
+8529,REELZ,
+8530,REELZ,
+8532,National Geographic Channel,
+8533,Null,
+8534,BBC One,8.6
+8535,W Network,
+8536,Россия 1,
+8537,BBC One,
+8538,ITV,
+8539,ITV,
+8540,Channel 4,
+8541,Channel 4,6.0
+8542,Channel 5,6.3
+8543,BBC One,
+8544,BBC One,
+8545,BBC Two,
+8546,BBC Two,
+8547,ORF 1,
+8548,RTL Klub,
+8549,СТБ,
+8550,Discovery Channel,
+8551,Crime & Investigation,
+8552,Star World,
+8553,СТБ,
+8555,KBS2,8.0
+8556,MBC,
+8557,Null,7.6
+8558,ITV2,
+8559,ITV,
+8560,NBC,
+8561,VIER,
+8562,Channel 5,
+8563,CBS,
+8564,Null,
+8565,ABC,
+8566,ABC,
+8567,Discovery Channel,
+8569,ITV,
+8570,Null,
+8571,Nickelodeon,
+8572,PBS,
+8573,SBS,
+8574,ITV,
+8575,Null,
+8576,TLC,
+8577,Hallmark Channel,
+8578,Nickelodeon,
+8579,Інтер,
+8580,Первый канал,
+8581,СТС,
+8582,ITV,
+8583,RTL Klub,
+8584,Channel 5,
+8585,HGTV,
+8586,BBC One,
+8587,BBC One,
+8588,BBC One,
+8589,BBC Two,
+8590,BBC One,
+8591,ITV,
+8592,ITV,
+8593,Null,
+8595,ABC,
+8596,Arte,
+8597,Food Network,
+8598,Channel 4,
+8599,BBC Two,
+8600,Showtime,
+8601,Nickelodeon,
+8602,PBS,
+8603,National Geographic Channel,
+8604,BBC Two,
+8605,Disney Channel,7.2
+8606,BBC One,
+8607,Disney Channel,
+8608,Channel 4,
+8609,SBS,
+8610,SBS,
+8611,ITV,
+8612,ITV,
+8613,Univision,
+8614,KBS2,
+8615,Estrella TV,
+8616,Sky History,
+8617,ABC,
+8618,ITV,8.6
+8619,MBS,
+8620,BBC One,7.7
+8621,Investigation Discovery,
+8622,Nine Network,
+8623,A&E,
+8624,A&E,
+8625,Discovery Channel,
+8626,BBC One,
+8627,ITV,
+8628,ITV,
+8629,ITV,
+8630,SBS,
+8631,CBBC,
+8632,REELZ,
+8633,History,
+8634,KBS2,8.2
+8635,FOX,
+8636,Channel 4,
+8637,Россия 1,
+8638,HBO,
+8639,HBO,
+8640,BBC Two,
+8641,IRIB TV1,
+8642,BBC One,
+8643,France 2,
+8644,Інтер,
+8645,Nickelodeon,
+8646,Disney XD,
+8647,Null,
+8648,Null,
+8649,FXX,
+8650,Disney XD,
+8651,Lifetime,
+8652,ICI Radio-Canada Télé,
+8653,ICI Radio-Canada Télé,
+8654,TVA,
+8655,TVA,
+8656,DIY Network,
+8657,NFL Network,
+8658,NFL Network,
+8659,SEC Network,
+8660,ABC,
+8661,SEC Network,
+8662,SEC Network,
+8663,Starz,
+8664,CBS Sports Network,
+8665,Channel A,
+8666,Arte,7.7
+8667,Channel 5,
+8668,NPO 3,
+8669,BBC One,
+8670,BBC One,
+8671,BBC Two,
+8672,Sky 1,
+8673,Yesterday,
+8674,Tokyo MX,
+8675,Fuji TV,
+8676,Tokyo MX,
+8677,ITV,
+8678,ICI Radio-Canada Télé,
+8679,ICI Radio-Canada Télé,
+8680,TVA,
+8681,OCS City,
+8682,TVNZ 2,
+8683,TVNZ 2,
+8684,V,
+8685,TVA,
+8686,BBC Two,
+8687,Food Network,
+8688,ITV,
+8689,Yesterday,
+8690,TTV,
+8691,TV Tokyo,
+8692,BBC Two,
+8694,NBCSN,
+8695,BBC One,7.1
+8697,Channel 4,6.9
+8698,BBC Two,8.1
+8699,PBS,8.7
+8700,Gold,5.8
+8701,Null,7.9
+8702,Channel 4,8.0
+8704,France 2,
+8705,VTM,
+8706,Null,7.1
+8707,MTV,
+8709,Univision,
+8710,Null,7.2
+8711,Null,
+8712,MTV,
+8713,BBC One,
+8714,ITV,
+8715,ABC,
+8716,ABC,7.0
+8717,BBC One,
+8718,ITV,
+8719,ITV,
+8720,ABC,
+8721,CBS,7.5
+8722,BBC One,
+8723,BBC One,
+8724,VTM,
+8726,Cooking Channel,
+8727,PBS,
+8728,History,
+8729,CBS Sports Network,
+8730,ESPNEWS,
+8731,BBC One,
+8732,BBC Two,
+8733,ABC,7.2
+8734,ITV,
+8735,DIY Network,
+8736,ABC,
+8737,ITV,
+8738,ITV,
+8739,ITV,
+8740,BBC One,
+8741,BBC One,
+8742,BBC Three,
+8743,Channel 5,
+8744,BBC One,
+8745,ITV,
+8746,BBC One,
+8747,BBC One,
+8748,Sat.1,
+8749,Новий Канал,
+8750,TET,
+8751,Sat.1,
+8752,PBS,
+8753,ITV,
+8754,Zhejiang TV,
+8755,Первый канал,
+8756,SBS,
+8757,CBS,8.0
+8758,ITV,
+8759,ITV,
+8760,ITV,
+8761,ITV,
+8762,BBC One,
+8763,BBC One,
+8764,Sky Sports F1,
+8765,RTL,
+8766,Prva Srpska Televizija,
+8767,BBC One,
+8768,ITV,
+8769,Discovery Family,
+8770,Discovery Family,
+8771,ITV,
+8772,ITV,
+8773,RFD-TV,
+8774,DIY Network,
+8775,ESPN,
+8776,CBS,
+8777,FOX,
+8778,ESPN,
+8779,ABC,
+8780,ABC,
+8781,FOX,
+8782,ESPNU,
+8783,CBS,
+8784,Food Network,
+8785,TV Osaka,
+8786,jTBC,
+8787,ТВ-3,
+8788,jTBC,
+8789,jTBC,
+8790,History,
+8791,Null,
+8792,Null,
+8793,E!,6.8
+8797,TNT,7.6
+8798,Syfy,7.0
+8800,TNT,7.3
+8801,Channel 4,
+8802,RTL Klub,
+8803,HBO,
+8804,BBC One,
+8805,ITV,
+8806,ITV,
+8807,TBS,
+8808,ITV,
+8809,ITV,
+8810,ITV,
+8811,TV Tokyo,
+8812,ITV,
+8813,ITV,
+8814,ITV,
+8815,Null,
+8817,Null,7.6
+8818,ITV,
+8819,Channel 4,
+8820,TBS,
+8821,DIY Network,
+8822,CTV,
+8823,TV Asahi,
+8824,NBC,
+8825,Channel 4,
+8826,Logo TV,
+8827,TV Tokyo,
+8828,E!,
+8829,TV One,
+8830,CBS Reality,
+8831,TBN,
+8832,TBN,
+8833,ABC,
+8834,CBS,
+8835,NBC,
+8836,FOX,
+8837,CBS Sports Network,
+8838,ESPNU,
+8839,NBCSN,
+8840,Outdoor Channel,
+8841,Outdoor Channel,
+8842,Canal+,
+8843,ITV,
+8844,FOX,
+8845,Global,
+8846,CBS,
+8847,CBS,
+8848,CBS,
+8849,CBS,
+8850,Showtime,
+8851,CBS,
+8852,CTV,
+8853,Syndication,
+8854,CTV,
+8855,CTV,
+8856,FOX,
+8857,ITV,
+8858,ABC,
+8859,ABC,
+8860,RTÉ ONE,
+8862,BBC One,
+8863,CBS,
+8864,NBC,
+8865,Null,7.9
+8868,NBC,
+8870,TBS,7.0
+8873,NBC,7.3
+8876,BBC Two,
+8877,CBeebies,
+8878,BBC One,
+8879,National Geographic Channel,
+8880,BBC One,
+8881,BBC One,
+8882,BBC One,
+8883,BBC One,
+8884,SABC,
+8885,Las Estrellas,
+8886,ITV,
+8887,YTV,
+8888,CBBC,
+8889,NBCSN,
+8890,Outdoor Channel,
+8891,Outdoor Channel,
+8896,Hallmark Channel,
+8897,FreeForm,6.0
+8898,Null,7.7
+8899,NBCSN,
+8900,ESPN,
+8901,VIER,
+8902,Hallmark Channel,
+8903,BBC One,
+8904,NPO 3,
+8905,Null,
+8906,BBC Two,
+8907,Первый канал,
+8908,Первый канал,
+8909,S4C,
+8910,PBS,
+8911,Cartoon Network,
+8912,Домашний,
+8913,Disney Channel,
+8914,Disney Channel,
+8915,FOX,
+8916,ABC,
+8917,Chiba TV,
+8918,Animax,
+8919,Channel 4,
+8920,More4,
+8921,Россия 1,
+8922,Channel 4,
+8923,Golf Channel,
+8924,NBCSN,
+8925,Golf Channel,
+8926,National Geographic Channel,
+8928,ESPNU,
+8929,CBS Sports Network,
+8930,NBCSN,
+8931,NBCSN,
+8932,NBCSN,
+8933,The CW,
+8934,The CW,
+8935,NFL Network,
+8936,NFL Network,
+8937,NFL Network,
+8938,NFL Network,
+8939,NFL Network,
+8940,AXS TV,
+8941,REVOLT,
+8942,5STAR,
+8944,ITV2,
+8945,Channel 5,
+8946,ITV4,
+8947,ITV4,
+8948,ITV Be,
+8950,ITV4,
+8951,РЕН ТВ,
+8954,MTV,
+8955,Showtime,
+8956,Discovery Channel,
+8957,NPO 3,
+8958,ABC,
+8960,TV3,
+8961,CBeebies,
+8962,Syndication,
+8963,VH1,7.7
+8964,BBC One,
+8965,BBC One,
+8969,Starz,6.9
+8972,TV Tokyo,
+8973,BBC Two,
+8974,FOX,
+8975,Null,
+8976,Null,
+8977,BBC One,
+8978,FOX,
+8979,FOX,
+8980,TLC,5.8
+8981,Food Network,
+8982,Discovery Channel,
+8983,ESPN,
+8984,Travel Channel,
+8985,truTV,
+8986,SuperTV2,
+8987,TVNorge,
+8988,BBC Two,
+8990,BBC Two,5.4
+8996,Investigation Discovery,
+8997,Adult Swim,3.7
+8999,HBO,5.0
+9000,Discovery Channel,
+9001,Audience Network,
+9002,FOX,
+9003,HGTV,
+9004,National Geographic Channel,
+9005,Yes,
+9006,National Geographic WILD,
+9007,Oprah Winfrey Network,
+9008,ITV,
+9009,TNT,
+9010,National Geographic Channel,
+9011,TNT,
+9012,MTV,
+9013,DIY Network,
+9014,AXS TV,
+9015,Nickelodeon,
+9016,Animal Planet,
+9017,Lifetime,
+9018,France 2,
+9019,REELZ,
+9020,BOUNCE TV,
+9021,CTV,
+9022,NBC,
+9023,SVT1,
+9024,The CW,
+9025,History,
+9026,Oxygen,
+9027,Bravo,
+9028,History,
+9029,Lifetime,
+9030,Sundance TV,
+9031,VTM,
+9032,Teletoon,
+9033,ITV,
+9034,MTV,
+9035,Null,
+9036,1+1,
+9037,MTV,
+9038,ABC,
+9040,CBBC,
+9041,Sky 1,
+9042,TLC,
+9043,TLC,
+9044,Lifetime,
+9045,Showtime,
+9046,Net5,
+9047,AHC,
+9048,Sundance TV,
+9049,Discovery Channel,
+9050,WOWOW,7.5
+9051,BBC Two,
+9052,AXS TV,
+9053,Canvas,
+9054,Canvas,
+9055,Canvas,
+9056,Bloomberg TV,
+9057,CNBC,
+9058,Oxygen,
+9059,MSNBC,
+9060,CNBC World,
+9061,CNBC,
+9062,BBC Two Northern Ireland,
+9063,BBC One,7.3
+9064,CNBC,
+9065,MSNBC,4.7
+9066,FOX News Channel,3.4
+9067,VH1 Classic,
+9068,FOX News Channel,
+9069,FOX News Channel,
+9070,CNN,3.8
+9072,CNN,
+9073,CNN,
+9074,Syndication,
+9075,BBC Two,
+9076,CNBC,
+9077,FOX,3.5
+9078,Cooking Channel,
+9079,AXS TV,
+9080,USA Network,
+9081,Channel 4,
+9082,MotorTrend,
+9083,Cooking Channel,
+9084,Cooking Channel,
+9085,PBS,
+9086,TLC,
+9087,HGTV,
+9088,Lifetime,
+9089,Network 10,
+9090,TNT,
+9091,Style TV,
+9092,Telemundo,
+9093,AMC,
+9094,Speed TV,
+9095,SVT1,
+9096,Россия 1,
+9097,BBC Four,
+9098,NPO 1,
+9100,Sky 1,
+9101,FOX,
+9102,Sky 1,
+9103,ТНТ,
+9104,MBS,
+9105,CBS,
+9106,FOX,
+9107,A&E,
+9108,ABC,
+9109,ESPN,
+9110,Syfy,
+9111,CBS,
+9112,FreeForm,
+9113,E4,
+9114,ITV4,
+9115,Channel 4,
+9116,Lifetime,
+9117,BBC One,
+9118,Ovation,
+9119,FOX News Channel,
+9120,Bloomberg TV,
+9121,TV Land,
+9122,Seven Network,
+9123,BBC Four,
+9124,BBC Four,
+9125,ITV,
+9126,ITV,
+9127,BBC Three,
+9128,TV3,
+9129,BBC Two,
+9130,BBC One,
+9131,TV2,
+9132,BBC Four,
+9133,BBC Four,
+9134,BBC Four,
+9135,BBC Four,
+9136,Three,
+9137,Первый канал,
+9138,ITV,
+9139,Bindass,
+9140,Syfy,
+9141,RTP2,
+9142,Nicktoons,
+9143,Style TV,
+9144,Sky Atlantic,
+9145,Disney XD,
+9146,BBC One,
+9147,ABC,
+9148,Bravo,
+9149,BBC One,
+9150,BBC Two,
+9151,Lifetime,
+9152,ITV,
+9153,FreeForm,7.8
+9154,WOWOW,
+9155,YTV,
+9157,BBC One,
+9158,ITV,
+9159,ABC,
+9160,ABC,
+9161,NRK1,
+9162,Null,
+9163,H2,
+9165,FOX News Channel,3.5
+9166,Bloomberg TV,
+9167,CNN,
+9168,FOX News Channel,
+9169,FOX News Channel,
+9170,Sportsman Channel,
+9171,Channel 4,
+9172,Syndication,
+9173,Channel 4,
+9174,Dave,
+9175,REELZ,
+9176,BBC One,
+9177,BBC Four,
+9178,Syndication,
+9179,Challenge,
+9180,Syndication,
+9181,My5,
+9182,Challenge,
+9183,W,
+9184,W,
+9185,Dave,
+9186,Dave,
+9187,Dave,
+9188,PBS,
+9189,Pick,
+9190,MBS,
+9191,Gold,
+9192,BBC One Wales,
+9193,CBBC,
+9194,CBBC,
+9195,BBC One,
+9196,RTÉ ONE,
+9197,BBC Two,
+9198,REELZ,
+9199,BET,
+9200,Syndication,
+9201,Syndication,
+9202,A&E,
+9203,Channel 4,
+9204,BBC Two,
+9205,ITV,
+9206,NBC,
+9207,BET,
+9208,National Geographic WILD,
+9209,Outdoor Channel,
+9210,Outdoor Channel,
+9211,Outdoor Channel,
+9212,Outdoor Channel,
+9213,NBC,
+9214,NBC,
+9215,ESPN2,
+9216,Outdoor Channel,
+9217,Travel Channel,
+9218,ABC,
+9219,ITV,
+9220,Channel 5,
+9221,Das Erste,
+9222,ITV,
+9223,BBC One,
+9224,Channel 5,
+9225,A&E,
+9226,Seven Network,
+9227,Crime & Investigation,
+9228,Null,
+9229,OUTtv,
+9231,7mate,
+9232,Animax,
+9233,Network 10,
+9234,ABC,
+9235,Null,
+9236,Las Estrellas,
+9237,insp,
+9238,Animax,
+9239,TV Tokyo,
+9240,France 3,
+9241,НТВ,
+9242,СТС,
+9243,Cartoon Network,
+9244,MBS,
+9245,Null,
+9246,TLC,
+9247,truTV,
+9248,BBC One,
+9249,Syndication,
+9250,E!,
+9251,CBBC,
+9252,A&E,
+9253,Cartoon Network,
+9254,The CW,
+9255,NBC Universo,
+9256,Lifetime,
+9257,AT-X,
+9258,ITV,
+9261,AMC,
+9262,CBBC,
+9263,Discovery Channel,
+9264,Sundance TV,
+9265,BBC Two,
+9266,Quest,
+9267,BBC One,
+9268,CBS Reality,
+9269,Quest,
+9270,Quest,
+9271,BBC Two,
+9272,Null,
+9273,BBC One,
+9274,RTVE,
+9276,NBC,
+9277,Travel Channel,
+9278,FOX News Channel,
+9279,MotorTrend,
+9280,PBS,
+9281,Golf Channel,
+9282,MSNBC,
+9284,NBC,
+9285,Syfy,
+9286,MSNBC,
+9287,CNN,
+9288,CNN,3.0
+9290,BBC One,
+9291,BBC Two,
+9292,FOX News Channel,
+9293,NHK,
+9294,AT-X,
+9295,MBS,5.8
+9296,Null,
+9297,Null,7.5
+9298,BBC Two,
+9299,TVA,
+9300,Fuji TV,
+9301,НТВ,
+9302,Style TV,
+9303,MTV,
+9304,Lifetime,
+9305,Showtime,
+9306,A&E,
+9307,YTV,
+9308,VH1,
+9309,NPO 1,
+9310,HLN,
+9311,MSNBC,6.0
+9312,MSNBC,
+9314,Fox Sports 1,
+9315,The CW,7.1
+9316,ITV,
+9317,BBC One,
+9318,BBC One,
+9319,BBC One,
+9320,BBC One,
+9321,Lifetime,
+9322,Yesterday,
+9323,Channel 4,
+9324,Sky Arts,
+9325,Sky Arts,
+9326,Showtime,
+9327,MBC Every1,
+9328,Sky 1,
+9329,National Geographic Channel,7.8
+9330,NPO 3,
+9331,"fyi,",
+9332,CNN,
+9334,Россия 1,
+9335,Россия 1,
+9336,Sky Arts,
+9337,Sky History2,
+9338,Sky Arts,
+9339,NHK,
+9340,Discovery Channel,
+9341,TLC,
+9342,ABC,7.0
+9343,E!,
+9344,E!,
+9345,BET,
+9346,Oprah Winfrey Network,
+9347,nick@nite,
+9348,NBC,
+9349,Comedy Central,
+9350,PBS,
+9351,Bravo,
+9352,MTV2,
+9353,History,
+9354,Bravo,
+9355,London Live,
+9356,London Live,
+9357,London Live,
+9358,BBC Alba,
+9359,ESPN2,
+9360,Golf Channel,
+9361,SBS 6,
+9362,Golf Channel,
+9363,NBC,
+9364,CMT,
+9365,National Geographic Channel,
+9366,Nine Network,
+9367,ESPNU,
+9368,Bloomberg TV,
+9369,London Live,
+9370,London Live,
+9371,London Live,
+9372,London Live,
+9373,London Live,
+9374,London Live,
+9375,London Live,
+9376,London Live,
+9377,BBC Alba,
+9378,BBC Alba,
+9379,BBC Alba,
+9380,BBC Alba,
+9381,BBC Alba,
+9382,BBC Alba,
+9383,BBC Alba,
+9384,BBC Alba,
+9385,BBC Alba,
+9386,BBC Alba,
+9387,BBC Alba,
+9388,BBC Alba,
+9389,BBC Alba,
+9390,MTV,
+9392,Tokyo MX,
+9393,truTV,7.1
+9394,TNT,
+9396,Fuji TV,
+9397,Travel Channel,
+9398,TV3,
+9399,ITV,
+9400,ITV,
+9401,Nick Jr.,
+9402,ITV,
+9403,TV Kanagawa,
+9404,NPO 3,
+9405,Syndication,
+9406,TBS,
+9408,Discovery Channel,
+9409,TV Tokyo,7.5
+9410,History,7.9
+9411,BBC Three,
+9412,Null,7.2
+9413,YTV,
+9414,CBS Sports Network,
+9415,National Geographic Channel,
+9416,BBC Two,
+9417,Nickelodeon,
+9418,Lifetime,
+9419,Lifetime,
+9420,Lifetime,
+9421,VH1,
+9422,BBC America,
+9423,CMT,
+9424,KBS1,
+9425,KBS2,
+9426,KBS2,8.8
+9428,MBC,
+9433,Sky Witness,
+9434,MBC,7.0
+9437,MBC,
+9438,SBS,
+9439,SBS,
+9440,tvN,8.5
+9441,SBS,
+9443,jTBC,7.0
+9444,tvN,8.4
+9445,ITV,
+9446,Showcase TV,
+9447,Nine Network,
+9448,NPO 3,
+9449,UPN,
+9450,NBC,
+9451,TVA,
+9452,Channel 5,
+9453,BBC One,
+9455,Showcase TV,
+9456,Forces TV,
+9458,Forces TV,
+9459,Showcase TV,
+9460,Showcase TV,
+9461,Showcase TV,
+9462,Showcase TV,
+9463,Showcase TV,
+9464,Showcase TV,
+9465,Showcase TV,
+9466,Showcase TV,
+9467,Showcase TV,
+9468,Showcase TV,
+9470,Frontrunner,
+9471,NBCSN,
+9472,CBS,
+9473,CNN,1.0
+9474,ABC,
+9475,Syndication,
+9476,MBS,
+9477,BBC One,
+9478,СТБ,
+9479,Первый канал,
+9480,Первый канал,
+9481,YTV,
+9482,History,
+9483,PBS,
+9484,Channel 5,
+9485,Channel 5,
+9486,ITV,
+9487,TVP1,
+9488,TVP1,
+9489,TVP1,
+9490,BBC One,
+9491,ABC,
+9492,History,
+9493,ESPN2,
+9494,Pop,
+9495,NBCSN,
+9496,Network 10,
+9497,Nine Network,
+9498,Nine Network,
+9499,Seven Network,
+9500,CBeebies,
+9501,ITV,
+9502,Channel 5,
+9503,ESPN,
+9504,HGTV,
+9505,NBCSN,
+9506,E!,
+9507,Food Network,
+9508,AXS TV,
+9509,ITV,
+9510,BBC Two,
+9511,VIER,
+9512,Syndication,
+9513,ITV,
+9514,BBC One,
+9515,Discovery Channel,
+9516,Yle TV2,
+9517,Discovery Channel,
+9518,True4U,
+9519,ABC,
+9520,Network 10,
+9521,Nine Network,
+9522,Nine Network,
+9523,REELZ,
+9524,BBC One,
+9525,Network 10,
+9526,Seven Network,8.0
+9527,ABC,
+9528,NBCSN,
+9529,NBCSN,
+9530,ESPN,
+9531,E!,
+9532,CMT,
+9533,CBS Sports Network,
+9534,BBC Two,
+9535,Syndication,
+9536,CBS,
+9537,ITV,
+9538,FOX,
+9539,NBC,
+9540,TV Asahi,
+9541,BBC One,
+9542,Rede Globo,
+9543,Science,
+9544,National Geographic Channel,
+9545,NTV,
+9546,YTV,5.7
+9547,BBC Two,
+9548,ESPN2,
+9549,TV One,
+9550,BBC One,
+9551,CBeebies,
+9552,Nine Network,
+9553,National Geographic Channel,
+9554,National Geographic WILD,
+9555,Food Network,
+9556,ITV,
+9557,BBC One,
+9558,ITV,
+9559,BBC One,
+9560,ITV,
+9561,BBC One,
+9562,BBC One,
+9563,Food Network,5.8
+9564,NBC,
+9565,Discovery Channel,
+9566,ESPNEWS,
+9567,ESPN2,
+9568,Null,8.7
+9569,ITV,
+9570,BBC One,
+9571,Че (Перец) (ДТВ),
+9572,ITV,
+9573,Null,7.0
+9574,Channel 5,
+9575,Null,
+9576,Channel 3,
+9577,Bloomberg TV,
+9578,Investigation Discovery,
+9579,Седьмой канал,
+9580,ITV,
+9581,Null,
+9582,BBC One,
+9584,Showtime,
+9585,Syfy,
+9586,Discovery Channel,
+9587,Discovery Channel,
+9588,FreeForm,
+9589,TLC,
+9590,Null,
+9591,ITV,
+9592,A&E,
+9593,Cartoon Network,
+9594,TBS,
+9596,TLC,
+9597,National Geographic Channel,
+9598,BBC Three,
+9599,TV One,
+9601,Biography Channel,
+9602,Disney Channel,
+9603,BBC Two,
+9604,MTV,
+9605,CMT,
+9606,TVNZ 1,
+9607,BBC One,7.8
+9608,truTV,
+9609,CBBC,
+9610,MTV,
+9611,SBS,
+9612,CBS,
+9613,Seven Network,
+9614,TVNZ 2,
+9615,TV Land,
+9616,Network 10,
+9617,ITV,
+9618,Travel Channel,
+9620,History,
+9621,ITV,
+9622,BBC One,
+9623,CBS,
+9624,FOX,
+9625,Bravo,
+9626,TLC,
+9627,Null,
+9628,NBC,
+9629,ITV2,
+9630,BBC Two,
+9631,ABC,
+9632,NBC,
+9633,Fuji TV,
+9635,ITV,
+9636,Syndication,
+9637,Channel 4,
+9638,Paramount Network,
+9639,Channel 4,
+9640,Матч ТВ,
+9642,Oxygen,
+9648,Syfy,
+9649,TLC,
+9650,Sky 1,
+9651,Bravo,
+9652,Sky Atlantic,
+9653,Cartoon Network,
+9654,E!,
+9655,The CW,
+9656,The CW,
+9657,FXX,
+9658,PBS,
+9659,ABC,
+9660,CBS,
+9661,E!,
+9662,Al Jazeera America,
+9663,Al Jazeera America,
+9664,Rede Globo,
+9665,Univision,
+9666,Univision,
+9667,RTL2,
+9668,Las Estrellas,
+9669,Fuji TV,
+9670,Al Jazeera America,
+9671,HBO,
+9672,Polsat,
+9673,Polsat,
+9674,CTV,
+9675,Travel Channel,
+9676,Bravo,
+9677,Food Network,
+9678,Discovery Channel,
+9679,BBC Two,
+9680,HGTV,
+9681,BBC One,
+9682,BBC Two,
+9683,Showtime,
+9684,CBS,
+9685,RTL5,
+9686,ESPN2,
+9687,NBCSN,
+9688,Spektrum,
+9689,Spektrum,
+9690,Spektrum,
+9691,WOWOW,
+9693,Null,7.2
+9695,ITV,
+9696,BBC One,
+9697,Bloomberg TV,
+9698,NBC,
+9699,NBC,
+9700,CBS,
+9701,FOX,
+9702,CBS,
+9703,Disney Channel,
+9704,Cartoon Network,
+9705,Disney Channel,
+9706,TVN,
+9707,Disney Channel,
+9708,FOX,
+9709,NBC,
+9710,Syndication,
+9711,NBC,
+9713,Discovery Channel,
+9714,TVN,
+9715,ITV,
+9716,Lifetime,
+9717,E!,5.8
+9718,Lifetime,
+9719,We tv,
+9720,We tv,
+9721,СТС,
+9722,TV Tokyo,
+9723,BBC Two,
+9724,BBC One,
+9725,BBC One,
+9726,BBC One,
+9727,Channel 4,
+9728,BBC One,
+9729,Oxygen,
+9730,Travel Channel,
+9731,BBC One,
+9732,AMC,
+9733,Cartoon Network,7.0
+9734,National Geographic Channel,
+9735,BBC One,
+9736,E!,
+9737,Cartoon Network,
+9738,TV Tokyo,
+9739,The CW,
+9740,Fuji TV,
+9741,NBC,
+9742,MTV,
+9743,TVN,
+9744,Channel 4,
+9745,Slice,
+9746,ABC,
+9747,Tokyo MX,7.1
+9748,BBC One,
+9749,SBS,
+9750,Network 10,
+9751,Three,
+9752,Network 10,
+9753,SBS,
+9754,Seven Network,
+9755,City,
+9756,ITV,
+9757,Nine Network,
+9758,Network 10,
+9759,FOX Comedy,
+9760,Fox Sports 1,
+9761,Nine Network,
+9762,Channel 5,
+9763,Россия 1,
+9764,LifeStyle,
+9765,HISTORY,
+9766,LifeStyle Food,
+9767,Crime + Investigation,
+9769,BBC One,
+9770,BBC One,7.5
+9771,Oxygen,
+9772,HBO,6.8
+9773,BBC One,
+9774,National Geographic Channel,
+9777,BBC One,
+9778,BBC One,
+9779,BBC One,
+9780,VH1,
+9781,BBC One,
+9782,BBC One,
+9783,BBC One,
+9784,CBC,
+9785,Nine Network,
+9786,Network 10,
+9787,LifeStyle,
+9788,Network 10,
+9789,BBC One,
+9790,Crime + Investigation,
+9791,Nine Network,
+9792,Network 10,
+9793,Channel 4,
+9794,National Geographic Channel,
+9795,History,
+9796,NBC,4.0
+9797,Travel Channel,
+9798,TV One,
+9800,ABC,
+9801,ITV,
+9802,Toon Disney,
+9803,Disney Channel,6.8
+9804,CBS,
+9805,FOX,
+9806,The WB,
+9807,Syndication,
+9808,Syndication,
+9809,Syndication,
+9810,AMC,6.4
+9814,Discovery Channel,7.4
+9815,BBC Two,7.6
+9816,ITV,7.8
+9817,BBC Two,8.0
+9818,ITV,
+9819,ITV,7.9
+9820,ITV,
+9821,Channel 4,
+9822,ITV,7.0
+9823,ITV,8.1
+9824,ITV,
+9825,ITV2,
+9826,ITV,7.4
+9827,ITV,8.3
+9828,ITV,
+9829,CBS,
+9830,CBS,
+9831,RTL2,
+9832,Animal Planet,
+9833,Al Jazeera America,
+9834,Al Jazeera America,
+9835,HBO,
+9836,Crime + Investigation,
+9837,Channel 4,8.7
+9838,Syfy,
+9839,Network 10,
+9840,ITV,
+9841,SBS,
+9842,Travel Channel,
+9843,Channel 4,
+9844,National Geographic Channel,
+9845,Channel 4,
+9846,ABC,
+9847,LifeStyle,
+9848,Channel 4,
+9849,National Geographic Channel,
+9850,Channel 4,
+9851,ABC,
+9852,Channel 4,
+9853,Channel 4,
+9854,Channel 4,
+9855,Seven Network,
+9856,Channel 4,
+9857,City,
+9858,Slice,
+9859,CTV,
+9860,Food Network,
+9861,Discovery Channel,
+9862,Adult Swim,
+9863,HGTV,
+9864,Channel 4,
+9866,Channel 4,
+9867,Channel 4,
+9868,Channel 4,
+9869,Global,
+9870,CBC,
+9871,Food Network,
+9872,PBS,
+9873,Al Jazeera America,
+9874,TVN,
+9875,BBC One,
+9876,ABC ME,
+9877,Al Jazeera America,
+9878,Null,
+9879,ABC ME,
+9880,ABC,
+9881,ABC,
+9882,Al Jazeera America,
+9883,ESPN,
+9884,ESPNU,
+9885,ABC ME,
+9886,7TWO,
+9887,Null,
+9888,Null,
+9889,10 Bold,
+9890,Network 10,
+9891,ABC,
+9892,10 Peach,
+9893,C31,
+9894,Three,
+9895,TVNZ 2,
+9896,ABC,
+9897,NPO 1,
+9898,Channel 4,
+9899,CBS,
+9900,TV Asahi,
+9901,ITV,7.9
+9902,Nine Network,
+9903,Showcase,
+9904,Seven Network,
+9905,ABC,
+9906,Binge,
+9907,ABC,
+9908,Movie Extra,
+9909,TLC,
+9910,CBS,
+9911,REELZ,
+9912,Lifetime,
+9913,Syndication,
+9914,Syndication,
+9915,CBS,
+9916,TCM,
+9917,G4,
+9918,USA Network,
+9919,ABC,
+9920,Toon Disney,
+9921,Las Estrellas,
+9922,ABC,
+9923,MTV,
+9924,CNBC,
+9925,PBS,
+9926,CBS Sports Network,
+9927,TV Tokyo,
+9928,Quest,
+9929,BBC One,
+9930,TV Asahi,
+9931,Animal Planet,
+9932,CTV Sci-Fi Channel,
+9933,Nine Network,
+9934,ABC ME,
+9935,TVN,
+9936,ABC,
+9937,TVNZ 1,
+9938,Network 10,
+9939,Three,
+9940,Seven Network,
+9941,Матч ТВ,
+9942,Null,
+9943,NBC,
+9944,BBC One,
+9945,BBC One,
+9946,BBC One,
+9947,BBC One,
+9948,BBC One,
+9950,Teletoon,
+9951,MSNBC,
+9952,CBS,
+9953,CNN,
+9954,CNN,
+9955,FOX News Channel,
+9956,MSNBC,
+9957,CBS,
+9958,CBS,
+9959,CBS,
+9960,MSNBC,
+9961,CNN,
+9962,CNN,
+9963,CNN,
+9965,FOX News Channel,
+9966,FOX News Channel,
+9967,FOX News Channel,
+9968,FOX News Channel,
+9969,FOX News Channel,
+9970,Fox Business Network,
+9971,CBS Sports Network,
+9972,CBS Sports Network,
+9973,CBS,
+9974,FX,
+9975,BBC One,
+9976,Syndication,
+9977,CBS,7.8
+9979,CBS,
+9980,BBC One,
+9981,BBC One,
+9982,VTM,
+9983,BBC One,
+9986,BBC Two,
+9987,BBC Two,
+9988,BBC Two,8.4
+9989,BBC Four,
+9990,BBC Two,
+9991,BBC Red Button 1,
+9992,FOX,5.9
+9993,TNT,8.0
+9994,ABC,
+9995,BBC Two,
+9996,BBC Two,
+9997,BBC Two,
+9998,BBC Two,
+9999,VTM,
+10000,BBC Two,
+10001,BBC Two,
+10002,REELZ,
+10003,Null,
+10004,BBC One,
+10005,BBC One,
+10006,Cartoon Network,
+10007,Disney Channel,7.8
+10008,A&E,
+10009,ABC,
+10010,Oxygen,
+10011,FOX,
+10012,ABC,
+10013,NBC,
+10014,VH1,
+10015,A&E,
+10016,Discovery Channel,
+10017,BBC Two,
+10018,TVP2,
+10019,E!,
+10020,TBS,
+10021,Discovery Channel,
+10022,NPO 1,
+10023,CBS,
+10024,Lifetime Movies,
+10026,ABC,
+10027,NBC,
+10029,Discovery Channel,8.4
+10030,TLC,
+10031,truTV,
+10032,truTV,
+10033,BBC Two,
+10034,BBC Two,
+10035,Paramount Network,
+10036,Bravo,
+10037,Lifetime,
+10038,Null,5.9
+10039,PBS,
+10040,Bravo,5.1
+10041,The CW,
+10042,FOX,
+10043,NBC,
+10044,USA Network,
+10045,Ovation,
+10046,Epix,
+10047,ABC,
+10048,ITV,
+10049,BBC Two,
+10050,HBO,
+10051,NBC,
+10052,CBS,
+10053,CBS,
+10054,NBC,
+10055,GMM25,
+10056,Null,
+10057,SBS,
+10058,Fox Reality Channel,
+10059,FOX,
+10060,Null,6.3
+10061,Showtime,6.2
+10062,Bravo,
+10063,Oprah Winfrey Network,
+10064,Epix,
+10065,TNT,
+10066,CBS,
+10067,Pick,
+10068,TVN,
+10069,Fox Sports 1,
+10070,CBS,
+10071,Новий Канал,
+10072,NBC,
+10073,РЕН ТВ,
+10074,USA Network,
+10075,FOX News Channel,
+10076,TV Tokyo,
+10077,AT-X,
+10079,ABC,7.1
+10080,BBC Two,
+10081,BBC Two,
+10082,BBC Two,
+10083,BBC Two,
+10084,BBC Two,
+10085,TVN,
+10086,BBC Two,
+10087,BBC Two,
+10088,TVP1,
+10089,Comedy Central,
+10090,MTV,
+10091,BET,
+10092,CBS Sports Network,
+10093,FOX News Channel,
+10094,ESPN2,
+10095,HGTV,
+10096,MSNBC,
+10097,ITV,
+10098,ESPNU,
+10099,KBS2,
+10101,Oprah Winfrey Network,
+10102,FOX,
+10104,Cartoon Network,
+10105,Первый канал,
+10106,TV Asahi,
+10108,TVP1,
+10109,BBC Two,
+10110,ITV Be,
+10111,Channel 5,
+10112,ABC,
+10113,BBC One,
+10114,Sky Sports News,
+10115,VH1,
+10116,Logo TV,
+10117,FOX,
+10118,Disney XD,
+10119,één,
+10120,NBCSN,
+10121,NBCSN,
+10122,Outdoor Channel,
+10123,France 3,
+10124,NBC,
+10125,NBCSN,
+10126,ESPNU,
+10127,Pursuit Channel,
+10128,CBS Sports Network,
+10129,AHC,
+10130,NBCSN,
+10131,ITV2,
+10132,BBC Three,
+10133,BBC One,
+10134,BBC One,
+10135,BBC One,
+10136,BBC One,
+10137,BBC Two,
+10138,BBC Four,
+10140,BBC Four,
+10141,BBC Four,
+10142,BBC One,6.3
+10143,Universal HD,
+10144,ITV,
+10145,ITV,
+10146,ITV,
+10147,ITV,
+10148,ITV,
+10149,ITV,
+10150,ITV,
+10151,ITV,
+10152,ITV,
+10153,ITV,
+10154,ITV,
+10155,ITV,
+10156,BBC Two,
+10157,RTL5,
+10158,ITV,
+10159,ITV,
+10160,TVN,
+10161,ITV,
+10162,TVP2,
+10163,truTV,
+10164,ITV,
+10165,ITV,
+10166,ITV,
+10169,Disney Channel,
+10170,Discovery Channel,
+10171,NTV,
+10172,ABC,
+10173,CBS,
+10174,ITV,
+10175,CBS,
+10176,NBC,
+10177,ESPN2,
+10178,ESPNU,
+10179,ESPN,
+10180,Fox Business Network,
+10181,Fox Business Network,
+10182,Fox Business Network,
+10183,FOX News Channel,
+10184,Fox Business Network,
+10185,Fox Business Network,
+10186,ESPN2,
+10187,ESPN,
+10188,ABC,
+10189,ESPN,
+10190,CBS Sports Network,
+10191,ESPN,
+10192,ESPN,
+10193,ESPN,
+10194,ESPN,
+10195,ESPN,
+10196,ESPN,
+10197,ITV,
+10198,ITV4,
+10199,VTM,
+10200,Channel 4,
+10201,één,
+10202,Channel 4,
+10203,één,
+10206,Channel 4,
+10207,VIER,
+10209,Channel 4,
+10210,Channel 4,
+10211,Channel 4,
+10212,Channel 4,
+10213,TV Tokyo,
+10214,VIER,
+10215,Disney Junior,
+10216,VIER,
+10217,Nickelodeon,
+10218,BOUNCE TV,
+10219,PBS,
+10220,Syndication,
+10221,Create,
+10222,DIY Network,
+10223,Investigation Discovery,
+10224,BBC Three,
+10225,Investigation Discovery,7.8
+10226,CNN,
+10227,VH1,
+10228,ION Television,
+10229,TV One,
+10230,Discovery Channel,
+10231,DIY Network,
+10232,DIY Network,
+10233,DIY Network,
+10234,DIY Network,
+10235,DIY Network,
+10236,TV Tokyo,
+10237,BBC Two,
+10238,Nine Network,
+10239,NBC,
+10240,CBS,
+10241,Первый канал,
+10242,ITV,
+10243,Channel 4,
+10244,Channel 4,
+10245,Channel 4,
+10247,Channel 4,
+10248,Channel 4,
+10249,Channel 4,
+10250,Channel 4,
+10251,Channel 4,
+10252,Channel 4,
+10253,Channel 4,
+10254,Channel 4,
+10255,E4,
+10256,More4,
+10257,Channel 4,
+10258,5Select,
+10260,HGTV,
+10261,HGTV,
+10262,HGTV,
+10263,Syndication,
+10264,DIY Network,
+10265,VH1 Classic,
+10266,VH1 Classic,
+10267,NFL Network,
+10268,ESPN,
+10269,ESPN,
+10270,W Network,
+10271,HGTV,
+10272,Palladia,
+10273,W Network,
+10274,W Network,
+10275,ESPN2,
+10276,Discovery Life,
+10277,Discovery Channel,
+10278,Quest,
+10279,Discovery Channel,
+10280,Destination America,
+10281,Channel 4,
+10282,één,
+10283,CBC,
+10284,ТВ Центр,
+10285,ТНТ,
+10286,НТВ,
+10287,BBC One,
+10290,France 4,
+10291,Fuji TV,
+10292,NTV,
+10293,E!,
+10294,Syfy,
+10295,Syfy,
+10296,NBC,
+10297,CBS,
+10298,NBC,
+10299,ABC,
+10300,The CW,
+10301,FOX,
+10302,BBC One,
+10303,BBC One,
+10304,Tokyo MX,
+10305,Fuji TV,
+10306,Nine Network,
+10307,Network 10,
+10308,KBS2,
+10309,BBC Three,
+10310,RTL Klub,
+10312,ITV,
+10313,TVP1,
+10314,BBC One,
+10315,ITV,
+10316,ITV,
+10317,BBC One,
+10318,VIER,
+10319,VIER,
+10320,VIER,
+10321,Channel 5,
+10322,Channel 5,
+10323,Channel 5,
+10324,Channel 5,
+10325,Channel 5,
+10326,Channel 5,
+10327,Channel 5,
+10328,Channel 5,
+10329,Channel 5,
+10330,Channel 5,
+10331,Channel 5,
+10332,Channel 5,
+10333,Channel 5,
+10334,Channel 5,
+10335,Channel 5,
+10336,Channel 5,
+10337,Channel 5,
+10338,Channel 5,
+10339,Channel 5,
+10340,Channel 5,
+10341,5Spike,
+10342,5STAR,
+10343,Nick Jr.,
+10344,VTM,
+10345,VTM,
+10346,VTM,
+10347,VTM,
+10348,VTM,
+10349,VTM,
+10350,VTM,
+10351,REELZ,
+10352,Disney XD,
+10353,ESPN,
+10354,TBN,
+10355,World,
+10356,Nick Jr.,
+10357,CBS Sports Network,
+10358,WOWOW,
+10359,ORF 1,
+10360,WOWOW,
+10361,TV Kanagawa,
+10362,TV Asahi,
+10363,Ríkisútvarpið,8.2
+10364,GTH on Air,
+10365,VIER,
+10366,WOWOW,
+10367,NPO 2,
+10368,NHK,
+10369,MTV,
+10370,Tokyo MX,7.0
+10371,VIER,
+10372,Sky 1,
+10375,Dave,
+10377,London Live,
+10378,London Live,
+10379,London Live,
+10380,London Live,
+10381,London Live,
+10382,BBC Alba,
+10383,BBC Alba,
+10384,BBC Alba,
+10385,BBC Alba,
+10386,BBC Alba,
+10387,MAVTV,
+10388,MTV2,
+10389,Syndication,
+10390,FOX News Channel,
+10391,FOX News Channel,
+10392,FOX News Channel,
+10393,CNN,
+10394,MSG,
+10395,CBS Sports Network,
+10396,ESPN,
+10397,ESPN,
+10398,MAVTV,
+10399,Biography Channel,
+10401,FOX,
+10402,Syndication,
+10403,Syndication,
+10404,Syfy,
+10405,TBS,
+10406,Syndication,
+10407,NFL Network,
+10408,ESPN2,
+10409,één,
+10410,één,
+10411,VIER,
+10412,FreeForm,
+10413,VIER,
+10414,NBC,
+10415,één,
+10416,Null,
+10417,Null,
+10418,BBC Two,
+10419,Null,
+10420,Null,8.0
+10421,Null,
+10422,BBC One,
+10423,Discovery Channel,
+10424,Channel 5,
+10425,Canvas,
+10426,BBC One,
+10427,MBC,
+10428,BBC One,
+10429,ITV,
+10430,ITV,
+10431,Canvas,
+10432,Pay-Per-View,
+10433,Null,
+10434,Null,
+10436,CBS,
+10437,ESPN,
+10438,ESPN,
+10439,ESPN2,
+10440,FOX,
+10441,Syndication,
+10442,ESPN,
+10443,ESPN2,
+10444,ESPN,
+10445,Seven Network,
+10446,ABC,
+10447,ABC,
+10448,BBC Two,
+10449,Seven Network,
+10450,BBC One,
+10451,Null,6.9
+10452,Discovery Channel,
+10453,BBC One,
+10454,VH1,
+10455,ITV,
+10456,TLC,
+10457,CBC,
+10458,Первый канал,
+10459,НТВ,
+10460,NBC,7.8
+10461,BBC Two,
+10462,Tokyo MX,
+10463,WOWOW,
+10464,ITV,
+10466,BBC Four,
+10467,Null,
+10468,BBC One,
+10470,TLC,
+10471,O'live,
+10472,France 2,
+10473,Prime,
+10474,Nine Network,
+10475,ABC,
+10476,Oxygen,
+10477,VH1,
+10478,NBC,
+10479,ABC,
+10480,BBC Two,
+10481,Das Erste,
+10482,ABC,
+10483,Movie Extra,
+10484,FOX8,
+10485,SBS,
+10486,Univision,
+10487,Food Network,
+10488,BBC Two,
+10489,Animax,
+10490,SBS,
+10491,Network 10,
+10492,YTV,
+10493,Nine Network,
+10494,The WB,
+10496,Fox Sports 1,
+10498,Univision,
+10499,Univision,
+10500,ESPN,
+10501,Tokyo MX,
+10502,Tokyo MX,
+10503,Tokyo MX,
+10504,BBC Four,
+10505,Network 10,
+10506,TV Tokyo,
+10507,Channel 4,
+10508,BBC Two,
+10509,Channel 4,
+10510,Channel 4,
+10511,CBeebies,
+10512,CBeebies,
+10513,TBS,
+10514,WOWOW,
+10515,NPO 3,
+10516,TVE,
+10517,TVE,
+10518,BBC Two,
+10519,BBC Two,
+10520,CNBC Europe,
+10521,Discovery Family,
+10522,KCTV,
+10523,TBS,
+10524,TV Tokyo,
+10525,MBS,7.3
+10526,Channel 5,
+10527,Україна,
+10528,BBC One,
+10529,BBC News,
+10530,BBC News,
+10531,Smithsonian Channel,
+10532,TV Tokyo,
+10533,BBC Alba,
+10534,BBC Alba,
+10535,BBC Alba,
+10536,BBC Alba,
+10537,BBC Alba,
+10538,BBC Alba,
+10539,BBC Alba,
+10540,BBC Alba,
+10541,BBC Alba,
+10542,Null,
+10543,Null,
+10544,Null,
+10545,Null,
+10546,Null,
+10547,Null,
+10548,Null,
+10549,Null,
+10550,Null,
+10551,Null,
+10552,Null,
+10553,Null,
+10554,Null,
+10555,Null,
+10556,History,
+10557,Null,
+10558,History,
+10559,History,
+10560,truTV,
+10561,truTV,
+10562,CNBC,
+10563,PBS,
+10564,PBS,
+10565,Frontrunner,
+10566,YourTV,
+10567,Null,
+10569,BBC One,
+10570,BBC One,
+10571,BBC One,
+10572,BBC One,
+10573,één,
+10574,Null,
+10575,Cartoon Network,
+10576,ABC,
+10577,Telefe,
+10578,Telecinco,
+10579,Antena 3,
+10580,ABC,
+10581,CNBC,
+10582,MBS,
+10583,CNBC,
+10584,CNBC,
+10585,CBC,
+10586,France 3,
+10587,M2,
+10588,M2,
+10589,CNBC,
+10590,CNBC,
+10591,BBC World News,
+10592,FOX News Channel,
+10593,Pivot,
+10594,CNBC Europe,
+10595,NBC,
+10596,CNBC,
+10597,CNBC,
+10598,Fox Business Network,
+10599,Fox Sports 1,
+10600,Pivot,
+10601,NBC,
+10602,NBC,
+10603,NBC,
+10604,ABC,
+10605,CBS,
+10606,CBS,
+10607,VH1,
+10608,CBC,
+10609,Teletoon,
+10610,Nicktoons,
+10611,Lifetime,
+10612,BBC Two,
+10613,truTV,
+10614,FOX,
+10615,AT-X,
+10616,BBC Two,
+10617,Новий Канал,
+10618,NPO 3,
+10619,VIER,
+10620,ZDF,
+10624,Chilevisión,
+10625,CBS,
+10626,ABC,
+10627,ABC,
+10628,Null,
+10629,Null,
+10630,Cartoon Network,
+10631,VH1,
+10632,NBC,
+10633,NBC,
+10634,NBC,
+10635,Syndication,
+10636,Food Network,
+10637,ABC,
+10638,ESPN,
+10639,PBS,
+10640,VH1,
+10641,CBS Sports Network,
+10642,DuMont Television Network,
+10643,DuMont Television Network,
+10644,TV3,
+10645,PBS,
+10646,RFD-TV,
+10647,HBO,
+10648,Investigation Discovery,
+10650,Kids Station,
+10651,ABC,
+10653,TVN,
+10654,TVP1,
+10655,Canvas,
+10656,Sky 1,
+10657,ABC,
+10658,ITV,
+10659,ITV,
+10660,BBC Four,
+10661,ABC,
+10662,FOX,
+10663,History,
+10664,Comedy Central,
+10665,Null,
+10666,NDR,
+10667,Null,
+10668,Sky 1,
+10669,ABC,
+10670,TVNZ 1,
+10671,ITV,
+10672,HGTV,
+10673,FreeForm,
+10674,Nickelodeon,
+10675,Paramount Network,
+10676,Bravo,
+10677,Bravo,
+10678,FreeForm,
+10679,Channel 4,
+10680,TV Tokyo,
+10681,Tokyo MX,
+10682,TV Tokyo,
+10683,TBS,6.7
+10684,France 2,
+10685,TV Tokyo,
+10686,Fuji TV,
+10687,Звезда,
+10688,Audience Network,
+10689,SIC Mulher,
+10691,Syndication,
+10692,BBC One,
+10693,ITV,
+10694,BBC One,
+10695,BBC Two,
+10696,OLN,
+10697,Null,
+10698,BBC Two,
+10699,BBC Two,
+10700,BBC Two,
+10701,ITV,
+10702,ITV,
+10703,ITV,
+10704,ITV,
+10705,OCS Max,
+10706,Null,
+10707,Animax,
+10708,TV Tokyo,
+10709,TV Tokyo,
+10710,TV Tokyo,
+10711,NHK,
+10712,TBS,
+10713,TV Tokyo,
+10714,TV Tokyo,
+10715,Первый канал,
+10716,Null,
+10717,RTL4,
+10718,Das Erste,
+10719,TF1,
+10720,CBS,
+10721,PBS,
+10722,Network 10,
+10723,Tokyo MX,
+10724,Syndication,
+10725,Tokyo MX,
+10726,Tokyo MX,
+10727,BBC Two,
+10728,Tokyo MX,
+10729,ABC,
+10730,ITV2,
+10731,ZDF,
+10732,Travel Channel,
+10733,DFF,
+10734,CBS,
+10735,Sky 1,
+10736,Discovery Channel,
+10737,ITV London,
+10738,Tokyo MX,
+10739,AT-X,
+10740,Tokyo MX,
+10741,Tokyo MX,
+10742,Tokyo MX,
+10743,TF1,
+10744,NTV,
+10745,Tokyo MX,
+10746,Discovery Real Time,
+10747,Sky 1,
+10748,BBC One,
+10749,ITV,
+10750,Syndication,
+10751,ITV,
+10752,ITV,
+10753,Discovery Channel,
+10754,DFF,
+10755,TVB,
+10756,TVB,
+10757,Das Erste,
+10758,ITV,
+10759,TV Tokyo,
+10760,Kids Station,
+10761,Tokyo MX,
+10762,Tokyo MX,
+10763,Tokyo MX,7.6
+10764,Tokyo MX,
+10765,TV Tokyo,
+10767,Tokyo MX,
+10768,Mnet,
+10769,Tokyo MX,
+10770,TBS,
+10771,Tokyo MX,
+10772,Tokyo MX,7.7
+10773,Fuji TV,8.1
+10774,Tokyo MX,
+10775,TV Tokyo,
+10776,Tokyo MX,6.8
+10777,TBS,
+10778,Tokyo MX,
+10779,ABC,
+10780,Investigation Discovery,6.0
+10781,TLC,
+10782,ABC,
+10783,Univision,
+10784,НТВ,
+10785,AHC,
+10786,Tokyo MX,
+10787,TV Tokyo,
+10788,TVP2,
+10789,TV Tokyo,
+10790,Channel 4,
+10791,Telemundo,
+10792,Show TV,
+10793,CBS Sports Network,
+10794,CNN,
+10795,TV Tokyo,
+10796,Nine Network,
+10797,Network 10,
+10799,Network 10,
+10800,Discovery Channel,
+10801,Null,6.7
+10802,ABC Comedy,
+10803,E!,
+10804,ITV,8.5
+10805,More4,
+10806,Animal Planet,
+10807,BBC Two,
+10808,Null,
+10809,Tokyo MX,6.2
+10810,ZDF,
+10811,M2,
+10812,ТВ Центр,
+10813,CBS,
+10814,SBS,
+10815,MSNBC,
+10816,CNN,
+10817,CNN,
+10818,ICI Radio-Canada Télé,
+10819,M2,
+10820,Rede Globo,
+10821,Null,
+10822,Null,8.5
+10824,Null,
+10826,ABC,6.0
+10827,M2,
+10828,FOX News Channel,
+10829,NBCSN,
+10830,Fuji TV,
+10831,KBS2,
+10832,tvN,
+10833,ESPN,
+10834,ESPN,
+10835,ESPN,
+10836,ESPN,
+10837,ESPN,
+10838,CBS,
+10839,ESPN,
+10840,ESPN,
+10841,ESPN,
+10842,ESPN,
+10843,Null,
+10844,TV Tokyo,
+10845,Null,
+10846,ESPN,
+10847,FOX,
+10848,TV Asahi,
+10850,Null,
+10851,FOX News Channel,
+10852,Univision,
+10853,CNN,
+10854,FOX News Channel,
+10855,Das Erste,
+10856,ITV,
+10857,BBC One,
+10858,BBC One,
+10859,CBC,
+10860,ITV,
+10861,BBC One,
+10862,TBN,
+10864,TBN,
+10865,ТВ Центр,
+10866,ITV,
+10867,BBC Two,
+10868,Null,
+10869,BBC One,
+10870,ITV,
+10871,ITV,
+10872,Hunan TV,
+10873,Fuji TV,
+10874,Sky PerfecTV,
+10875,CBS,
+10876,НТВ,
+10877,PTS,
+10878,Outdoor Channel,
+10879,TV Tokyo,
+10880,BBC Four,
+10881,BBC Two,
+10882,BBC One,
+10883,BBC Four,
+10884,ITV,
+10885,TBS,
+10886,Lifetime,
+10887,ITV,
+10888,BBC One,
+10889,BBC One,
+10890,The Weather Channel,
+10891,Outdoor Channel,
+10892,ЦТ СССР,7.2
+10893,Tokyo MX,
+10894,ITV,
+10895,ITV,
+10896,Oprah Winfrey Network,
+10897,Syndication,
+10898,BBC One London,
+10899,BBC One East,
+10900,Outdoor Channel,
+10901,BBC One East Midlands,
+10902,BBC North East and Cumbria,
+10903,BBC One North West,
+10904,BBC One West,
+10905,BBC One Midlands,
+10906,BBC One Yorkshire and Lincolnshire,
+10908,Discovery Channel,
+10909,BBC One South East,
+10911,NBC,
+10912,BBC One South West,
+10913,BBC One South,
+10914,M2,
+10915,HBO,7.3
+10917,BBC Two,
+10918,BBC Two,
+10919,ITV,
+10920,Tokyo MX,
+10921,BBC Two,
+10922,DR1,
+10923,AT-X,
+10924,BBC Four,
+10925,ABC,
+10926,ITV,
+10927,Kunskapskanalen,
+10928,BBC One,
+10929,BBC Two,
+10930,ITV,
+10931,BBC Two,
+10932,NPO 2,
+10933,ITV,
+10934,ITV,
+10935,BBC Two,
+10936,ITV London,
+10937,НТВ,
+10938,BBC Four,
+10939,ITV,
+10940,Россия 1,
+10941,BBC One,
+10942,BBC One,
+10943,Outdoor Channel,
+10944,BBC One,
+10945,Polsat,
+10946,Polsat,
+10947,ITV,
+10948,ITV,
+10949,NBC,
+10950,BBC One,
+10951,ITV,
+10952,ITV,
+10954,Channel 4,
+10955,E4,
+10956,Tokyo MX,
+10957,Channel 5,
+10958,Channel 5,
+10959,BBC One,
+10960,Bravo,
+10961,National Geographic Channel,
+10962,A&E,
+10963,Discovery Channel,
+10964,History,
+10965,ABC,
+10966,MTV,
+10967,BBC One,
+10968,Outdoor Channel,
+10969,Outdoor Channel,
+10970,USA Network,
+10971,BBC One,
+10972,BBC One,
+10973,Channel 4,
+10974,CBC,
+10975,HGTV,
+10976,HGTV,
+10977,DIY Network,
+10978,BBC Two,
+10979,ITV,
+10980,BBC Two,
+10981,BBC One,
+10982,NTV,
+10984,NBC,
+10985,ITV,
+10986,Null,
+10987,Family Channel,6.2
+10988,ЦТ СССР,
+10989,BBC Three,
+10990,FOX,
+10991,DR1,8.4
+10992,TVA,
+10993,BBC One,
+10994,ITV,
+10995,NBC,
+10996,BBC One,
+10997,National Geographic Channel,
+10998,Null,
+10999,één,
+11000,Первый канал,
+11001,WOWOW,
+11002,Syndication,
+11003,ITV,
+11004,Channel 4,
+11005,Россия 1,
+11006,Das Erste,
+11007,ABC,
+11009,BBC Two,
+11010,Outdoor Channel,
+11011,ABC,
+11012,ABC,
+11013,ESPN,
+11014,ESPN,
+11015,ESPN,
+11016,ESPN,
+11017,CNN,
+11018,BBC Three,
+11019,ITV,
+11020,BET,
+11021,FOX News Channel,
+11022,H2,
+11023,FOX News Channel,
+11024,Bravo,
+11025,BBC Scotland,8.8
+11026,BBC Two,
+11027,BBC Two,
+11028,BBC Two,
+11029,BBC Two,
+11030,BBC Two,
+11031,BBC Three,
+11032,Syndication,
+11033,ITV,
+11034,ITV,
+11035,BBC Two,
+11036,BBC Two,
+11038,ITV,
+11039,STV,
+11040,SBS,6.8
+11041,ITV,
+11042,ITV,
+11043,ITV,
+11044,BBC Two,
+11045,BBC Two,
+11046,BBC Two,
+11047,BBC Two,
+11048,BBC Two,
+11049,BBC Two,
+11050,BBC Two,
+11051,BBC Two,
+11052,HBO,
+11053,The Comedy Channel,
+11054,BBC America,
+11056,Null,
+11059,ZDF,
+11061,BBC Two,
+11062,TVP1,
+11063,BBC Two,
+11064,Channel 4,
+11065,Channel 4,
+11066,BBC One,
+11067,BBC Two,
+11068,BBC Two,
+11069,ITV,
+11070,ITV,
+11071,BBC One,
+11072,Channel 4,
+11073,ITV,
+11074,ITV,
+11075,BBC One,
+11076,ITV,
+11077,BBC Two,
+11078,BBC One,
+11079,BBC Two,
+11080,PBS,
+11082,MBS,
+11083,FOX News Channel,
+11084,Channel 4,
+11085,NBC,
+11087,DR1,8.3
+11089,ITV Be,
+11090,BBC One,
+11091,BBC One,
+11092,BBC Two,
+11093,STV,
+11094,Gold,
+11096,BBC Alba,
+11097,BBC Alba,
+11098,BBC Alba,
+11099,AMC UK,
+11100,ESPN,
+11101,ESPN,
+11102,ESPN,
+11103,ESPN,
+11104,Fox Sports 1,
+11105,BBC Two,
+11106,ITV,
+11107,Channel 5,
+11108,Syndication,
+11109,CBS Sports Network,
+11110,PBS,
+11111,BBC One,
+11112,BBC Two,
+11113,TVP2,
+11114,TVP1,
+11115,BBC One,
+11116,Food Network,
+11117,BBC One,
+11118,BBC Two,
+11119,Univision,
+11120,Outdoor Channel,
+11121,Outdoor Channel,
+11122,ITV,
+11123,HGTV,
+11124,National Geographic WILD,
+11126,НТВ,
+11127,Duna TV,
+11128,Дом Кино Премиум,
+11129,BBC One,
+11130,BBC Two,
+11131,BBC One,
+11132,BBC One,
+11133,BBC Two,
+11134,SVT1,
+11135,Outdoor Channel,
+11136,Outdoor Channel,
+11137,Duna TV,
+11138,History,
+11139,National Geographic WILD,
+11141,Univision,
+11142,Showcase TV,
+11143,ShowBiz,
+11144,ShowBiz,
+11145,ShowBiz,
+11146,Showcase TV,
+11147,ShowBiz,
+11148,Outdoor Channel,
+11149,Outdoor Channel,
+11150,Showcase TV,
+11151,ShowBiz,
+11152,ShowBiz,
+11153,ShowBiz,
+11154,Showcase TV,
+11155,Sony Movie Channel,
+11156,BBC One,
+11158,Channel 5,
+11159,BBC Four,
+11160,BBC One,
+11161,ITV,
+11162,ITV,
+11163,ITV,
+11164,ZDF,
+11165,BBC One,
+11166,ITV3,
+11167,HGTV,8.3
+11168,Great American Country,
+11169,Univision,
+11170,Channel 4,
+11171,Інтер,
+11172,Первый канал,
+11173,één,
+11174,The Movie Network,
+11175,BBC Three,
+11176,MBC,
+11177,Channel 2,7.4
+11178,The Movie Network,
+11179,Duna TV,
+11180,BBC One,
+11181,AT-X,
+11182,Tokyo MX,
+11183,Smithsonian Channel,
+11184,Cooking Channel,
+11185,NFL Network,
+11186,Universal HD,
+11187,Fuji TV,
+11188,VTM,
+11189,Travel Channel,
+11190,National Geographic Channel,
+11191,Sky Arts,
+11192,TLC,
+11193,Good Food,
+11194,Food Network,
+11195,TLC,
+11196,FOX,
+11197,ITV,
+11198,BET,
+11199,NBCSN,
+11200,TV Kanagawa,
+11201,Investigation Discovery,
+11202,Investigation Discovery,8.4
+11203,NBCSN,
+11204,Sky PerfecTV,
+11205,СТС,
+11206,BBC Four,
+11207,SBS,
+11208,CBC,
+11209,The CW,
+11210,tvN,
+11211,National Geographic Channel,
+11212,BBC One,
+11213,Destination America,
+11214,Fox Sports 1,
+11215,SET TV,
+11216,TTV,
+11217,FTV,
+11218,GTV,
+11219,Fuji TV,
+11220,CTS,
+11221,Lifetime,
+11222,Null,
+11223,ION Television,
+11224,TV Tokyo,
+11225,TBS,
+11226,Discovery Family,
+11227,NBC,
+11228,CBS,
+11229,TV Tokyo,4.8
+11230,Rai 1,
+11231,BBC One,
+11232,BBC Two,
+11233,BBC Two,
+11234,ABC,
+11235,SBS,
+11236,Canale 5,
+11237,Первый канал,
+11238,KBS2,
+11239,KBS1,
+11240,VIER,
+11241,VIER,
+11242,VIER,
+11245,VIER,
+11247,één,
+11248,TBN,
+11249,CBC,
+11250,Channel 4,
+11251,Channel 4,
+11252,CBBC,
+11253,CBBC,
+11254,CBBC,
+11255,Fox Sports 1,
+11256,MTV,
+11257,TBN,
+11258,Fox Sports 1,
+11259,Syndication,
+11260,BBC Two,
+11261,BBC One,
+11262,ТВ Центр,
+11263,ATV,
+11264,TBS,
+11265,Animal Planet,
+11266,Null,6.1
+11267,WOWOW,
+11268,Россия 1,
+11269,VTM,
+11270,CBC,
+11271,ITV,
+11272,Null,
+11273,AHC,
+11274,VTM,
+11275,CBBC,
+11276,CBBC,
+11278,VTM,
+11279,CBBC,
+11280,ITV,
+11281,ITV,
+11282,CBBC,
+11283,Россия 1,
+11284,Россия 1,
+11285,TBS,
+11286,Seven Network,
+11287,Discovery Channel,
+11288,SBS,
+11289,National Geographic Channel,
+11290,AT-X,
+11291,Fuji TV,
+11292,CBBC,
+11293,ЦТ СССР,7.6
+11294,Fuji TV,
+11295,Null,
+11296,CBBC,
+11297,CBBC,
+11298,CBBC,
+11299,Sky 1,
+11301,CBeebies,
+11302,ITV,
+11303,Channel 5,
+11304,MotorTrend,
+11305,Hallmark Movies & Mysteries,7.9
+11306,Channel 4,
+11307,Null,8.0
+11308,Fusion,
+11309,Rai 1,
+11310,TNT,
+11311,History,7.1
+11312,History,7.0
+11313,Первый канал,
+11314,Tokyo MX,
+11315,НТВ,
+11316,The WB,
+11317,France 3,
+11318,Null,
+11319,VIASAT3,
+11320,Duna TV,
+11321,ТВ-3,
+11322,Пятница,
+11323,Россия 1,
+11324,ТВ Центр,
+11325,Россия 1,
+11327,Animal Planet,
+11329,UPN,
+11330,ITV,
+11331,Channel 4,8.8
+11333,TBS,6.9
+11334,TV Land,6.8
+11335,NBC,6.0
+11337,National Geographic Channel,
+11338,IFC,
+11339,Golf Channel,
+11340,ESPN,
+11341,ТНТ,6.0
+11342,ITV,
+11343,BBC One,
+11344,ITV,
+11345,BBC One,
+11346,ITV,
+11347,PBS,
+11348,ESPN,
+11349,Showtime,
+11350,Bloomberg TV,
+11351,Null,
+11352,France 3,
+11353,RTL 2,
+11354,ABC,
+11355,Seven Network,
+11356,Oprah Winfrey Network,
+11357,BBC One,
+11358,Null,
+11360,One HD 31,
+11361,FOX,
+11362,HBO,
+11363,ITV2,7.4
+11364,SVT1,
+11365,НТВ,
+11366,НТВ,
+11367,BBC One,
+11368,RTL Klub,
+11369,RTL Klub,
+11370,TV Tokyo,
+11371,ITV,
+11372,СТС,
+11373,Россия 1,
+11374,Null,6.7
+11375,NBC,
+11376,CBeebies,
+11377,Channel 3,
+11378,Channel 7,
+11379,Disney Channel,
+11380,BBC One,
+11381,BBC Two,
+11382,BBC Two,
+11383,BBC Two,
+11384,BBC Four,
+11385,ITV,
+11386,AXS TV,
+11387,CNBC,
+11388,Me-TV,
+11389,Outdoor Channel,
+11390,Outdoor Channel,
+11392,Outdoor Channel,
+11393,Outdoor Channel,
+11394,CBS Sports Network,
+11395,Outdoor Channel,
+11396,Outdoor Channel,
+11397,HLN,
+11398,NBC,
+11399,"fyi,",
+11400,Null,7.0
+11401,AMC,7.9
+11402,BBC One,8.0
+11403,BBC One,
+11404,ITV,
+11405,BBC America,8.6
+11406,PBS,
+11407,NTV,
+11408,History,
+11409,Outdoor Channel,
+11411,CBeebies,
+11412,ICTV,
+11413,Cuatro,
+11414,Outdoor Channel,
+11415,Outdoor Channel,
+11416,Outdoor Channel,
+11417,A&E,
+11419,H2,
+11420,Outdoor Channel,
+11421,НТВ,
+11422,BBC One,
+11423,ITV,
+11425,Channel 5,
+11426,5STAR,
+11427,Animal Planet,
+11428,Channel 5,
+11429,Channel 5,
+11430,Canvas,
+11431,NPO 3,
+11432,BBC Two,
+11433,BBC One,
+11434,BBC Two,
+11435,CBC,
+11436,CNN,
+11437,ESPN,
+11438,Outdoor Channel,
+11439,BBC Three,
+11440,BBC Two,
+11441,BBC Two,
+11442,BBC One,
+11443,BBC Two,
+11444,BBC One,
+11445,Channel 4,
+11446,BBC Two,
+11447,ESPN,
+11448,CBS Sports Network,
+11449,NBCSN,
+11450,ESPNU,
+11451,Al Jazeera America,
+11452,Outdoor Channel,
+11453,FOX News Channel,
+11454,The Weather Channel,
+11455,ESPNU,
+11456,NBCSN,
+11457,CBC,
+11458,National Geographic Channel,
+11459,FreeForm,
+11460,BBC One,
+11461,Sky 1,
+11462,BBC Four,
+11463,PBS,
+11464,Null,
+11465,GMM25,
+11466,Null,
+11467,Syndication,6.0
+11468,Antena 3,
+11469,Россия 1,7.8
+11470,Telemundo,
+11471,CBBC,
+11472,RTL4,
+11473,BBC One,
+11474,КТК,
+11475,KCTV,
+11476,NRK1,7.8
+11477,Investigation Discovery,
+11478,Discovery Channel,
+11479,Science,
+11480,ESPN,
+11481,BBC One,
+11482,SBS,5.2
+11483,BBC One,
+11484,NBCSN,
+11487,Centric,
+11488,EBS,
+11491,ABC,
+11492,Showtime,7.1
+11493,Syndication,
+11494,La Sexta,
+11496,National Geographic Channel,
+11497,VTM,
+11498,BBC Two,
+11499,BBC One,
+11500,ITV,
+11501,ТВ-3,
+11502,TV 2,
+11503,Discovery Channel,
+11504,HBO,
+11505,Channel 5,
+11506,Пятый канал,
+11507,Channel 5,
+11508,BBC One,
+11509,FOX Türkiye,
+11510,Первый канал,
+11511,ABC,
+11512,Channel 7,
+11513,Channel 7,
+11514,Channel 7,
+11515,NBC,
+11516,ABC,
+11517,KBS2,
+11518,CBS,
+11519,Travel Channel,
+11520,UniMás,
+11523,Investigation Discovery,8.7
+11524,Travel Channel,
+11525,National Geographic Channel,
+11526,Golf Channel,
+11527,Nickelodeon,
+11529,TV4,
+11530,ITV,
+11531,ITV,
+11532,Sky 1,
+11533,CBS,
+11534,The CW,
+11535,The CW,
+11536,BBC Four,
+11537,ORF 2,
+11538,HBO,7.7
+11539,BBC Two,
+11540,NBC,
+11541,Das Erste,
+11542,ZDF,
+11543,ITV,
+11544,BBC Two,
+11546,BBC One,
+11547,Channel 4,
+11548,MBN,
+11549,Pop,6.4
+11550,NBC,
+11551,NBC,
+11553,ABC,7.7
+11555,ITV,
+11556,KBS2,
+11557,KBS2,
+11558,Telemundo,
+11559,RTL4,
+11560,AHC,
+11561,TV2,7.8
+11562,Telecinco,
+11563,National Geographic Channel,
+11564,Pivot,
+11568,НТВ,
+11569,REELZ,
+11570,BBC One,
+11571,AHC,
+11572,Paramount Network,
+11573,REELZ,
+11574,BBC One,
+11575,AHC,
+11576,Das Erste,
+11577,Россия 1,
+11578,Discovery Channel,
+11579,ESPNU,
+11580,AXS TV,
+11581,Pop,5.9
+11583,BBC One,
+11584,Россия 1,
+11585,BBC One,
+11586,BBC One,
+11587,BBC Two,
+11588,Network 10,
+11589,VTM,
+11590,Україна,
+11591,Україна,
+11592,Channel 5,
+11593,ABC,
+11594,NDR,
+11595,KBS2,
+11596,één,
+11597,UPN,
+11598,ITV London,
+11599,CBC,
+11600,Syfy,
+11602,Channel 4,
+11603,Channel 4,
+11604,Channel 4,
+11605,E4,
+11606,E4,
+11607,E4,
+11608,E4,
+11609,E4,
+11610,Channel 4,
+11611,Channel 5,
+11613,Channel 5,
+11614,Channel 5,
+11615,Channel 4,
+11616,één,
+11617,Sportsman Channel,
+11618,ESPN2,
+11619,Sportsman Channel,
+11620,Sportsman Channel,
+11621,НТВ,
+11622,Sportsman Channel,
+11623,Sportsman Channel,
+11624,НТВ,
+11625,RTL4,
+11626,RTL5,
+11627,ZDF,
+11628,Sportsman Channel,
+11629,Sportsman Channel,
+11630,Sportsman Channel,
+11631,Showtime Extreme,
+11632,Sportsman Channel,
+11633,Sportsman Channel,
+11634,Sportsman Channel,
+11635,Channel 4,6.7
+11636,SBS 6,
+11637,SBS 6,
+11638,Veronica,
+11639,НТВ,
+11640,NPO 1,
+11641,NBC,
+11642,NPO 3,
+11643,NPO 3,
+11644,NPO 3,
+11645,NPO 3,
+11646,SBS 6,
+11647,Syfy,
+11648,NPO 3,
+11649,Oprah Winfrey Network,6.9
+11650,Россия 1,
+11651,NPO 3,
+11652,Null,
+11653,NPO 1,
+11654,Інтер,
+11655,NPO 3,
+11656,NPO 1,
+11657,NPO 1,
+11658,TLC,
+11659,E4,6.3
+11660,NPO 3,
+11661,CBS,
+11662,NPO 1,
+11663,NPO 2,
+11665,NPO 1,
+11666,Sportsman Channel,
+11667,Sportsman Channel,
+11668,NPO 2,
+11669,Syfy,
+11670,Sportsman Channel,
+11671,Sportsman Channel,
+11672,ЦТ СССР,
+11673,Первый канал,
+11674,Channel 4,6.2
+11675,Veronica,
+11676,NPO 1,
+11677,Ketnet,
+11678,NPO 3,
+11679,Syndication,
+11680,Sportsman Channel,
+11681,Sportsman Channel,
+11682,Sportsman Channel,
+11683,Sportsman Channel,
+11684,Tokyo MX,
+11685,Nat Geo Wild,
+11686,Інтер,
+11687,BBC Two,
+11688,BBC One,
+11689,BBC One,
+11690,BBC Four,
+11691,Cooking Channel,
+11692,Travel Channel,
+11693,Null,
+11695,NPO 3,
+11696,SBS 6,
+11697,NPO 1,
+11698,NPO 2,
+11699,Sportsman Channel,
+11700,Sportsman Channel,
+11701,Sportsman Channel,
+11702,Sportsman Channel,
+11703,Net5,
+11704,NPO 3,
+11705,NPO 2,
+11706,ICTV,
+11707,Hallmark Movies & Mysteries,7.5
+11708,Sportsman Channel,
+11709,Sportsman Channel,
+11710,Sportsman Channel,
+11711,Sportsman Channel,
+11712,Sportsman Channel,
+11713,Sportsman Channel,
+11714,Sportsman Channel,
+11715,Sportsman Channel,
+11716,Sportsman Channel,
+11717,Sportsman Channel,
+11718,Sportsman Channel,
+11719,Sportsman Channel,
+11720,Sportsman Channel,
+11721,Sportsman Channel,
+11722,Sportsman Channel,
+11723,Sportsman Channel,
+11724,AXS TV,
+11726,Sportsman Channel,
+11727,Lifetime,
+11728,NBC,
+11729,NBCSN,
+11730,NPO 1,
+11731,RTL4,
+11732,NPO 1,
+11733,NPO 2,
+11734,Comedy Central,
+11735,NPO 1,
+11736,NPO 3,
+11737,NPO 3,
+11738,Net5,
+11739,NPO 2,
+11740,ABC,
+11741,Net5,
+11742,Sportsman Channel,
+11743,Sportsman Channel,
+11744,NPO 1,
+11745,Net5,
+11746,RTL4,
+11747,NPO 3,
+11748,NPO 2,
+11749,NPO 1,
+11750,NPO 2,
+11751,NPO 1,
+11752,NPO 1,
+11753,Null,
+11754,NPO 1,
+11755,NPO 1,
+11756,NPO 1,
+11757,NPO 3,
+11758,NPO 1,
+11759,NPO 1,
+11760,NPO 2,
+11761,RTL4,
+11762,BBC Two,
+11763,NPO 1,
+11764,Veronica,
+11765,Veronica,
+11766,NPO 2,
+11767,NBC,
+11768,NPO 1,
+11769,Showtime,
+11770,Syndication,
+11771,Lifetime,
+11772,NPO 2,
+11773,NPO 1,
+11774,NPO 1,
+11775,NPO 1,
+11776,NPO 3,
+11777,RTL4,
+11778,NPO 2,
+11779,BBC Two,
+11780,W,
+11781,W,
+11782,W,
+11783,Sportsman Channel,
+11784,BBC Two,
+11785,BBC One,
+11786,FOX,7.3
+11787,CTS,
+11788,Sportsman Channel,
+11789,Sportsman Channel,
+11790,Pursuit Channel,
+11791,Sportsman Channel,
+11792,Sportsman Channel,
+11793,Sportsman Channel,
+11794,Sportsman Channel,
+11795,Sportsman Channel,
+11796,Pursuit Channel,
+11797,Pursuit Channel,
+11798,Sportsman Channel,
+11799,Pursuit Channel,
+11800,CBS,
+11801,ITV,
+11802,ITV,
+11803,Channel 4,
+11804,Россия 1,
+11805,Channel 4,
+11806,КТК,
+11807,SVT1,
+11809,5Spike,
+11810,5STAR,
+11811,Channel 5,
+11812,5Spike,
+11813,NPO 3,
+11814,Первый канал,
+11815,NPO 3,
+11816,RTL4,
+11817,NPO 3,
+11818,NPO 3,
+11819,BBC One,
+11820,CNBC,
+11821,Null,4.3
+11822,BBC One,8.4
+11823,BBC One,6.5
+11824,Null,7.1
+11825,BBC One,6.9
+11827,BBC Two,5.9
+11828,BBC One,
+11829,BBC One,7.4
+11830,NBCSN,
+11831,Discovery Channel,
+11832,NPO 1,
+11833,BBC Four,
+11834,TRT1,
+11835,Destination America,
+11836,Destination America,
+11837,FOX News Channel,
+11838,Oxygen,
+11839,Cooking Channel,
+11840,Cooking Channel,
+11841,WOWOW,
+11842,NTS,
+11843,NPO 2,
+11844,NPO 1,
+11845,TVN,
+11846,NPO 3,
+11847,RTL4,
+11848,Net5,
+11849,NPO 3,
+11850,Current TV,
+11851,NPO 3,
+11852,NPO 1,
+11853,NPO 3,
+11854,AMC,
+11855,Food Network,
+11856,CBBC,
+11857,BBC One,8.0
+11858,BBC Four,
+11860,BBC One,
+11861,BBC One,7.3
+11862,Animax,
+11863,Channel 5,
+11864,MTV,
+11865,5Spike,
+11866,London Live,
+11867,MTV,
+11868,KCET,
+11869,Sportsman Channel,
+11870,Sportsman Channel,
+11871,Sportsman Channel,
+11872,Pursuit Channel,
+11873,Pursuit Channel,
+11874,Pursuit Channel,
+11875,Pursuit Channel,
+11876,Pursuit Channel,
+11877,Pursuit Channel,
+11878,Destination America,
+11879,Destination America,
+11880,Destination America,
+11881,Destination America,
+11882,Destination America,
+11883,CBS Sports Network,
+11884,Destination America,
+11885,Oxygen,4.3
+11886,Oxygen,
+11887,Cooking Channel,
+11888,A&E,
+11889,KCET,
+11890,CNBC,
+11891,Syndication,
+11892,BBC America,
+11893,Null,
+11894,BBC One Wales,
+11895,TVN,
+11896,Null,
+11897,Fuji TV,
+11898,MTV,
+11899,CBBC,
+11900,FUSE TV,
+11901,FOX,7.9
+11902,NPO 1,
+11903,NPO 1,
+11904,NPO 1,
+11906,ITV,
+11907,BBC Alba,
+11909,MTV,
+11910,Channel 4,8.1
+11911,Channel 4,7.2
+11914,ABC,
+11915,FOX Türkiye,
+11916,Cinemax,
+11917,Family Channel,
+11918,Null,
+11919,ITV,8.2
+11920,Null,
+11921,Null,
+11922,ITV,
+11923,Null,
+11924,Россия 1,
+11925,Null,
+11926,SET TV,
+11927,TTV,
+11928,CTV,
+11929,MBC,7.5
+11930,SBS,6.8
+11931,ITV,
+11932,BBC One,
+11933,BBC Two,
+11934,BBC One,
+11935,ITV,
+11936,ITV,
+11937,BBC Two,
+11938,BBC Two,
+11939,CBS,
+11940,BBC Three,
+11941,BET,
+11942,BET,
+11943,Cooking Channel,
+11944,ICTV,
+11946,Nicktoons,
+11948,BET,
+11949,BET,
+11950,A&E,
+11951,Universal Kids,
+11952,RTÉ ONE,
+11953,National Geographic Channel,
+11954,ABC,
+11955,TLC,
+11956,Sky Arts,
+11957,Lifetime Movies,
+11958,Nicktoons,
+11959,History,
+11960,Mnet,
+11961,Food Network,
+11962,Null,
+11963,BBC Alba,
+11964,BBC Alba,
+11965,BBC Alba,
+11967,CBS Reality,
+11968,ESPN,
+11969,Showcase TV,
+11970,Showcase TV,
+11971,Showcase TV,
+11972,Showcase TV,
+11973,Showcase TV,
+11974,Showcase TV,
+11975,Showcase TV,
+11976,Showcase TV,
+11977,Showcase TV,
+11978,Showcase TV,
+11979,Showcase TV,
+11980,Showcase TV,
+11981,Showcase TV,
+11982,Showcase TV,
+11983,Showcase TV,
+11984,Showcase TV,
+11985,Showcase TV,
+11986,Showcase TV,
+11987,Showcase TV,
+11988,Showcase TV,
+11989,Showcase TV,
+11990,BBC Red Button 1,
+11991,BBC Red Button 1,
+11992,ТВ Центр,
+11993,TLC,
+11994,TLC,
+11995,BBC Two,
+11996,ITV,
+11997,ITV2,
+11998,C31,
+11999,MBC,7.7
+12000,CTS,
+12001,BET,
+12002,HBO,
+12003,USA Network,7.5
+12004,AXS TV,
+12005,CBBC,
+12006,Null,
+12007,Null,
+12008,VIER,
+12009,VIER,
+12010,VIER,
+12011,VIER,
+12012,VIER,
+12013,VIER,
+12014,DIY Network,
+12015,AHC,7.5
+12016,FUSE TV,
+12017,MotorTrend,
+12018,BET,
+12019,Россия 1,
+12020,Investigation Discovery,
+12021,Quest Red,7.3
+12022,Null,
+12023,Rede Globo,
+12025,NPO 1,
+12026,NPO 2,
+12027,NPO 2,
+12028,NPO 2,
+12029,Syfy,
+12031,CNBC,
+12032,CNBC,
+12033,Comedy Central,6.4
+12034,FOX,
+12035,BYU Television,
+12036,Null,8.1
+12037,PBS,
+12039,Null,7.6
+12040,Comedy Central,
+12041,VIJF,
+12042,НТВ,
+12043,ZDF,
+12045,Antena 3,
+12046,Star TV,
+12047,ATV,
+12048,Channel 4,
+12049,Домашний,
+12050,Rai 2,
+12051,MotorTrend,
+12052,TV 2,
+12053,Null,
+12054,MotorTrend,
+12055,Channel 4,
+12056,BBC Two,
+12057,BBC Two,
+12058,Bravo,
+12059,Telecinco,
+12060,Null,
+12061,Null,
+12062,CBeebies,
+12063,Nick Jr.,
+12064,MotorTrend,
+12065,ZDF,
+12066,ITV,
+12068,Че (Перец) (ДТВ),
+12069,HBO,5.9
+12070,Universal Kids,
+12071,CBeebies,
+12072,Universal Kids,
+12073,Universal Kids,
+12074,Universal Kids,
+12075,één,
+12076,HGTV,
+12077,KiKa,
+12078,France 5,
+12079,Channel 5,
+12080,National Geographic Channel,
+12081,DIY Network,
+12082,Null,
+12083,Teletoon,
+12084,Universal Kids,
+12085,S4C,
+12086,TVO,
+12087,MLB Network,
+12088,MotorTrend,
+12089,NBCSN,
+12090,Universal Kids,
+12093,Sky History,
+12094,TMF,
+12095,BBC One,
+12096,BBC One,
+12097,CBeebies,
+12098,НТВ,
+12099,Network 10,
+12100,SBS,
+12101,Домашний,
+12102,TVN,
+12103,TV 2,
+12104,Fuji TV,
+12105,РЕН ТВ,
+12106,Channel 5,
+12107,Nick Jr. 2,
+12108,CBS,
+12109,Travel Channel,
+12111,NBC,7.2
+12112,CBS,7.3
+12114,CBS,6.6
+12117,Discovery Channel,7.5
+12118,TV4,
+12119,CBBC,
+12120,One HD 31,
+12121,TVP1,
+12122,RTS Un,
+12123,Discovery Channel,
+12124,A&E,8.2
+12125,ORTF,
+12126,Showtime,
+12127,CBeebies,
+12128,Cartoon Network,
+12129,MotorTrend,
+12130,NFL Network,
+12131,РЕН ТВ,
+12132,Channel 4,
+12133,ABC,
+12134,Qubo,
+12135,HGTV,7.5
+12136,NFL Network,
+12137,HGTV,
+12138,Fox Sports 1,
+12139,FOX,
+12140,Fox Sports 1,
+12141,ITV,
+12142,ITV,
+12143,ITV,
+12144,ITV,
+12145,BT Sport 1,
+12146,ABC,
+12147,OCN,
+12148,ABC,
+12149,Nolife,
+12150,MAX,
+12151,Syndication,
+12152,Syndication,
+12153,ABC,
+12154,ABC,
+12155,Travel Channel,
+12156,TVN,
+12157,Chiba TV,
+12158,Star TV,
+12159,FUSE TV,
+12160,ESPN,
+12161,Россия 1,
+12162,BBC Three,
+12163,Destination America,
+12164,M6,
+12165,NTV,
+12166,BBC One,
+12167,ITV,
+12168,BBC One,
+12169,Channel 4,
+12170,AT-X,
+12171,NPO 1,
+12172,Channel 5,
+12173,СТС,
+12174,Null,
+12175,ABC,
+12176,Nolife,
+12177,FOX,
+12178,A&E,
+12179,Fox Family,
+12180,The Weather Channel,
+12181,National Geographic Channel,
+12182,Science,
+12183,TVO,
+12184,Animal Planet,
+12185,Channel 4,
+12186,Univision,
+12187,BBC One,
+12188,BBC One,
+12189,Первый канал,
+12190,France 3,
+12191,Here TV,
+12192,Sky History,
+12193,"fyi,",
+12194,Первый канал,
+12195,СТС,
+12196,TG4,
+12197,Fox Family,
+12198,NTV,
+12199,Tokyo MX,
+12200,Fox Family,
+12201,National Geographic Channel,
+12202,Fox Family,
+12203,NTV,
+12204,TV Tokyo,
+12205,NHK,
+12206,YTV,
+12207,TV Tokyo,
+12208,NTV,
+12211,Syndication,
+12212,CBC,
+12213,Россия 1,
+12214,BBC Two,
+12215,НТВ,
+12216,SBS 6,
+12217,CBBC,
+12218,UPN,
+12219,Jetix,
+12220,CBeebies,
+12221,Null,
+12222,PBS,
+12223,RLTV,
+12224,Nickelodeon,
+12225,Outdoor Channel,
+12226,Science,
+12227,Cartoon Network,
+12228,BBC One,
+12229,Null,
+12230,Telemundo,
+12231,PBS,
+12232,Yesterday,
+12233,Travel Channel,
+12234,NBC,
+12235,PBS,
+12236,BBC Two,
+12237,Channel 4,
+12238,Channel 4,
+12239,BBC Two,
+12240,MTV,
+12241,REELZ,
+12242,BBC Two,
+12243,Channel 4,8.6
+12244,BBC One,
+12245,BBC Two,8.0
+12246,BBC Two,
+12247,Channel 4,
+12248,YTV,
+12249,TVE,
+12250,Seven Network,
+12251,BBC One,
+12252,Syndication,
+12253,CBC,
+12254,Esquire Network,
+12255,ITV,
+12256,Україна,
+12257,GMA,
+12258,Discovery Channel,
+12259,SVT1,
+12260,Null,
+12261,Venevisión,
+12262,Las Estrellas,
+12263,Las Estrellas,
+12264,Science,
+12265,PBS,
+12266,Audience Network,
+12267,TV Asahi,
+12268,Bandai Channel,
+12269,Cadenatres,
+12270,Azteca,
+12271,Unicable,
+12272,Telemundo,
+12273,Las Estrellas,
+12274,Россия 1,
+12275,Первый канал,
+12276,Las Estrellas,
+12277,América Televisión,
+12278,Caracol Televisión,
+12279,Antena 3,
+12280,Antena 3,
+12281,Telemundo,
+12282,MyNetworkTV,
+12283,Telefe,
+12284,Telemundo,
+12285,Telemundo,
+12286,Azteca,
+12287,Azteca,
+12288,"fyi,",
+12289,Null,
+12290,Science,
+12291,Fearnet,
+12292,Lifetime Movies,
+12293,Travel Channel,
+12294,FOX,
+12295,History,
+12296,The WB,
+12297,BET,
+12298,The WB,
+12299,The WB,
+12300,TBS,
+12301,ТНТ,
+12302,Showtime,
+12303,UPN,
+12305,Null,
+12306,ITV,
+12307,NBC,
+12308,TBS,
+12309,Fuji TV,7.8
+12310,TV Tokyo,7.7
+12311,Travel Channel,
+12312,Destination America,
+12315,Venevisión,
+12316,Sky Witness,
+12317,Destination America,
+12318,Travel Channel,
+12319,Mnet,
+12321,Las Estrellas,
+12322,Null,
+12323,Null,7.8
+12324,Россия 1,
+12325,BBC One,
+12326,Россия 1,
+12327,NBC,7.2
+12328,Null,6.7
+12330,Null,
+12331,Las Estrellas,
+12332,Azteca,
+12333,Disney Channel,
+12334,RCN Televisión,
+12335,WAPA-TV,
+12336,FOX,7.3
+12341,Viceland,8.1
+12342,UPN,
+12343,ZDF,
+12344,TV Tokyo,
+12345,Null,
+12346,National Geographic Channel,
+12347,TVP1,
+12348,NTV,7.6
+12349,СТС,
+12350,BBC Two,
+12351,National Geographic Channel,
+12352,National Geographic WILD,
+12353,Investigation Discovery,
+12354,"fyi,",
+12355,Zhejiang TV,
+12356,ITV,
+12357,TVB,
+12358,ITV,
+12359,CBeebies,
+12360,Canal+,
+12361,SRF 1,
+12362,ESPN,
+12363,ESPN,
+12364,BOUNCE TV,
+12365,TV One,
+12366,Slice,
+12367,ESPN2,
+12368,Disney Channel,
+12369,MLB Network,
+12370,Science,
+12371,National Geographic Channel,
+12372,Bravo,
+12373,Syndication,
+12374,CBS,7.3
+12375,TBS,
+12376,CBS,
+12377,NPO 2,
+12378,IFC,
+12379,Channel 3,
+12380,ZDF,
+12381,Hunan TV,
+12382,MBC,
+12388,ABC,6.4
+12390,OCN,7.4
+12391,OCN,
+12392,tvN,7.6
+12393,KBS2,
+12394,SBS,
+12395,MBC,8.0
+12396,SBS,
+12397,KBS2,
+12398,Viceland,
+12399,MSNBC,
+12400,BBC One,
+12401,MBC,7.8
+12402,Disney XD,7.2
+12403,The CW,7.2
+12404,C-SPAN,
+12405,Discovery Family,
+12406,CBS,5.2
+12408,NTV,
+12409,NHK,
+12410,Disney XD,
+12412,TBS,
+12413,NHK,
+12414,Fuji TV,
+12415,Fuji TV,
+12416,NHK,
+12417,Syndication,
+12418,TV Asahi,
+12419,WOWOW,
+12420,Fuji TV,
+12421,SBS,
+12422,Syndication,
+12423,SBS,
+12424,BBC One,
+12425,SBS,
+12426,National Geographic WILD,
+12427,Animal Planet,
+12428,OLN,
+12429,PBS,
+12430,Animal Planet,
+12431,TBS,
+12432,MBC,
+12433,TBS,
+12434,Fuji TV,
+12435,MBC,
+12436,KBS2,
+12437,TV Asahi,
+12438,WOWOW,
+12439,Disney Channel,
+12440,PBS Kids,
+12441,PBS,
+12442,PBS Kids,
+12443,Nick Jr.,
+12444,Cartoon Network,
+12445,PBS Kids,
+12446,PBS Kids,
+12447,Family Channel,
+12448,CBS,
+12449,Nickelodeon,6.5
+12450,Nickelodeon,6.8
+12451,NBC,
+12452,BBC Two,
+12453,Nick Jr.,
+12454,Nick Jr.,
+12455,Nicktoons,
+12456,Syndication,
+12457,CBS,
+12458,BET,
+12459,CBS,
+12460,NPO 3,
+12461,ION Television,
+12462,ITV,
+12463,ITV,
+12464,Current TV,
+12465,UPN,
+12466,1+1,
+12467,Sky 1,
+12468,Channel 4,
+12469,Discovery Family,
+12470,YTV,
+12471,BBC Two,
+12472,Channel 4,
+12473,TVB,
+12474,S4C,
+12475,CBC,
+12476,Ríkisútvarpið,
+12477,Czechoslovak Television,
+12478,Zhejiang TV,
+12479,SBS,
+12481,Channel 4,
+12482,КТК,
+12483,Challenge,
+12484,Comedy Central,
+12485,We tv,
+12486,Channel 4,
+12487,TVP2,
+12488,BBC One,
+12490,BBC One,
+12491,Destination America,
+12492,Disney XD,
+12493,Null,
+12494,ABC,
+12495,BBC Two,
+12496,TeenNick,
+12497,Fuji TV,
+12498,TBS,
+12499,SBS,7.8
