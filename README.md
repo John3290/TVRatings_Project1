@@ -12,9 +12,9 @@ In this project we are going to find the most significant ratings on TV. These s
 ----------------------------------------
 ## Research Q&A:
 
-The data used is from the TVmaze API. TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain tv information on the web. The API maintains information pertaining to all shows currently on air internationally. 
+TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain tv information on the web. The API maintains information pertaining to all shows currently on air internationally. 
 
-This data was used to research ratings that pertain to networks and shows. We also were interested in gender demographics. And lastly, we wanted to know what days of the week had the top ratings. 
+This data was used to research ratings that pertain to networks and shows. We were also interested in gender demographics. And lastly, we wanted to know what days of the week had the top ratings. 
 
 This type of data analysis would be useful for many reasons. Most networks are owned by large business conglomerates, which could dive into their networks’ ratings globally. This research could also be used by advertisers to have better informed pricing pertaining to days of the week, tv shows, and networks. TV Studios can apply the gender analysis to insure they are have equal representation of genders on air. 
 
