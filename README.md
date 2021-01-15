@@ -4,7 +4,7 @@ Clean and format datasets with Pandas
 Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per question you asked)
 
 
-Project Members: Katie Corrion, Chelsea Johnson, Kellie Mullan, Tirhas
+Project Members: Katie Corrion, Chelsea Johnson, Kellie Mullan, Tirhas Woldemrian
 
 
 In this project we are going to find the most significant ratings on TV. These such variables are the network, show, gender and schedule.
