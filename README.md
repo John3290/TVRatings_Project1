@@ -74,7 +74,7 @@ The top rated shows are:
 - Firefly
 
 
-2. The lowest rated shows are:
+The lowest rated shows are:
 - CNN Heroes
 - What Would You Do?
 - The View
@@ -103,9 +103,9 @@ The TVmaze API end point for shows was used to dig into this question. We had to
 
 
 
-The following are the dictionaries were used:
-Python
-Jupyter Notebook
-Pandas (for data analysis)
-Matplotlib (for visualization)
+The following are the dictionaries and tools used:
+- Python
+- Jupyter Notebook
+- Pandas (for data analysis)
+- Matplotlib (for visualization)
 
