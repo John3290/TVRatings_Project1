@@ -22,7 +22,7 @@ The following are the questions we wished to answer by leveraging the wonderful 
 
 ## Question #1 - Which TV Networks are top rated?
 
-In order to clean and format the data, we first had to import the TVmaze API, focusing on the “show” endpoint. The “show” endpoint contains a multitude of information about all the tv shows currently on air. For example, Name, Genre, Status, Runtime, Premier Date, Schedule, Rating, and Network. In order to get a sampling, we pulled the first 50 pages in the API and organized the data by “Networks”and “Ratings.”We then ran summary statistics on the Data Frame we created to find the mean ratings for each network. 
+In order to scrub the data to find the networks we first had to import the TVmaze API, focusing on the “show” endpoint. The “show” endpoint contains a multitude of information about all the tv shows currently on air. For example, Name, Genre, Status, Runtime, Premier Date, Schedule, Rating, and Network. In order to get a sampling, we pulled the first 50 pages in the API and organized the data by “Networks”and “Ratings.”We then ran summary statistics on the Data Frame we created to find the mean ratings for each network. 
 
 Through data analysis we found the top rated Networks were:
 - Star TV
